@@ -1,0 +1,24 @@
+[project]
+name = "capstone-software-engineering"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[project.scripts]
+collaboration = "collaboration.main:main"
+activities = "activities.main:main"
+code_analysis = "code_analysis.main:main"
+contributors = "contributors.main:main"
+design_and_architecture = "design_and_architecture.main:main"
+documentation_analysis = "documentation_analysis.main:main"
+project_overview = "project_overview.main:main"
+quality_attributes = "quality_attributes.main:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/collaboration", "src/activities", "src/code_analysis", "src/contributors", "src/design_and_architecture", "src/documentation_analysis", "src/project_overview", "src/quality_attributes"]
