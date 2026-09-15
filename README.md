@@ -43,3 +43,8 @@ If you need to add a library (e.g., `pandas`, `numpy`), use the built-in `uv add
 # For example:
 uv add pandas
 ```
+
+## Contributors
+- Miguel F. Lebrun Ceno (2111152)
+- Valērijs Višķers (2154765)
+- Hyunseung Jeon (2123355)
