@@ -1,1 +1,1 @@
-"""Collaboration package."""
+"""Quality Attributes package."""

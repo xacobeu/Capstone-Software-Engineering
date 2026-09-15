@@ -1,1 +1,1 @@
-"""Collaboration package."""
+"""Activities package."""

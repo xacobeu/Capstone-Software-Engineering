@@ -1,1 +1,1 @@
-"""Collaboration package."""
+"""Documentation Analysis package."""

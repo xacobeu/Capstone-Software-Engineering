@@ -1,1 +1,1 @@
-"""Collaboration package."""
+"""Code Analysis package."""

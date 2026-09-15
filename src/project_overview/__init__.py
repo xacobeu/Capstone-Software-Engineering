@@ -1,1 +1,1 @@
-"""Collaboration package."""
+"""Project Overview package."""

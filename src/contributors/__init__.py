@@ -1,1 +1,1 @@
-"""Collaboration package."""
+"""Contributors package."""
