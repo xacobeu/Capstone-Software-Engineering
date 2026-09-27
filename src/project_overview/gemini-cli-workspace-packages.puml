@@ -1,0 +1,47 @@
+@startuml
+!pragma layout smetana
+skinparam backgroundColor white
+skinparam defaultFontName SansSerif
+skinparam defaultFontSize 16
+skinparam ArrowFontSize 14
+skinparam packageFontSize 18
+skinparam componentStyle uml2
+skinparam shadowing false
+skinparam roundcorner 8
+skinparam nodesep 38
+skinparam ranksep 45
+skinparam Padding 10
+skinparam ArrowColor #334155
+skinparam packageBorderColor #64748B
+skinparam componentBorderColor #64748B
+skinparam componentBackgroundColor #FFFFFF
+skinparam noteBackgroundColor #FFF9E8
+skinparam noteBorderColor #CABD92
+skinparam legendBackgroundColor #F8FAFC
+skinparam legendBorderColor #CBD5E1
+skinparam dpi 170
+title Gemini CLI | Workspace package dependencies
+package "packages/cli/\nTerminal entry points" as CLI #EAF2FF
+package "packages/sdk/\nProgrammatic\nagent sessions" as SDK #EAF2FF
+package "packages/a2a-server/\nHTTP agent/task\ninterface" as A2A #EAF2FF
+package "packages/core/\nShared model and\ntool services" as Core #E8F5F0
+package "Test Utilities\npackages/test-utils/\nMocks, fixtures and\ntest harnesses" as Tests #F3EDFF
+package "packages/devtools/\nLog server and\nbrowser viewer" as Devtools #FFF4E5
+package "IDE Companion\npackages/vscode-ide-companion/\nEditor context and diff review" as IDE #FFF4E5
+SDK ..> Core : <<use>>
+A2A ..> Core : <<use>>
+CLI ..> Core : <<use>>
+CLI .[#8056AA].> Tests : <<test>>
+Core .[#8056AA].> Tests : <<test>>
+Tests ..> Core : <<use>>\nhelper imports
+CLI .[#C07820].> Devtools : <<dynamic import>>\noptional startup
+Devtools -[hidden]down-> IDE
+legend bottom left
+  Dashed open arrow: client depends on supplier.
+  <<use>>: package.json dependency + source import.
+  <<test>>: devDependency + test import (purple).
+  <<dynamic import>>: source import only (orange);
+  Devtools is not declared in CLI dependencies.
+  External npm packages omitted.
+endlegend
+@enduml
