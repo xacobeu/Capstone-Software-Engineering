@@ -1,0 +1,3345 @@
+{
+  "census_sizes": {
+    "prs": 12371,
+    "issues": 14175,
+    "human_prs": 11099,
+    "human_issues": 13951,
+    "human_participants": 8662
+  },
+  "bot_footprint": {
+    "bot_commits": 191,
+    "bot_prs": 1192,
+    "bot_issues": 164,
+    "deleted_author_prs": 80,
+    "deleted_author_issues": 60,
+    "total_prs": 12371,
+    "total_issues": 14175,
+    "bot_accounts_seen": [
+      "Manamama-Gemini-Cloud-AI-01",
+      "Peaceacebot",
+      "Silentbotbd",
+      "TheLazyRobot",
+      "aidaiprivate-source",
+      "alegonzaleztevez-bot",
+      "bushibot",
+      "citlyze-bot",
+      "danielcregg20",
+      "danowar2",
+      "dependabot",
+      "dependabot[bot]",
+      "filyanashwoodbu525-lgtm",
+      "flox-bot",
+      "fluffyrabbot",
+      "gemini-cli",
+      "gemini-cli-robot",
+      "gemini-cli[bot]",
+      "github-actions",
+      "google-admin",
+      "google-allstar-prod",
+      "howellbrett98-bot",
+      "p68175655-bot"
+    ]
+  },
+  "pct_with_more_than_one_action": 28.977141537751095,
+  "median_first_to_second_action_days": 1.2550925925925926,
+  "acceptance_by_association": {
+    "COLLABORATOR": {
+      "count": 80,
+      "acceptance_rate_pct": 80.0,
+      "median_ttfr_hrs": 0.9797222222222223
+    },
+    "CONTRIBUTOR": {
+      "count": 425,
+      "acceptance_rate_pct": 65.64705882352942,
+      "median_ttfr_hrs": 6.954722222222222
+    },
+    "MEMBER": {
+      "count": 21,
+      "acceptance_rate_pct": 66.66666666666666,
+      "median_ttfr_hrs": 1.552638888888889
+    },
+    "NONE": {
+      "count": 274,
+      "acceptance_rate_pct": 0.36496350364963503,
+      "median_ttfr_hrs": 106.30569444444444
+    }
+  },
+  "tier_phase_acceptance": {
+    "Frequent / Core": {
+      "Phase I (Jun\u2013Dec '25)": {
+        "n": 232,
+        "acceptance_rate_pct": 72.84482758620689
+      },
+      "Phase II (Jan\u2013Apr '26)": {
+        "n": 130,
+        "acceptance_rate_pct": 57.692307692307686
+      },
+      "Phase III (May\u2013Sep '26)": {
+        "n": 127,
+        "acceptance_rate_pct": 40.15748031496063
+      }
+    },
+    "Episodic Community": {
+      "Phase I (Jun\u2013Dec '25)": {
+        "n": 13,
+        "acceptance_rate_pct": 61.53846153846154
+      },
+      "Phase II (Jan\u2013Apr '26)": {
+        "n": 6,
+        "acceptance_rate_pct": 33.33333333333333
+      },
+      "Phase III (May\u2013Sep '26)": {
+        "n": 12,
+        "acceptance_rate_pct": 8.333333333333332
+      }
+    },
+    "Newcomer (\u2264 3 Actions)": {
+      "Phase I (Jun\u2013Dec '25)": {
+        "n": 105,
+        "acceptance_rate_pct": 31.428571428571427
+      },
+      "Phase II (Jan\u2013Apr '26)": {
+        "n": 64,
+        "acceptance_rate_pct": 14.0625
+      },
+      "Phase III (May\u2013Sep '26)": {
+        "n": 111,
+        "acceptance_rate_pct": 9.00900900900901
+      }
+    }
+  },
+  "size_bracket_acceptance": {
+    "bins": [
+      "XS (\u226410 LOC)",
+      "S (11\u201350)",
+      "M (51\u2013250)",
+      "L (251\u20131k)",
+      "XL (>1k LOC)"
+    ],
+    "frequent": [
+      56.57894736842105,
+      59.55056179775281,
+      63.04347826086957,
+      61.53846153846154,
+      52.77777777777778
+    ],
+    "others": [
+      28.57142857142857,
+      20.833333333333336,
+      16.666666666666664,
+      20.37037037037037,
+      12.5
+    ],
+    "newcomer_only": [
+      24.561403508771928,
+      19.11764705882353,
+      14.285714285714285,
+      20.0,
+      14.285714285714285
+    ]
+  },
+  "frequent_split_by_write_access": {
+    "write_access": {
+      "Phase I (Jun\u2013Dec '25)": {
+        "n": 60,
+        "acceptance_rate_pct": 85.0
+      },
+      "Phase II (Jan\u2013Apr '26)": {
+        "n": 34,
+        "acceptance_rate_pct": 64.70588235294117
+      },
+      "Phase III (May\u2013Sep '26)": {
+        "n": 4,
+        "acceptance_rate_pct": 75.0
+      }
+    },
+    "no_write_access": {
+      "Phase I (Jun\u2013Dec '25)": {
+        "n": 172,
+        "acceptance_rate_pct": 68.6046511627907
+      },
+      "Phase II (Jan\u2013Apr '26)": {
+        "n": 96,
+        "acceptance_rate_pct": 55.208333333333336
+      },
+      "Phase III (May\u2013Sep '26)": {
+        "n": 123,
+        "acceptance_rate_pct": 39.02439024390244
+      }
+    }
+  },
+  "ttfr_heatmap": {
+    "Frequent, merged": {
+      "2025-06": {
+        "n": 16,
+        "responded": 15,
+        "median_days": 0.009872685185185186
+      },
+      "2025-07": {
+        "n": 20,
+        "responded": 19,
+        "median_days": 0.23729166666666668
+      },
+      "2025-08": {
+        "n": 24,
+        "responded": 24,
+        "median_days": 0.04455439814814815
+      },
+      "2025-09": {
+        "n": 30,
+        "responded": 23,
+        "median_days": 0.03125
+      },
+      "2025-10": {
+        "n": 33,
+        "responded": 33,
+        "median_days": 0.07244212962962963
+      },
+      "2025-11": {
+        "n": 25,
+        "responded": 25,
+        "median_days": 0.086875
+      },
+      "2025-12": {
+        "n": 21,
+        "responded": 21,
+        "median_days": 0.5708449074074075
+      },
+      "2026-01": {
+        "n": 27,
+        "responded": 27,
+        "median_days": 0.18641203703703704
+      },
+      "2026-02": {
+        "n": 24,
+        "responded": 24,
+        "median_days": 0.061469907407407404
+      },
+      "2026-03": {
+        "n": 11,
+        "responded": 11,
+        "median_days": 0.6272916666666667
+      },
+      "2026-04": {
+        "n": 13,
+        "responded": 13,
+        "median_days": 0.025370370370370373
+      },
+      "2026-05": {
+        "n": 17,
+        "responded": 16,
+        "median_days": 0.06905671296296297
+      },
+      "2026-06": {
+        "n": 5,
+        "responded": 5,
+        "median_days": 0.00568287037037037
+      },
+      "2026-07": {
+        "n": 15,
+        "responded": 15,
+        "median_days": 2.800289351851852
+      },
+      "2026-08": {
+        "n": 6,
+        "responded": 6,
+        "median_days": 1.5120023148148147
+      },
+      "2026-09": {
+        "n": 8,
+        "responded": 8,
+        "median_days": 0.08407407407407408
+      }
+    },
+    "Frequent, not merged": {
+      "2025-06": {
+        "n": 3,
+        "responded": 1,
+        "median_days": 0.001736111111111111
+      },
+      "2025-07": {
+        "n": 5,
+        "responded": 3,
+        "median_days": 0.9495023148148148
+      },
+      "2025-08": {
+        "n": 15,
+        "responded": 9,
+        "median_days": 11.224965277777777
+      },
+      "2025-09": {
+        "n": 12,
+        "responded": 7,
+        "median_days": 0.9592592592592593
+      },
+      "2025-10": {
+        "n": 9,
+        "responded": 6,
+        "median_days": 0.42937499999999995
+      },
+      "2025-11": {
+        "n": 7,
+        "responded": 5,
+        "median_days": 1.8603935185185183
+      },
+      "2025-12": {
+        "n": 12,
+        "responded": 8,
+        "median_days": 24.22310763888889
+      },
+      "2026-01": {
+        "n": 9,
+        "responded": 1,
+        "median_days": 2.916770833333333
+      },
+      "2026-02": {
+        "n": 12,
+        "responded": 6,
+        "median_days": 1.2040046296296296
+      },
+      "2026-03": {
+        "n": 15,
+        "responded": 6,
+        "median_days": 0.28691550925925924
+      },
+      "2026-04": {
+        "n": 18,
+        "responded": 7,
+        "median_days": 13.156701388888889
+      },
+      "2026-05": {
+        "n": 8,
+        "responded": 1,
+        "median_days": 0.2750810185185185
+      },
+      "2026-06": {
+        "n": 19,
+        "responded": 4,
+        "median_days": 4.459033564814814
+      },
+      "2026-07": {
+        "n": 12,
+        "responded": 0,
+        "median_days": null
+      },
+      "2026-08": {
+        "n": 22,
+        "responded": 5,
+        "median_days": 0.627650462962963
+      },
+      "2026-09": {
+        "n": 14,
+        "responded": 2,
+        "median_days": 4.575896990740741
+      }
+    },
+    "Newcomer, merged": {
+      "2025-06": {
+        "n": 6,
+        "responded": 6,
+        "median_days": 0.1269675925925926
+      },
+      "2025-07": {
+        "n": 9,
+        "responded": 9,
+        "median_days": 0.7395949074074074
+      },
+      "2025-08": {
+        "n": 4,
+        "responded": 4,
+        "median_days": 0.15786458333333334
+      },
+      "2025-09": {
+        "n": 3,
+        "responded": 3,
+        "median_days": 0.5565740740740741
+      },
+      "2025-10": {
+        "n": 3,
+        "responded": 3,
+        "median_days": 3.329166666666667
+      },
+      "2025-11": {
+        "n": 7,
+        "responded": 7,
+        "median_days": 0.21151620370370372
+      },
+      "2025-12": {
+        "n": 1,
+        "responded": 1,
+        "median_days": 0.055983796296296295
+      },
+      "2026-01": {
+        "n": 3,
+        "responded": 3,
+        "median_days": 3.3215162037037036
+      },
+      "2026-02": {
+        "n": 1,
+        "responded": 1,
+        "median_days": 5.96375
+      },
+      "2026-03": {
+        "n": 3,
+        "responded": 3,
+        "median_days": 0.4246990740740741
+      },
+      "2026-04": {
+        "n": 2,
+        "responded": 2,
+        "median_days": 2.472667824074074
+      },
+      "2026-05": {
+        "n": 3,
+        "responded": 3,
+        "median_days": 1.8593518518518517
+      },
+      "2026-06": {
+        "n": 2,
+        "responded": 2,
+        "median_days": 2.0869849537037037
+      },
+      "2026-07": {
+        "n": 2,
+        "responded": 2,
+        "median_days": 3.5274247685185185
+      },
+      "2026-08": {
+        "n": 2,
+        "responded": 2,
+        "median_days": 3.4062384259259257
+      },
+      "2026-09": {
+        "n": 1,
+        "responded": 1,
+        "median_days": 1.8608564814814814
+      }
+    },
+    "Newcomer, not merged": {
+      "2025-06": {
+        "n": 16,
+        "responded": 12,
+        "median_days": 1.124050925925926
+      },
+      "2025-07": {
+        "n": 16,
+        "responded": 9,
+        "median_days": 13.032986111111112
+      },
+      "2025-08": {
+        "n": 7,
+        "responded": 4,
+        "median_days": 1.5589699074074073
+      },
+      "2025-09": {
+        "n": 5,
+        "responded": 2,
+        "median_days": 126.90970486111112
+      },
+      "2025-10": {
+        "n": 5,
+        "responded": 3,
+        "median_days": 92.33540509259258
+      },
+      "2025-11": {
+        "n": 11,
+        "responded": 10,
+        "median_days": 2.139195601851852
+      },
+      "2025-12": {
+        "n": 12,
+        "responded": 7,
+        "median_days": 15.292152777777778
+      },
+      "2026-01": {
+        "n": 10,
+        "responded": 5,
+        "median_days": 0.46760416666666665
+      },
+      "2026-02": {
+        "n": 11,
+        "responded": 2,
+        "median_days": 57.75340856481481
+      },
+      "2026-03": {
+        "n": 19,
+        "responded": 5,
+        "median_days": 5.928032407407407
+      },
+      "2026-04": {
+        "n": 15,
+        "responded": 2,
+        "median_days": 22.476585648148145
+      },
+      "2026-05": {
+        "n": 19,
+        "responded": 3,
+        "median_days": 2.816064814814815
+      },
+      "2026-06": {
+        "n": 21,
+        "responded": 4,
+        "median_days": 6.431655092592592
+      },
+      "2026-07": {
+        "n": 18,
+        "responded": 0,
+        "median_days": null
+      },
+      "2026-08": {
+        "n": 17,
+        "responded": 4,
+        "median_days": 9.019618055555554
+      },
+      "2026-09": {
+        "n": 22,
+        "responded": 4,
+        "median_days": 0.4719965277777778
+      }
+    }
+  },
+  "open_pr_share_by_tier": {
+    "Frequent / Core": 0.408997955010225,
+    "Episodic Community": 3.225806451612903,
+    "Newcomer (\u2264 3 Actions)": 1.4285714285714286
+  },
+  "total_commits_fetched": 5904,
+  "human_commits_count": 5713,
+  "bot_commits_count": 191,
+  "unique_human_committers": 667,
+  "top_15_committers": [
+    [
+      "scidomino",
+      390
+    ],
+    [
+      "abhipatel12",
+      273
+    ],
+    [
+      "jacob314",
+      243
+    ],
+    [
+      "SandyTao520",
+      230
+    ],
+    [
+      "NTaylorMullen",
+      204
+    ],
+    [
+      "mattKorwel",
+      172
+    ],
+    [
+      "jerop",
+      167
+    ],
+    [
+      "chrstnb",
+      156
+    ],
+    [
+      "skeshive",
+      150
+    ],
+    [
+      "galdawave",
+      142
+    ],
+    [
+      "adamfweidman",
+      135
+    ],
+    [
+      "sehoon38",
+      131
+    ],
+    [
+      "gundermanc",
+      108
+    ],
+    [
+      "joshualitt",
+      100
+    ],
+    [
+      "Adib234",
+      99
+    ]
+  ],
+  "gini_commits": 0.8035483396057966,
+  "gini_prs": 0.7112889447965716,
+  "gini_all": 0.6763576675188755,
+  "pct_commits_by_top_20_pct": 87.3271486084369,
+  "pct_users_le_3_actions": 89.56361117524821,
+  "inter_gap_90th_percentile_days": 12.904158564814818,
+  "inter_gap_median_days": 0.6116956018518518,
+  "monthly_table": [
+    {
+      "month": "2025-06",
+      "commits": 556,
+      "commit_loc": 96632,
+      "commit_files": 2273,
+      "normalized_churn": 173.79856115107913,
+      "avg_files_per_commit": 4.088129496402877,
+      "prs_opened": 941,
+      "prs_merged_in_month": 584,
+      "prs_merged_cohort": 625,
+      "pr_acceptance_rate": 66.41870350690755,
+      "pr_throughput_ratio": 62.0616365568544,
+      "issues_opened": 1072,
+      "issues_closed_in_month": 380,
+      "issues_closed_cohort": 1070,
+      "issue_resolution_ratio": 35.44776119402985,
+      "issue_cohort_resolution": 99.81343283582089,
+      "monthly_activity_volume": 2569,
+      "review_engagement_ratio": 2.6785714285714284,
+      "issue_discussion_depth": 4.56,
+      "avg_pr_loc": 269.72,
+      "avg_pr_files": 5.94,
+      "all_prs_opened_incl_bots": 942,
+      "all_issues_opened_incl_bots": 1079
+    },
+    {
+      "month": "2025-07",
+      "commits": 410,
+      "commit_loc": 103180,
+      "commit_files": 1875,
+      "normalized_churn": 251.65853658536585,
+      "avg_files_per_commit": 4.573170731707317,
+      "prs_opened": 807,
+      "prs_merged_in_month": 412,
+      "prs_merged_cohort": 427,
+      "pr_acceptance_rate": 52.91201982651796,
+      "pr_throughput_ratio": 51.053283767038415,
+      "issues_opened": 1524,
+      "issues_closed_in_month": 943,
+      "issues_closed_cohort": 1511,
+      "issue_resolution_ratio": 61.876640419947506,
+      "issue_cohort_resolution": 99.1469816272966,
+      "monthly_activity_volume": 2741,
+      "review_engagement_ratio": 8.068965517241379,
+      "issue_discussion_depth": 2.9591836734693877,
+      "avg_pr_loc": 1377.6,
+      "avg_pr_files": 12.64,
+      "all_prs_opened_incl_bots": 825,
+      "all_issues_opened_incl_bots": 1544
+    },
+    {
+      "month": "2025-08",
+      "commits": 546,
+      "commit_loc": 150020,
+      "commit_files": 3139,
+      "normalized_churn": 274.76190476190476,
+      "avg_files_per_commit": 5.749084249084249,
+      "prs_opened": 869,
+      "prs_merged_in_month": 553,
+      "prs_merged_cohort": 543,
+      "pr_acceptance_rate": 62.48561565017261,
+      "pr_throughput_ratio": 63.63636363636363,
+      "issues_opened": 1179,
+      "issues_closed_in_month": 1054,
+      "issues_closed_cohort": 1174,
+      "issue_resolution_ratio": 89.39779474130619,
+      "issue_cohort_resolution": 99.57591178965225,
+      "monthly_activity_volume": 2594,
+      "review_engagement_ratio": 6.571428571428571,
+      "issue_discussion_depth": 4.36,
+      "avg_pr_loc": 858.62,
+      "avg_pr_files": 8.7,
+      "all_prs_opened_incl_bots": 884,
+      "all_issues_opened_incl_bots": 1191
+    },
+    {
+      "month": "2025-09",
+      "commits": 532,
+      "commit_loc": 118950,
+      "commit_files": 2297,
+      "normalized_churn": 223.59022556390977,
+      "avg_files_per_commit": 4.317669172932331,
+      "prs_opened": 861,
+      "prs_merged_in_month": 552,
+      "prs_merged_cohort": 560,
+      "pr_acceptance_rate": 65.04065040650406,
+      "pr_throughput_ratio": 64.11149825783971,
+      "issues_opened": 1097,
+      "issues_closed_in_month": 576,
+      "issues_closed_cohort": 1095,
+      "issue_resolution_ratio": 52.50683682771194,
+      "issue_cohort_resolution": 99.81768459434822,
+      "monthly_activity_volume": 2490,
+      "review_engagement_ratio": 4.757575757575758,
+      "issue_discussion_depth": 2.5306122448979593,
+      "avg_pr_loc": 248.54,
+      "avg_pr_files": 5.34,
+      "all_prs_opened_incl_bots": 892,
+      "all_issues_opened_incl_bots": 1144
+    },
+    {
+      "month": "2025-10",
+      "commits": 540,
+      "commit_loc": 117947,
+      "commit_files": 2514,
+      "normalized_churn": 218.42037037037036,
+      "avg_files_per_commit": 4.655555555555556,
+      "prs_opened": 804,
+      "prs_merged_in_month": 547,
+      "prs_merged_cohort": 548,
+      "pr_acceptance_rate": 68.1592039800995,
+      "pr_throughput_ratio": 68.03482587064677,
+      "issues_opened": 1114,
+      "issues_closed_in_month": 824,
+      "issues_closed_cohort": 1110,
+      "issue_resolution_ratio": 73.96768402154399,
+      "issue_cohort_resolution": 99.64093357271095,
+      "monthly_activity_volume": 2458,
+      "review_engagement_ratio": 4.611111111111111,
+      "issue_discussion_depth": 2.16,
+      "avg_pr_loc": 391.44,
+      "avg_pr_files": 8.82,
+      "all_prs_opened_incl_bots": 859,
+      "all_issues_opened_incl_bots": 1128
+    },
+    {
+      "month": "2025-11",
+      "commits": 302,
+      "commit_loc": 109968,
+      "commit_files": 1897,
+      "normalized_churn": 364.1324503311258,
+      "avg_files_per_commit": 6.281456953642384,
+      "prs_opened": 534,
+      "prs_merged_in_month": 304,
+      "prs_merged_cohort": 309,
+      "pr_acceptance_rate": 57.865168539325836,
+      "pr_throughput_ratio": 56.92883895131086,
+      "issues_opened": 883,
+      "issues_closed_in_month": 427,
+      "issues_closed_cohort": 880,
+      "issue_resolution_ratio": 48.357870894677234,
+      "issue_cohort_resolution": 99.66024915062289,
+      "monthly_activity_volume": 1719,
+      "review_engagement_ratio": 5.09375,
+      "issue_discussion_depth": 2.74,
+      "avg_pr_loc": 6912.44,
+      "avg_pr_files": 35.88,
+      "all_prs_opened_incl_bots": 605,
+      "all_issues_opened_incl_bots": 895
+    },
+    {
+      "month": "2025-12",
+      "commits": 260,
+      "commit_loc": 70412,
+      "commit_files": 1719,
+      "normalized_churn": 270.81538461538463,
+      "avg_files_per_commit": 6.611538461538461,
+      "prs_opened": 480,
+      "prs_merged_in_month": 260,
+      "prs_merged_cohort": 273,
+      "pr_acceptance_rate": 56.875,
+      "pr_throughput_ratio": 54.166666666666664,
+      "issues_opened": 809,
+      "issues_closed_in_month": 1567,
+      "issues_closed_cohort": 789,
+      "issue_resolution_ratio": 193.69592088998763,
+      "issue_cohort_resolution": 97.52781211372064,
+      "monthly_activity_volume": 1549,
+      "review_engagement_ratio": 6.083333333333333,
+      "issue_discussion_depth": 2.6,
+      "avg_pr_loc": 478.1,
+      "avg_pr_files": 7.38,
+      "all_prs_opened_incl_bots": 541,
+      "all_issues_opened_incl_bots": 860
+    },
+    {
+      "month": "2026-01",
+      "commits": 606,
+      "commit_loc": 164643,
+      "commit_files": 3353,
+      "normalized_churn": 271.68811881188117,
+      "avg_files_per_commit": 5.533003300330033,
+      "prs_opened": 922,
+      "prs_merged_in_month": 598,
+      "prs_merged_cohort": 577,
+      "pr_acceptance_rate": 62.581344902386114,
+      "pr_throughput_ratio": 64.8590021691974,
+      "issues_opened": 1177,
+      "issues_closed_in_month": 1316,
+      "issues_closed_cohort": 1142,
+      "issue_resolution_ratio": 111.80968564146134,
+      "issue_cohort_resolution": 97.02633814783348,
+      "monthly_activity_volume": 2705,
+      "review_engagement_ratio": 7.451612903225806,
+      "issue_discussion_depth": 3.82,
+      "avg_pr_loc": 763.14,
+      "avg_pr_files": 7.74,
+      "all_prs_opened_incl_bots": 993,
+      "all_issues_opened_incl_bots": 1178
+    },
+    {
+      "month": "2026-02",
+      "commits": 571,
+      "commit_loc": 190751,
+      "commit_files": 4266,
+      "normalized_churn": 334.0647985989492,
+      "avg_files_per_commit": 7.471103327495622,
+      "prs_opened": 1159,
+      "prs_merged_in_month": 565,
+      "prs_merged_cohort": 598,
+      "pr_acceptance_rate": 51.59620362381363,
+      "pr_throughput_ratio": 48.748921484037965,
+      "issues_opened": 1166,
+      "issues_closed_in_month": 915,
+      "issues_closed_cohort": 1134,
+      "issue_resolution_ratio": 78.47341337907375,
+      "issue_cohort_resolution": 97.25557461406518,
+      "monthly_activity_volume": 2896,
+      "review_engagement_ratio": 5.576923076923077,
+      "issue_discussion_depth": 3.58,
+      "avg_pr_loc": 240.7,
+      "avg_pr_files": 5.04,
+      "all_prs_opened_incl_bots": 1370,
+      "all_issues_opened_incl_bots": 1173
+    },
+    {
+      "month": "2026-03",
+      "commits": 641,
+      "commit_loc": 210461,
+      "commit_files": 4831,
+      "normalized_churn": 328.3322932917317,
+      "avg_files_per_commit": 7.536661466458658,
+      "prs_opened": 1687,
+      "prs_merged_in_month": 630,
+      "prs_merged_cohort": 622,
+      "pr_acceptance_rate": 36.87018375815057,
+      "pr_throughput_ratio": 37.344398340248965,
+      "issues_opened": 1698,
+      "issues_closed_in_month": 1038,
+      "issues_closed_cohort": 1630,
+      "issue_resolution_ratio": 61.130742049469966,
+      "issue_cohort_resolution": 95.99528857479388,
+      "monthly_activity_volume": 4026,
+      "review_engagement_ratio": 8.5,
+      "issue_discussion_depth": 3.3,
+      "avg_pr_loc": 1734.68,
+      "avg_pr_files": 7.68,
+      "all_prs_opened_incl_bots": 1812,
+      "all_issues_opened_incl_bots": 1704
+    },
+    {
+      "month": "2026-04",
+      "commits": 354,
+      "commit_loc": 952922,
+      "commit_files": 2480,
+      "normalized_churn": 2691.870056497175,
+      "avg_files_per_commit": 7.005649717514125,
+      "prs_opened": 758,
+      "prs_merged_in_month": 335,
+      "prs_merged_cohort": 305,
+      "pr_acceptance_rate": 40.23746701846966,
+      "pr_throughput_ratio": 44.19525065963061,
+      "issues_opened": 941,
+      "issues_closed_in_month": 1293,
+      "issues_closed_cohort": 928,
+      "issue_resolution_ratio": 137.40701381509032,
+      "issue_cohort_resolution": 98.61849096705633,
+      "monthly_activity_volume": 2053,
+      "review_engagement_ratio": 5.266666666666667,
+      "issue_discussion_depth": 3.12,
+      "avg_pr_loc": 251.9,
+      "avg_pr_files": 6.6,
+      "all_prs_opened_incl_bots": 862,
+      "all_issues_opened_incl_bots": 946
+    },
+    {
+      "month": "2026-05",
+      "commits": 219,
+      "commit_loc": 65035,
+      "commit_files": 1231,
+      "normalized_churn": 296.9634703196347,
+      "avg_files_per_commit": 5.621004566210046,
+      "prs_opened": 461,
+      "prs_merged_in_month": 219,
+      "prs_merged_cohort": 176,
+      "pr_acceptance_rate": 38.17787418655097,
+      "pr_throughput_ratio": 47.50542299349241,
+      "issues_opened": 662,
+      "issues_closed_in_month": 1888,
+      "issues_closed_cohort": 654,
+      "issue_resolution_ratio": 285.1963746223565,
+      "issue_cohort_resolution": 98.79154078549848,
+      "monthly_activity_volume": 1342,
+      "review_engagement_ratio": 4.1,
+      "issue_discussion_depth": 3.98,
+      "avg_pr_loc": 747.16,
+      "avg_pr_files": 15.04,
+      "all_prs_opened_incl_bots": 571,
+      "all_issues_opened_incl_bots": 663
+    },
+    {
+      "month": "2026-06",
+      "commits": 41,
+      "commit_loc": 18682,
+      "commit_files": 310,
+      "normalized_churn": 455.6585365853659,
+      "avg_files_per_commit": 7.560975609756097,
+      "prs_opened": 198,
+      "prs_merged_in_month": 41,
+      "prs_merged_cohort": 44,
+      "pr_acceptance_rate": 22.22222222222222,
+      "pr_throughput_ratio": 20.707070707070706,
+      "issues_opened": 214,
+      "issues_closed_in_month": 198,
+      "issues_closed_cohort": 199,
+      "issue_resolution_ratio": 92.5233644859813,
+      "issue_cohort_resolution": 92.99065420560748,
+      "monthly_activity_volume": 453,
+      "review_engagement_ratio": 7.0,
+      "issue_discussion_depth": 3.795918367346939,
+      "avg_pr_loc": 204.38,
+      "avg_pr_files": 4.32,
+      "all_prs_opened_incl_bots": 337,
+      "all_issues_opened_incl_bots": 235
+    },
+    {
+      "month": "2026-07",
+      "commits": 36,
+      "commit_loc": 20748,
+      "commit_files": 176,
+      "normalized_churn": 576.3333333333334,
+      "avg_files_per_commit": 4.888888888888889,
+      "prs_opened": 145,
+      "prs_merged_in_month": 36,
+      "prs_merged_cohort": 46,
+      "pr_acceptance_rate": 31.724137931034484,
+      "pr_throughput_ratio": 24.82758620689655,
+      "issues_opened": 109,
+      "issues_closed_in_month": 494,
+      "issues_closed_cohort": 94,
+      "issue_resolution_ratio": 453.2110091743119,
+      "issue_cohort_resolution": 86.23853211009175,
+      "monthly_activity_volume": 290,
+      "review_engagement_ratio": 9.294117647058824,
+      "issue_discussion_depth": 3.46,
+      "avg_pr_loc": 32167.84,
+      "avg_pr_files": 61.8,
+      "all_prs_opened_incl_bots": 244,
+      "all_issues_opened_incl_bots": 124
+    },
+    {
+      "month": "2026-08",
+      "commits": 53,
+      "commit_loc": 15970,
+      "commit_files": 239,
+      "normalized_churn": 301.3207547169811,
+      "avg_files_per_commit": 4.509433962264151,
+      "prs_opened": 244,
+      "prs_merged_in_month": 55,
+      "prs_merged_cohort": 43,
+      "pr_acceptance_rate": 17.62295081967213,
+      "pr_throughput_ratio": 22.540983606557376,
+      "issues_opened": 175,
+      "issues_closed_in_month": 335,
+      "issues_closed_cohort": 76,
+      "issue_resolution_ratio": 191.42857142857144,
+      "issue_cohort_resolution": 43.42857142857143,
+      "monthly_activity_volume": 472,
+      "review_engagement_ratio": 6.125,
+      "issue_discussion_depth": 2.54,
+      "avg_pr_loc": 634.28,
+      "avg_pr_files": 4.6,
+      "all_prs_opened_incl_bots": 343,
+      "all_issues_opened_incl_bots": 179
+    },
+    {
+      "month": "2026-09",
+      "commits": 46,
+      "commit_loc": 25805,
+      "commit_files": 365,
+      "normalized_churn": 560.9782608695652,
+      "avg_files_per_commit": 7.934782608695652,
+      "prs_opened": 229,
+      "prs_merged_in_month": 46,
+      "prs_merged_cohort": 54,
+      "pr_acceptance_rate": 23.580786026200872,
+      "pr_throughput_ratio": 20.087336244541483,
+      "issues_opened": 131,
+      "issues_closed_in_month": 193,
+      "issues_closed_cohort": 61,
+      "issue_resolution_ratio": 147.32824427480915,
+      "issue_cohort_resolution": 46.56488549618321,
+      "monthly_activity_volume": 406,
+      "review_engagement_ratio": 16.8,
+      "issue_discussion_depth": 3.08,
+      "avg_pr_loc": 372.66,
+      "avg_pr_files": 7.72,
+      "all_prs_opened_incl_bots": 291,
+      "all_issues_opened_incl_bots": 132
+    }
+  ],
+  "contributor_composition_monthly": [
+    {
+      "month": "2025-06",
+      "frequent": 195,
+      "newcomers": 779,
+      "episodic": 0,
+      "dormant": 0,
+      "frequent_pct": 20.02053388090349,
+      "newcomers_pct": 79.97946611909651,
+      "episodic_pct": 0.0,
+      "dormant_pct": 0.0
+    },
+    {
+      "month": "2025-07",
+      "frequent": 407,
+      "newcomers": 1627,
+      "episodic": 0,
+      "dormant": 0,
+      "frequent_pct": 20.00983284169125,
+      "newcomers_pct": 79.99016715830875,
+      "episodic_pct": 0.0,
+      "dormant_pct": 0.0
+    },
+    {
+      "month": "2025-08",
+      "frequent": 365,
+      "newcomers": 1364,
+      "episodic": 126,
+      "dormant": 896,
+      "frequent_pct": 13.267902580879682,
+      "newcomers_pct": 49.58197019265722,
+      "episodic_pct": 4.580152671755725,
+      "dormant_pct": 32.56997455470738
+    },
+    {
+      "month": "2025-09",
+      "frequent": 294,
+      "newcomers": 1064,
+      "episodic": 211,
+      "dormant": 1730,
+      "frequent_pct": 8.911791451955137,
+      "newcomers_pct": 32.252197635647164,
+      "episodic_pct": 6.395877538648074,
+      "dormant_pct": 52.44013337374962
+    },
+    {
+      "month": "2025-10",
+      "frequent": 249,
+      "newcomers": 889,
+      "episodic": 240,
+      "dormant": 2427,
+      "frequent_pct": 6.544021024967149,
+      "newcomers_pct": 23.363994743758212,
+      "episodic_pct": 6.307490144546649,
+      "dormant_pct": 63.784494086727996
+    },
+    {
+      "month": "2025-11",
+      "frequent": 270,
+      "newcomers": 952,
+      "episodic": 241,
+      "dormant": 2955,
+      "frequent_pct": 6.111362607514713,
+      "newcomers_pct": 21.548211860570394,
+      "episodic_pct": 5.454956994114984,
+      "dormant_pct": 66.88546853779991
+    },
+    {
+      "month": "2025-12",
+      "frequent": 263,
+      "newcomers": 926,
+      "episodic": 230,
+      "dormant": 3472,
+      "frequent_pct": 5.377223471682682,
+      "newcomers_pct": 18.932733592312413,
+      "episodic_pct": 4.7025148231445515,
+      "dormant_pct": 70.98752811286036
+    },
+    {
+      "month": "2026-01",
+      "frequent": 253,
+      "newcomers": 870,
+      "episodic": 240,
+      "dormant": 4094,
+      "frequent_pct": 4.636247022173355,
+      "newcomers_pct": 15.94282572842221,
+      "episodic_pct": 4.398020890599231,
+      "dormant_pct": 75.0229063588052
+    },
+    {
+      "month": "2026-02",
+      "frequent": 292,
+      "newcomers": 1009,
+      "episodic": 247,
+      "dormant": 4516,
+      "frequent_pct": 4.8153034300791555,
+      "newcomers_pct": 16.639182058047496,
+      "episodic_pct": 4.073218997361478,
+      "dormant_pct": 74.47229551451187
+    },
+    {
+      "month": "2026-03",
+      "frequent": 368,
+      "newcomers": 1301,
+      "episodic": 284,
+      "dormant": 5050,
+      "frequent_pct": 5.254890761102385,
+      "newcomers_pct": 18.57775239183207,
+      "episodic_pct": 4.055404826502927,
+      "dormant_pct": 72.11195202056263
+    },
+    {
+      "month": "2026-04",
+      "frequent": 371,
+      "newcomers": 1312,
+      "episodic": 310,
+      "dormant": 5632,
+      "frequent_pct": 4.865573770491803,
+      "newcomers_pct": 17.20655737704918,
+      "episodic_pct": 4.065573770491803,
+      "dormant_pct": 73.8622950819672
+    },
+    {
+      "month": "2026-05",
+      "frequent": 272,
+      "newcomers": 933,
+      "episodic": 372,
+      "dormant": 6531,
+      "frequent_pct": 3.3547113961519486,
+      "newcomers_pct": 11.507153428712384,
+      "episodic_pct": 4.588061174148988,
+      "dormant_pct": 80.55007400098668
+    },
+    {
+      "month": "2026-06",
+      "frequent": 162,
+      "newcomers": 538,
+      "episodic": 355,
+      "dormant": 7218,
+      "frequent_pct": 1.9581772029493534,
+      "newcomers_pct": 6.503082315967605,
+      "episodic_pct": 4.291067327450744,
+      "dormant_pct": 87.2476731536323
+    },
+    {
+      "month": "2026-07",
+      "frequent": 67,
+      "newcomers": 232,
+      "episodic": 228,
+      "dormant": 7857,
+      "frequent_pct": 0.7991412213740458,
+      "newcomers_pct": 2.767175572519084,
+      "episodic_pct": 2.719465648854962,
+      "dormant_pct": 93.71421755725191
+    },
+    {
+      "month": "2026-08",
+      "frequent": 56,
+      "newcomers": 197,
+      "episodic": 156,
+      "dormant": 8111,
+      "frequent_pct": 0.6572769953051643,
+      "newcomers_pct": 2.312206572769953,
+      "episodic_pct": 1.8309859154929577,
+      "dormant_pct": 95.19953051643193
+    },
+    {
+      "month": "2026-09",
+      "frequent": 65,
+      "newcomers": 229,
+      "episodic": 70,
+      "dormant": 8298,
+      "frequent_pct": 0.7504040637266219,
+      "newcomers_pct": 2.6437312398984067,
+      "episodic_pct": 0.8081274532440544,
+      "dormant_pct": 95.79773724313092
+    }
+  ],
+  "tier_process_summary": {
+    "Frequent / Core": {
+      "count": 489,
+      "acceptance_rate_pct": 60.32719836400818,
+      "median_ttfr_hrs": 3.7197222222222224,
+      "median_ttm_hrs": 7.818611111111111,
+      "no_human_response_pct": 26.993865030674847
+    },
+    "Episodic Community": {
+      "count": 31,
+      "acceptance_rate_pct": 35.483870967741936,
+      "median_ttfr_hrs": 3.92,
+      "median_ttm_hrs": 1.6230555555555555,
+      "no_human_response_pct": 45.16129032258064
+    },
+    "Newcomer (\u2264 3 Actions)": {
+      "count": 280,
+      "acceptance_rate_pct": 18.571428571428573,
+      "median_ttfr_hrs": 44.6425,
+      "median_ttm_hrs": 82.19458333333333,
+      "no_human_response_pct": 53.57142857142857
+    }
+  },
+  "sample_unmerged_newcomer_prs": [
+    {
+      "number": 1163,
+      "month": "2025-06",
+      "author": "sethtroisi-test",
+      "title": "Testing external contribution",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/1163",
+      "additions": 2,
+      "deletions": 0,
+      "labels": [
+        "size/xs"
+      ],
+      "ttfr_hrs": null,
+      "ttc_hrs": 0.0875,
+      "quotes": []
+    },
+    {
+      "number": 1483,
+      "month": "2025-06",
+      "author": "SuguruOoki",
+      "title": "Fix docs to reference correct env var for Google Cloud project",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/1483",
+      "additions": 2,
+      "deletions": 2,
+      "labels": [
+        "size/xs"
+      ],
+      "ttfr_hrs": 0.02722222222222222,
+      "ttc_hrs": 0.07027777777777777,
+      "quotes": [
+        {
+          "author": "jerop",
+          "createdAt": "2025-06-25T15:53:22Z",
+          "text": "Thank you for the contribution @SuguruOoki! The fix was just merged - #1429"
+        },
+        {
+          "author": "SuguruOoki",
+          "createdAt": "2025-06-25T15:55:57Z",
+          "text": "@jerop I noticed that this is a duplicate pull request! Thank you for pointing that out! I'll close it!"
+        }
+      ]
+    },
+    {
+      "number": 1542,
+      "month": "2025-06",
+      "author": "iab-dd",
+      "title": "Add Portkey integration",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/1542",
+      "additions": 382,
+      "deletions": 0,
+      "labels": [
+        "size/l"
+      ],
+      "ttfr_hrs": 105.32833333333333,
+      "ttc_hrs": 867.5769444444444,
+      "quotes": [
+        {
+          "author": "mattKorwel",
+          "createdAt": "2025-07-31T21:33:24Z",
+          "text": "Going through our oldest PR's and marking them as Stale and closing. Please feel free to reopen and make ready for merge and review if you would like. Either way, Thanks for the contribution!"
+        }
+      ]
+    },
+    {
+      "number": 1923,
+      "month": "2025-06",
+      "author": "ZzZQaQFFF",
+      "title": "Added the method of setting the id on the Windows platform to the documentation",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/1923",
+      "additions": 9,
+      "deletions": 0,
+      "labels": [
+        "size/xs"
+      ],
+      "ttfr_hrs": 85.60972222222222,
+      "ttc_hrs": 446.1136111111111,
+      "quotes": [
+        {
+          "author": "scottdensmore",
+          "createdAt": "2025-07-15T03:28:45Z",
+          "text": "@ZzZQaQFFF thanks for the contribution. We have the docs/cli/authentication.md for the other auth methods. We are going to close this out. If you want to add updates on the docs, feel free to raise and issue and follow the CONTRIBUTING.md."
+        }
+      ]
+    },
+    {
+      "number": 2113,
+      "month": "2025-06",
+      "author": "SunskyXH",
+      "title": "fix(cli): do not show message when already using fallback model",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/2113",
+      "additions": 0,
+      "deletions": 0,
+      "labels": [
+        "size/xs"
+      ],
+      "ttfr_hrs": null,
+      "ttc_hrs": 0.4708333333333333,
+      "quotes": []
+    },
+    {
+      "number": 2175,
+      "month": "2025-06",
+      "author": "sambharia",
+      "title": "Portkey with gemini cli",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/2175",
+      "additions": 418,
+      "deletions": 2,
+      "labels": [
+        "size/l"
+      ],
+      "ttfr_hrs": null,
+      "ttc_hrs": 0.016944444444444446,
+      "quotes": []
+    },
+    {
+      "number": 2218,
+      "month": "2025-06",
+      "author": "devpool007",
+      "title": "feat: Added /copy command to copy output by gemini-cli ",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/2218",
+      "additions": 100,
+      "deletions": 1,
+      "labels": [
+        "priority/p2",
+        "size/m"
+      ],
+      "ttfr_hrs": 38.1475,
+      "ttc_hrs": 294.8147222222222,
+      "quotes": [
+        {
+          "author": "sahil9001",
+          "createdAt": "2025-06-29T15:03:41Z",
+          "text": "Well, instead of copying you could've just asked me to improve the logic. Doesn't that sound like right approach? PR already here \u2014\u00a0#2000"
+        },
+        {
+          "author": "devpool007",
+          "createdAt": "2025-06-30T14:58:25Z",
+          "text": "Well, instead of copying you could've just asked me to improve the logic. Doesn't that sound like right approach? PR already here \u2014\u00a0#2000  Hi @sahil9001, thanks for the comment. I saw your PR (#2000), and my decision to open a new one wasn't about copying but about contributing what I believe is a more robust and maintainable solution for the project's long-term goals. My approach in this PR addresses  Cleaner logic with no external package (clipboard) dependency Easy and customisable copyToClipboard function implementation Updated the docs which I find is essential when adding a command Util "
+        },
+        {
+          "author": "devpool007",
+          "createdAt": "2025-07-03T10:16:55Z",
+          "text": "Hi @abhipatel12, please let me know if you get a moment to review these changes :)"
+        },
+        {
+          "author": "sahil9001",
+          "createdAt": "2025-07-03T14:02:45Z",
+          "text": "Well, instead of copying you could've just asked me to improve the logic. Doesn't that sound like right approach? PR already here \u2014\u00a0#2000  Hi @sahil9001, thanks for the comment. I saw your PR (#2000), and my decision to open a new one wasn't about copying but about contributing what I believe is a more robust and maintainable solution for the project's long-term goals. My approach in this PR addresses  Cleaner logic with no external package (clipboard) dependency Easy and customisable copyToClipboard function implementation Updated the docs which I find is essential when adding a command Util "
+        },
+        {
+          "author": "abhipatel12",
+          "createdAt": "2025-07-03T15:40:29Z",
+          "text": "Hey! I haven't forgotten about this, sorry for the delays. I'm currently almost finished with a refactor that will hopefully make our slash command code a lot cleaner (and set us up for new features in the future). I need to work through a couple of changes and then hopefully get that reviewed/merged in. I'm going to hold off on any new slash commands PRs for the next day or two, but as soon as the refactor merges, we can refactor these changes to follow the new pattern and I will take a look then.  From my cursory glance at your changes, this should be a relatively easy refactor for you! Sorr"
+        },
+        {
+          "author": "devpool007",
+          "createdAt": "2025-07-03T16:01:37Z",
+          "text": "Hey! That's quite good to hear \ud83d\ude04 Well yeah I totally understand that we should hold this off till the refactor for slash commands is done. Will be waiting for this refactor to be done then and yes then please lmk what changes might be needed for the new approach. Thanks for your time!"
+        },
+        {
+          "author": "abhipatel12",
+          "createdAt": "2025-07-07T22:07:39Z",
+          "text": "Hey @devpool007 , the refactor PR has been merged. Feel free to take a look and make any changes you need for this! I added some starter migrations /help, /memory, and /clear as well if you want references! Let me know when you're ready for a re-review"
+        },
+        {
+          "author": "devpool007",
+          "createdAt": "2025-07-07T23:14:35Z",
+          "text": "Heya @abhipatel12, thanks for the notifications I will fetch the changes and try to see how things need to be changed according to this refactor."
+        }
+      ]
+    },
+    {
+      "number": 2274,
+      "month": "2025-06",
+      "author": "davenportjw",
+      "title": "add express mode explanation",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/2274",
+      "additions": 0,
+      "deletions": 0,
+      "labels": [
+        "size/xs"
+      ],
+      "ttfr_hrs": 1.1527777777777777,
+      "ttc_hrs": 650.4677777777778,
+      "quotes": [
+        {
+          "author": "NTaylorMullen",
+          "createdAt": "2025-07-24T20:17:18Z",
+          "text": "@davenportjw would you mind rebasing on latest? A lot of auth doc changes have landed since so it's a bit hard to interpret the content of the PR. Apologies for the delay in re-review \ud83d\ude22"
+        },
+        {
+          "author": "davenportjw",
+          "createdAt": "2025-07-24T21:58:52Z",
+          "text": "All good, I'll rebase and re-commit any diff"
+        }
+      ]
+    },
+    {
+      "number": 2338,
+      "month": "2025-06",
+      "author": "AryannnnKC1",
+      "title": "Add support for POS1 key (German/European Home key) in command prompt",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/2338",
+      "additions": 5,
+      "deletions": 1,
+      "labels": [
+        "priority/p2",
+        "size/xs"
+      ],
+      "ttfr_hrs": 24.435833333333335,
+      "ttc_hrs": 1240.2102777777777,
+      "quotes": [
+        {
+          "author": "allenhutchison",
+          "createdAt": "2025-08-01T23:10:59Z",
+          "text": "Hi @Asaiy420 I'm sorry for the long delay. If you are still interested in pursuing this PR please fix the merge conflict and I'll take another look."
+        },
+        {
+          "author": "allenhutchison",
+          "createdAt": "2025-08-18T20:16:26Z",
+          "text": "I'm going to close this PR for now, please reopen if you want to pursue it further in the future."
+        }
+      ]
+    },
+    {
+      "number": 2434,
+      "month": "2025-06",
+      "author": "alencastro1958",
+      "title": "Meu t\u00edtulo de PR",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/2434",
+      "additions": 4,
+      "deletions": 3,
+      "labels": [
+        "size/xs"
+      ],
+      "ttfr_hrs": 8.928888888888888,
+      "ttc_hrs": 1056.3625,
+      "quotes": [
+        {
+          "author": "allenhutchison",
+          "createdAt": "2025-08-01T23:29:59Z",
+          "text": "Hi @alencastro1958 are you still interested in pursuing this PR? If so, then please add a description for what you are trying to accomplish. Please address the CLA check as well."
+        },
+        {
+          "author": "allenhutchison",
+          "createdAt": "2025-08-11T15:19:57Z",
+          "text": "Thanks again for your contribution and your participation in the community. In an effort to clean up older PRs I'm going to close this one, for now. Please reopen and ping me if you decide to take this up again."
+        }
+      ]
+    },
+    {
+      "number": 2466,
+      "month": "2025-06",
+      "author": "miozune",
+      "title": "feat: Persist \"allow always\" settings",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/2466",
+      "additions": 748,
+      "deletions": 31,
+      "labels": [
+        "priority/p1",
+        "size/l"
+      ],
+      "ttfr_hrs": 4.413888888888889,
+      "ttc_hrs": 1052.8422222222223,
+      "quotes": [
+        {
+          "author": "allenhutchison",
+          "createdAt": "2025-08-01T23:32:55Z",
+          "text": "Hi @miozune are you still interested in pursuing this PR? If so let me know. I have some significant reservations about this approach, but would be happy to discuss it with you."
+        },
+        {
+          "author": "allenhutchison",
+          "createdAt": "2025-08-11T15:20:19Z",
+          "text": "Thanks again for your contribution and your participation in the community. In an effort to clean up older PRs I'm going to close this one, for now. Please reopen and ping me if you decide to take this up again."
+        }
+      ]
+    },
+    {
+      "number": 2473,
+      "month": "2025-06",
+      "author": "Mautrak",
+      "title": "feat: enable --force-model by default",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/2473",
+      "additions": 32,
+      "deletions": 1,
+      "labels": [
+        "size/s"
+      ],
+      "ttfr_hrs": null,
+      "ttc_hrs": 0.0030555555555555557,
+      "quotes": []
+    },
+    {
+      "number": 2570,
+      "month": "2025-06",
+      "author": "jjborie",
+      "title": "feat: Advanced paste detection for terminal applications",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/2570",
+      "additions": 779,
+      "deletions": 32,
+      "labels": [
+        "size/l"
+      ],
+      "ttfr_hrs": 1.0880555555555556,
+      "ttc_hrs": 396.7708333333333,
+      "quotes": [
+        {
+          "author": "jacob314",
+          "createdAt": "2025-07-16T01:50:17Z",
+          "text": "Closed as #2476 (review) has landed."
+        }
+      ]
+    },
+    {
+      "number": 2614,
+      "month": "2025-06",
+      "author": "tolysz",
+      "title": "Add dynamic fences in markdown code blocks.",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/2614",
+      "additions": 476,
+      "deletions": 29,
+      "labels": [
+        "size/l"
+      ],
+      "ttfr_hrs": 793.4644444444444,
+      "ttc_hrs": 1024.5108333333333,
+      "quotes": [
+        {
+          "author": "allenhutchison",
+          "createdAt": "2025-08-02T00:19:42Z",
+          "text": "It looks like you have some linting errors that will need to be fixed. Also, we now have the marked package available in the app, so we could shift to using it in our markdown tools for detecting code blocks."
+        },
+        {
+          "author": "allenhutchison",
+          "createdAt": "2025-08-11T15:22:30Z",
+          "text": "Thanks again for your contribution and your participation in the community. In an effort to clean up older PRs I'm going to close this one, for now. Please reopen and ping me if you decide to take this up again."
+        }
+      ]
+    },
+    {
+      "number": 2720,
+      "month": "2025-06",
+      "author": "akabarki76",
+      "title": " implementing the fix: Unsafe shell command constructed from library input",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/2720",
+      "additions": 259,
+      "deletions": 13,
+      "labels": [
+        "size/l"
+      ],
+      "ttfr_hrs": 295.7366666666667,
+      "ttc_hrs": 295.7366666666667,
+      "quotes": [
+        {
+          "author": "akabarki76",
+          "createdAt": "2025-06-30T17:15:40Z",
+          "text": "Here's a solution to update the security policy with accurate version information:  Locate the Security Policy File: Typically named SECURITY.md in the repository root or .github directory Update Supported Versions: Modify the version table to reflect actual supported versions  Here's a patch file implementing the fix: diff --git a/SECURITY.md b/SECURITY.md index 1a79f8a..d5b8f0d 100644 --- a/SECURITY.md +++ b/SECURITY.md @@ -1,14 +1,14 @@  # Security Policy   -## Supported Versions (Placeholder - Update Before Release) +## Supported Versions   -The following versions are currently being suppo"
+        },
+        {
+          "author": "akabarki76",
+          "createdAt": "2025-06-30T17:20:12Z",
+          "text": "Based on your instructions, I'll provide a comprehensive review template you can use once you obtain the diff. Here's how I'll structure the analysis when you share the diff: Review Template (To Be Populated After Receiving Diff) ## PR #2720 Review: Security Policy Version Alignment"
+        },
+        {
+          "author": "akabarki76",
+          "createdAt": "2025-06-30T17:23:05Z",
+          "text": "Based on the comment snippet, here's a detailed analysis and recommendations: Critical Issue Analysis The problem is that placeholder text remains in the security policy, creating two major issues:  Misleading information: Users might think the project maintains multiple version branches Security risk: Users could believe they're on a supported version when they're not  Recommended Fix diff --git a/SECURITY.md b/SECURITY.md --- a/SECURITY.md +++ b/SECURITY.md @@ -2,11 +2,9 @@    ## Supported Versions   -Use this section to tell people about which versions of your project are -currently being s"
+        },
+        {
+          "author": "akabarki76",
+          "createdAt": "2025-07-03T02:56:03Z",
+          "text": "It looks like you're asking about a specific pull request in the google-gemini/gemini-cli GitHub repository. However, I can't directly access GitHub content or private repositories. Here's how you could use Gemini Code Assist in agent mode to help with this PR: To analyze and work with this PR using Gemini Code Assist:   Fetch the PR details (agent would need permissions): gh pr view 1234 --repo google-gemini/gemini-cli --web   Review the PR changes: gh pr checkout 1234 --repo google-gemini/gemini-cli   Ask Gemini to analyze:  \"Summarize the changes in PR #1234\" \"Identify potential issues in t"
+        },
+        {
+          "author": "NTaylorMullen",
+          "createdAt": "2025-07-13T00:57:59Z",
+          "text": "@akabarki76 going to close this PR out, it looks like there's a lot of extra content here that I'm not sure is expected? Feel free to re-open if I'm making a mistake here though."
+        }
+      ]
+    },
+    {
+      "number": 2724,
+      "month": "2025-06",
+      "author": "flowernotfound",
+      "title": "fix(cli): Require tag for /chat save command",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/2724",
+      "additions": 9,
+      "deletions": 1,
+      "labels": [
+        "size/s"
+      ],
+      "ttfr_hrs": 29.51861111111111,
+      "ttc_hrs": 29.51861111111111,
+      "quotes": [
+        {
+          "author": "sethtroisi",
+          "createdAt": "2025-07-01T23:03:10Z",
+          "text": "Thanks for the PR, I'm working on the same thing in #2904 which requires the tag for both save and resume."
+        }
+      ]
+    },
+    {
+      "number": 2999,
+      "month": "2025-07",
+      "author": "abcxhadi",
+      "title": "fix(ui): adjust dark theme for pure black terminals",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/2999",
+      "additions": 3,
+      "deletions": 3,
+      "labels": [
+        "size/xs"
+      ],
+      "ttfr_hrs": null,
+      "ttc_hrs": 0.255,
+      "quotes": []
+    },
+    {
+      "number": 3029,
+      "month": "2025-07",
+      "author": "sreeragh-s",
+      "title": "feat(cli): add Dark Modern theme based on VS Code Default Dark Modern",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/3029",
+      "additions": 173,
+      "deletions": 0,
+      "labels": [
+        "size/m"
+      ],
+      "ttfr_hrs": 1228.806388888889,
+      "ttc_hrs": 1228.806388888889,
+      "quotes": [
+        {
+          "author": "abhipatel12",
+          "createdAt": "2025-08-22T21:26:57Z",
+          "text": "Hey thanks for the contribution! In general, we are not supporting adding more themes directly into the repo at this time. We're looking to #5995 to make things more extensible!"
+        }
+      ]
+    },
+    {
+      "number": 3030,
+      "month": "2025-07",
+      "author": "gennadiycivil",
+      "title": "Provide a clear, user-friendly error message when the CLI attempts to connect to an MCP server that requires OAuth2.x authentication.",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/3030",
+      "additions": 51,
+      "deletions": 7,
+      "labels": [
+        "priority/p1",
+        "area/agent",
+        "size/m"
+      ],
+      "ttfr_hrs": 1226.2002777777777,
+      "ttc_hrs": 1226.2002777777777,
+      "quotes": [
+        {
+          "author": "jerop",
+          "createdAt": "2025-08-22T19:07:26Z",
+          "text": "@gennadiycivil we're cleaning up the repo, feel free to reopen if you pick this up again"
+        }
+      ]
+    },
+    {
+      "number": 3053,
+      "month": "2025-07",
+      "author": "hayashibob",
+      "title": "feat: Add voice input feature using Google Cloud Speech-to-Text",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/3053",
+      "additions": 723,
+      "deletions": 20,
+      "labels": [
+        "size/l"
+      ],
+      "ttfr_hrs": 2849.7591666666667,
+      "ttc_hrs": 2849.758888888889,
+      "quotes": [
+        {
+          "author": "chrstnb",
+          "createdAt": "2025-10-29T15:21:26Z",
+          "text": "Hi! Thanks for the contribution-- I'm going to close since there haven't been any changes since July and there are unaddressed comments"
+        }
+      ]
+    },
+    {
+      "number": 3165,
+      "month": "2025-07",
+      "author": "binora",
+      "title": "Feat/copilot provider integration",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/3165",
+      "additions": 8005,
+      "deletions": 170,
+      "labels": [
+        "size/xl"
+      ],
+      "ttfr_hrs": null,
+      "ttc_hrs": 0.008333333333333333,
+      "quotes": []
+    },
+    {
+      "number": 3201,
+      "month": "2025-07",
+      "author": "varshneydevansh",
+      "title": "feat(cli, core): Implement persistent tool approvals and refactor to fix build",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/3201",
+      "additions": 1016,
+      "deletions": 5820,
+      "labels": [
+        "priority/p2",
+        "area/agent",
+        "size/xl"
+      ],
+      "ttfr_hrs": 71.71222222222222,
+      "ttc_hrs": 71.71222222222222,
+      "quotes": [
+        {
+          "author": "varshneydevansh",
+          "createdAt": "2025-07-04T11:14:12Z",
+          "text": "The problem we're facing is a circular dependency between the packages/core and packages/cli modules. This means:   packages/core depends on packages/cli:  Specifically, the Config class (which is in packages/core/src/config/config.ts) now needs to know about LoadedSettings (which was originally defined in packages/cli/src/config/settings.ts). This dependency was introduced when we added the settings: LoadedSettings property to ConfigParameters and the settings: LoadedSettings instance to the Config class itself, as part of implementing the \"Allow Always\" feature. The Config class now directly"
+        },
+        {
+          "author": "varshneydevansh",
+          "createdAt": "2025-07-06T07:56:24Z",
+          "text": "here is the preflight output from my terminal - \ue0b6\uf179 Devanshs-MacBook-Pro \ue0b0 \uf07b \uea9c \ueb06\\gemini-cli \ue0b0 \u279c (\uf408 \ue0a0 feat/manage-tool-auto-approval) \ue0b0 \ue718 22.14.0 \ue0b0 \ueba2 1.946s \ue0b0 \uf017 1:18 PM \ue0b0 \uf469 \ue0b4  \u26a1devanshvarshney \u276f\u276f npm run preflight | pbcopy   > @google/gemini-cli@0.1.9 preflight > npm run clean && npm ci && npm run format && npm run lint:ci && npm run build && npm run typecheck && npm run test:ci   > @google/gemini-cli@0.1.9 clean > rm -rf node_modules packages/*/node_modules packages/*/dist bundle dist   added 791 packages, and audited 794 packages in 4s  257 packages are looking for funding   run `npm fund` for"
+        },
+        {
+          "author": "NTaylorMullen",
+          "createdAt": "2025-07-07T04:42:49Z",
+          "text": "@varshneydevansh Thank you for all the time and effort but this PR is far too large for us to be able to accept. Similarly, implementing a large scale behavioral change such as always persisting approvals is another piece we wouldn't be able to accept without that being on the roadmap or getting buy-off on a backing issue ahead of time. I'm going to close this PR for now but feel free to spark up targeted discussions on issues"
+        },
+        {
+          "author": "varshneydevansh",
+          "createdAt": "2025-07-07T04:54:25Z",
+          "text": "That's understandable but the thing is we have to get the command approvals or something similar being managed then probably we have to first do the refactors."
+        }
+      ]
+    },
+    {
+      "number": 3487,
+      "month": "2025-07",
+      "author": "seuros",
+      "title": "fix: correct mcp client name and version",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/3487",
+      "additions": 153,
+      "deletions": 38,
+      "labels": [
+        "size/m"
+      ],
+      "ttfr_hrs": 312.7916666666667,
+      "ttc_hrs": 2729.9372222222223,
+      "quotes": [
+        {
+          "author": "seuros",
+          "createdAt": "2025-07-09T07:21:06Z",
+          "text": "@gemini-code-assist review"
+        },
+        {
+          "author": "seuros",
+          "createdAt": "2025-07-09T07:30:54Z",
+          "text": "@gemini-code-assist review"
+        },
+        {
+          "author": "seuros",
+          "createdAt": "2025-07-22T08:46:53Z",
+          "text": "@gemini-code-assist review"
+        },
+        {
+          "author": "seuros",
+          "createdAt": "2025-07-22T09:57:38Z",
+          "text": "@gemini-code-assist review"
+        },
+        {
+          "author": "NTaylorMullen",
+          "createdAt": "2025-07-27T22:12:31Z",
+          "text": "Looks like you have some merge conflicts as well. Feel free to @ me once done though and I can work on getting this merged!"
+        },
+        {
+          "author": "seuros",
+          "createdAt": "2025-08-01T20:23:44Z",
+          "text": "@NTaylorMullen  The build is ready for merge."
+        },
+        {
+          "author": "NTaylorMullen",
+          "createdAt": "2025-08-08T06:05:03Z",
+          "text": "Looks like there's a few more:"
+        },
+        {
+          "author": "seuros",
+          "createdAt": "2025-08-08T06:56:54Z",
+          "text": "Yeah, the remote again changed. I will fix it quickly and ping you."
+        }
+      ]
+    },
+    {
+      "number": 3765,
+      "month": "2025-07",
+      "author": "marsrael",
+      "title": "feat: Implement selectable agent personas and custom CLI commands",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/3765",
+      "additions": 267,
+      "deletions": 11,
+      "labels": [
+        "size/l"
+      ],
+      "ttfr_hrs": null,
+      "ttc_hrs": 2.8705555555555557,
+      "quotes": []
+    },
+    {
+      "number": 3950,
+      "month": "2025-07",
+      "author": "youngfly93",
+      "title": "Feature/custom slash commands",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/3950",
+      "additions": 1629,
+      "deletions": 6,
+      "labels": [
+        "size/xl"
+      ],
+      "ttfr_hrs": 0.3813888888888889,
+      "ttc_hrs": 0.3813888888888889,
+      "quotes": [
+        {
+          "author": "abhipatel12",
+          "createdAt": "2025-07-12T06:19:47Z",
+          "text": "@youngfly93 Hey! Thanks for the contribution here. Custom commands is something that we're actively discussing. If you'd like to be a part of that discussion to help drive the direction of this feature, join the discussion at #3789. For now, until a format and impl direction are chosen, I will close this PR"
+        }
+      ]
+    }
+  ],
+  "sample_merged_newcomer_prs": [
+    {
+      "number": 667,
+      "month": "2025-06",
+      "author": "ngleo",
+      "title": "Update edit tool validation function to override validateToolParams",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/667",
+      "additions": 8,
+      "deletions": 6,
+      "labels": [
+        "size/s"
+      ],
+      "ttfr_hrs": 5.121944444444445,
+      "ttm_hrs": 5.135833333333333,
+      "quotes": [
+        {
+          "author": "ngleo",
+          "createdAt": "2025-06-01T13:14:48Z",
+          "text": "The edit tool call presents an error without confirmation."
+        }
+      ]
+    },
+    {
+      "number": 1386,
+      "month": "2025-06",
+      "author": "emeryray2002",
+      "title": "MCP documentation improvements",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/1386",
+      "additions": 428,
+      "deletions": 0,
+      "labels": [
+        "size/l"
+      ],
+      "ttfr_hrs": 0.6619444444444444,
+      "ttm_hrs": 0.6641666666666667,
+      "quotes": []
+    },
+    {
+      "number": 1423,
+      "month": "2025-06",
+      "author": "davenportjw",
+      "title": "Update Readme to call out gemini command after npm install",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/1423",
+      "additions": 6,
+      "deletions": 5,
+      "labels": [
+        "size/s"
+      ],
+      "ttfr_hrs": 0.8019444444444445,
+      "ttm_hrs": 2.7177777777777776,
+      "quotes": [
+        {
+          "author": "markmcd",
+          "createdAt": "2025-06-25T14:10:56Z",
+          "text": "These commands are no longer copy-pastable if you add a leading $"
+        },
+        {
+          "author": "davenportjw",
+          "createdAt": "2025-06-25T15:02:15Z",
+          "text": "These commands are no longer copy-pastable if you add a leading $  We should strike them from the example then too. I can update."
+        }
+      ]
+    },
+    {
+      "number": 1681,
+      "month": "2025-06",
+      "author": "mrdrozdov",
+      "title": "Update geminiChat.ts",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/1681",
+      "additions": 1,
+      "deletions": 1,
+      "labels": [
+        "size/xs"
+      ],
+      "ttfr_hrs": 3.631388888888889,
+      "ttm_hrs": 3.71,
+      "quotes": []
+    },
+    {
+      "number": 1875,
+      "month": "2025-06",
+      "author": "uttamkanodia14",
+      "title": "Fix clearcut-logger.ts to event name GEMINI_CLI_API_RESPONSE_TOOL_TOK\u2026",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/1875",
+      "additions": 1,
+      "deletions": 1,
+      "labels": [
+        "size/xs"
+      ],
+      "ttfr_hrs": 2.4630555555555556,
+      "ttm_hrs": 84.22694444444444,
+      "quotes": []
+    },
+    {
+      "number": 2700,
+      "month": "2025-06",
+      "author": "swissspidy",
+      "title": "chore: Expand node version test matrix",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/2700",
+      "additions": 13,
+      "deletions": 29,
+      "labels": [
+        "priority/p2",
+        "size/s"
+      ],
+      "ttfr_hrs": 8.716666666666667,
+      "ttm_hrs": 513.8372222222222,
+      "quotes": [
+        {
+          "author": "swissspidy",
+          "createdAt": "2025-07-01T20:48:27Z",
+          "text": "Relevant bug report when trying to contribute using Node 18: #1570 (comment)"
+        },
+        {
+          "author": "mattKorwel",
+          "createdAt": "2025-07-04T23:02:38Z",
+          "text": "Several related issues here to collate. #1226 #1164 #2930"
+        },
+        {
+          "author": "NTaylorMullen",
+          "createdAt": "2025-07-09T00:17:56Z",
+          "text": "@swissspidy going to rely on you to monitor and react to long build times if needed after this one"
+        },
+        {
+          "author": "swissspidy",
+          "createdAt": "2025-07-09T08:21:53Z",
+          "text": "Sure, no problem. FYI: this PR needs manual handling because the Build and Lint (20.x) status check is currently required, but this PR renames it to just Lint, so the previous one will always be in waiting state. To address this, need to temporarily make it not required, merge the PR, and then make the new one required."
+        }
+      ]
+    },
+    {
+      "number": 2932,
+      "month": "2025-07",
+      "author": "siba2893",
+      "title": "Fix #2922: Prevent @ concatenation to valid paths in shellmode.",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/2932",
+      "additions": 78,
+      "deletions": 8,
+      "labels": [
+        "priority/p2",
+        "size/m"
+      ],
+      "ttfr_hrs": 39.2275,
+      "ttm_hrs": 90.10916666666667,
+      "quotes": [
+        {
+          "author": "ryanjsalva",
+          "createdAt": "2025-07-03T19:30:04Z",
+          "text": "LGTM, but leaving unmerged during \"Ask Mode.\""
+        },
+        {
+          "author": "NTaylorMullen",
+          "createdAt": "2025-07-03T19:32:07Z",
+          "text": "@SandyTao520 @jacob314 could either of you take a closer look please as well"
+        },
+        {
+          "author": "siba2893",
+          "createdAt": "2025-07-03T22:01:38Z",
+          "text": "@NTaylorMullen seems got the approvals, what's the next step into getting a PR merged?"
+        },
+        {
+          "author": "siba2893",
+          "createdAt": "2025-07-04T16:22:27Z",
+          "text": "@NTaylorMullen Code has been rebased with the main branch and solved the merge conflicts."
+        },
+        {
+          "author": "NTaylorMullen",
+          "createdAt": "2025-07-05T22:18:13Z",
+          "text": "Thank you for the contribution @siba2893 !! And thank you @SandyTao520 and @jacob314 for reviews \u2764\ufe0f"
+        }
+      ]
+    },
+    {
+      "number": 3093,
+      "month": "2025-07",
+      "author": "warjiang",
+      "title": "ci: disable scheduled jobs in forked repo",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/3093",
+      "additions": 4,
+      "deletions": 0,
+      "labels": [
+        "size/xs"
+      ],
+      "ttfr_hrs": 0.7527777777777778,
+      "ttm_hrs": 117.19444444444444,
+      "quotes": [
+        {
+          "author": "warjiang",
+          "createdAt": "2025-07-03T04:07:06Z",
+          "text": "I've suffered from ci task error, especially for period task:"
+        },
+        {
+          "author": "warjiang",
+          "createdAt": "2025-07-03T04:13:16Z",
+          "text": "@jerop could you help me review the changes?"
+        },
+        {
+          "author": "ali-aljufairi",
+          "createdAt": "2025-07-03T04:51:07Z",
+          "text": "@warjiang  you can just disable actions in the forked repo but yeah I also agree it would be better if we dont have to"
+        },
+        {
+          "author": "warjiang",
+          "createdAt": "2025-07-03T04:59:51Z",
+          "text": "@warjiang you can just disable actions in the forked repo but yeah I also agree it would be better if we dont have to  +1"
+        },
+        {
+          "author": "jackwotherspoon",
+          "createdAt": "2025-07-03T12:54:24Z",
+          "text": "While as mentioned this can be disabled on forked repos by the owner of the fork, it is probably best to have it disabled by default on our end. Thanks for this @warjiang \ud83d\udc4d \ud83d\udc4f"
+        },
+        {
+          "author": "warjiang",
+          "createdAt": "2025-07-08T00:37:18Z",
+          "text": "@jackwotherspoon Hi, can we move forward this PR"
+        },
+        {
+          "author": "mattKorwel",
+          "createdAt": "2025-07-08T01:10:10Z",
+          "text": "Thanks for getting this in. This was definitely on my list of things to update. Appreciate the contribution."
+        }
+      ]
+    },
+    {
+      "number": 3570,
+      "month": "2025-07",
+      "author": "Principal-Ideal",
+      "title": "chore: fix typo",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/3570",
+      "additions": 3,
+      "deletions": 3,
+      "labels": [
+        "size/xs"
+      ],
+      "ttfr_hrs": 6.814166666666667,
+      "ttm_hrs": 6.865,
+      "quotes": []
+    },
+    {
+      "number": 4092,
+      "month": "2025-07",
+      "author": "nick-popovic",
+      "title": "Fix duplicate help text for build targets in Makefile",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/4092",
+      "additions": 2,
+      "deletions": 2,
+      "labels": [
+        "priority/p2",
+        "area/core",
+        "size/xs"
+      ],
+      "ttfr_hrs": 0.8891666666666667,
+      "ttm_hrs": 0.9702777777777778,
+      "quotes": []
+    },
+    {
+      "number": 4296,
+      "month": "2025-07",
+      "author": "seuros",
+      "title": "Update ESLint and related packages to latest versions",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/4296",
+      "additions": 19,
+      "deletions": 44,
+      "labels": [
+        "size/m"
+      ],
+      "ttfr_hrs": 34.66833333333334,
+      "ttm_hrs": 34.77,
+      "quotes": [
+        {
+          "author": "NTaylorMullen",
+          "createdAt": "2025-07-17T22:55:48Z",
+          "text": "Thank you for the contribution @seuros !!"
+        },
+        {
+          "author": "seuros",
+          "createdAt": "2025-07-17T22:57:20Z",
+          "text": "My pleasure. I will rebase the others prs."
+        }
+      ]
+    },
+    {
+      "number": 4482,
+      "month": "2025-07",
+      "author": "ashmod",
+      "title": "feat(cli): Allow Exiting Authentication Menu with CTRL+C (SIGINT)",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/4482",
+      "additions": 8,
+      "deletions": 3,
+      "labels": [
+        "priority/p2",
+        "size/s"
+      ],
+      "ttfr_hrs": 118.98166666666667,
+      "ttm_hrs": 472.82166666666666,
+      "quotes": [
+        {
+          "author": "ashmod",
+          "createdAt": "2025-07-25T22:40:12Z",
+          "text": "@sethtroisi is this good to go or does it need any modifications?"
+        },
+        {
+          "author": "sethtroisi",
+          "createdAt": "2025-07-30T23:13:23Z",
+          "text": "@dizzydroid lint is failing, can you run npm run format and then upload?"
+        },
+        {
+          "author": "ashmod",
+          "createdAt": "2025-07-30T23:28:14Z",
+          "text": "@sethtroisi lint should pass now"
+        }
+      ]
+    },
+    {
+      "number": 4733,
+      "month": "2025-07",
+      "author": "aramova",
+      "title": "feat(cli): display timestamp in /chat list",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/4733",
+      "additions": 32,
+      "deletions": 1,
+      "labels": [
+        "size/s"
+      ],
+      "ttfr_hrs": 0.2986111111111111,
+      "ttm_hrs": 12.362222222222222,
+      "quotes": [
+        {
+          "author": "jacob314",
+          "createdAt": "2025-07-23T16:54:04Z",
+          "text": "Thanks for the pull request. This all looks good. Only request is to include a screenshot with pull requests like this. That will make it easy for reviewers to understand how the feature looks without having to run it locally."
+        },
+        {
+          "author": "aramova",
+          "createdAt": "2025-07-23T17:32:17Z",
+          "text": "Replaced tabs with spaces, replaced slice with a regex and caught the unlikelihood of an invalid date. Tests in place for both scenarios.  Added screenshot to PR."
+        },
+        {
+          "author": "jacob314",
+          "createdAt": "2025-07-24T00:16:48Z",
+          "text": "Thanks for the polish! Will make it much easier to remember when saved chats are from!"
+        }
+      ]
+    },
+    {
+      "number": 4979,
+      "month": "2025-07",
+      "author": "lzrdGreen",
+      "title": "docs: Add more examples to Popular tasks",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/4979",
+      "additions": 28,
+      "deletions": 0,
+      "labels": [
+        "size/s"
+      ],
+      "ttfr_hrs": 23.191111111111113,
+      "ttm_hrs": 23.328611111111112,
+      "quotes": []
+    },
+    {
+      "number": 5090,
+      "month": "2025-07",
+      "author": "Pranith124",
+      "title": "fix(config): Resolve duplicate config loading from home directory",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/5090",
+      "additions": 116,
+      "deletions": 109,
+      "labels": [
+        "size/m"
+      ],
+      "ttfr_hrs": 17.75027777777778,
+      "ttm_hrs": 88.44305555555556,
+      "quotes": [
+        {
+          "author": "allenhutchison",
+          "createdAt": "2025-07-29T23:46:15Z",
+          "text": "This is a great fix for an important bug. The approach of checking if the current directory is the home directory is definitely the right way to go. I have a few suggestions to make this PR even more robust. 1. Fix Linting Issues It looks like the Lint check is failing in the CI. Please run npm run preflight locally and commit the changes to fix the linting errors. 2. Use Real Path Resolution for Comparison The current implementation uses direct string comparison for the directory paths. This can be unreliable across different operating systems or when symbolic links are involved. For example,"
+        },
+        {
+          "author": "Pranith124",
+          "createdAt": "2025-07-30T04:41:09Z",
+          "text": "Hi @allenhutchison, Thank you so much for the detailed and helpful feedback! I've made all the suggested changes.  1. Linting Issues: I ran npm run preflight and fixed the linting error. The checks are all passing now. 2. Real Path Resolution: I've updated the logic in both settings.ts and config.ts to use fs.realpathSync for a more robust path comparison, just as you suggested. 3. Test Fixes: The changes caused some of the existing tests in settings.test.ts to fail, so I've updated the test mocks to account for the new logic.  The full test suite is passing locally now. I believe this address"
+        },
+        {
+          "author": "allenhutchison",
+          "createdAt": "2025-07-30T21:06:34Z",
+          "text": "This is a great fix! Using realpathSync to resolve symlinks is the correct way to prevent settings from being loaded multiple times. I've filed a separate issue (#5227) to address the unrelated snapshot test failure. Once that is resolved, this PR will be ready to merge. Thank you for the excellent contribution!"
+        },
+        {
+          "author": "Pranith124",
+          "createdAt": "2025-07-31T15:52:09Z",
+          "text": "Thank you @allenhutchison for your valuable feedback and guidance. I'm a beginner in open source contribution and eager to gain experience. I would really appreciate it if you could assign me an issue to work on. Thank you once again!"
+        },
+        {
+          "author": "jacob314",
+          "createdAt": "2025-07-31T16:29:21Z",
+          "text": "Thank you @allenhutchison for your valuable feedback and guidance. I'm a beginner in open source contribution and eager to gain experience. I would really appreciate it if you could assign me an issue to work on. Thank you once again!  Thank you so much for your contribution! This was a nice issue to fix. If you would like to work on other similar issues, here a lists of high priority but approachable issues we are hoping to fix over the next couple months. UX Robustness: #4245 UX Polish: #4251 I'm still finishing categorizing all the Core issues but here is the overall issue that I will be ad"
+        },
+        {
+          "author": "Pranith124",
+          "createdAt": "2025-07-31T17:09:31Z",
+          "text": "Thank you @jacob314! I\u2019ll definitely go through it and try to resolve the issues."
+        }
+      ]
+    },
+    {
+      "number": 6453,
+      "month": "2025-08",
+      "author": "werdnum",
+      "title": "feat(cli): Add --allowed-tools flag to bypass tool confirmation (#2417)",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/6453",
+      "additions": 524,
+      "deletions": 135,
+      "labels": [
+        "size/l"
+      ],
+      "ttfr_hrs": 60.66777777777778,
+      "ttm_hrs": 201.28277777777777,
+      "quotes": [
+        {
+          "author": "abhipatel12",
+          "createdAt": "2025-08-20T19:52:40Z",
+          "text": "Hey Andrew thanks for this PR! Left a few comments, let me know what you think. Some naming questions about the flag + some relocation just in case you had thoughts on that before you made any changes!"
+        },
+        {
+          "author": "werdnum",
+          "createdAt": "2025-08-22T10:51:34Z",
+          "text": "Rebase was a bit of a pain. Of note, I adjusted the order of some of the permissions checks (in particular we always check if a tool requires confirmation), this made one test fail because it was looking for that method to never be called. IMO that is kind of overspecified so I just deleted the assertion."
+        },
+        {
+          "author": "allenhutchison",
+          "createdAt": "2025-08-26T16:17:32Z",
+          "text": "This is a great contribution and will really help people who want to allow list shell commands and sub-tools."
+        }
+      ]
+    },
+    {
+      "number": 6621,
+      "month": "2025-08",
+      "author": "aaabramov",
+      "title": "Fix formatting in README.md",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/6621",
+      "additions": 4,
+      "deletions": 2,
+      "labels": [
+        "size/xs"
+      ],
+      "ttfr_hrs": 6.954722222222222,
+      "ttm_hrs": 7.568333333333333,
+      "quotes": []
+    },
+    {
+      "number": 6675,
+      "month": "2025-08",
+      "author": "bravetux",
+      "title": "fix: typos/grammar in roadmap",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/6675",
+      "additions": 3,
+      "deletions": 3,
+      "labels": [
+        "size/xs"
+      ],
+      "ttfr_hrs": 0.6227777777777778,
+      "ttm_hrs": 1.1633333333333333,
+      "quotes": []
+    },
+    {
+      "number": 7005,
+      "month": "2025-08",
+      "author": "as-cii",
+      "title": "Show error instead of aborting if model fails to call tool",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/7005",
+      "additions": 62,
+      "deletions": 61,
+      "labels": [
+        "size/m"
+      ],
+      "ttfr_hrs": 0.52,
+      "ttm_hrs": 2.0580555555555557,
+      "quotes": []
+    },
+    {
+      "number": 8508,
+      "month": "2025-09",
+      "author": "razakhan-dev",
+      "title": "Fix to issue #736 resulting in GEMINI_CLI_AUTH_TYPE not getting populated most of the time in the start_session events",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/8508",
+      "additions": 4,
+      "deletions": 2,
+      "labels": [
+        "size/xs"
+      ],
+      "ttfr_hrs": 0.2811111111111111,
+      "ttm_hrs": 32.7725,
+      "quotes": [
+        {
+          "author": "owenofbrien",
+          "createdAt": "2025-09-15T21:52:21Z",
+          "text": "Let's discuss offline before proceeding."
+        }
+      ]
+    }
+  ],
+  "sample_notable_issues": [
+    {
+      "number": 672,
+      "month": "2025-06",
+      "author": "NTaylorMullen",
+      "title": "Allow `.env` files in your `~/.gemini` folder",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/672",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "labels": [],
+      "total_comments": 8,
+      "ttfr_hrs": 2.8505555555555557,
+      "quotes": [
+        {
+          "author": "olcan",
+          "createdAt": "2025-06-02T00:02:21Z",
+          "text": "what kind of MCP configs do you mean? i thought they go in settings not .env \u2026 On Sun, Jun 1, 2025 at 2:11\u202fPM N. Taylor Mullen ***@***.***> wrote:  *NTaylorMullen* created an issue (google-gemini/gemini-cli#672)  <#672>   We should special case ~/.gemini and absorb any .env files from there.  This would enable users to set centralized MCP configurations or even just  API keys.   \u2014  Reply to this email directly, view it on GitHub  <#672>, or unsubscribe  <https://github.com/notifications/unsubscribe-auth/AAFWNPCGK7BWLNBOHB2HN533BNUA7AVCNFSM6AAAAAB6LP6TCKVHI2DSMVQWIX3LMV43ASLTON2WKOZTGEYDOOBWGEY"
+        },
+        {
+          "author": "olcan",
+          "createdAt": "2025-06-02T00:17:22Z",
+          "text": "just saw relevant chat https://chat.google.com/room/AAQApBm33UQ/Ooh6rggonS8/Ooh6rggonS8?cls=10 i don't think using .env for MCP env vars would be a good idea because they are server-command-specific for API keys yes but AFAIK what we do now with .env files is the standard"
+        },
+        {
+          "author": "NTaylorMullen",
+          "createdAt": "2025-06-02T01:50:05Z",
+          "text": "I think from an MCP perspective it could be nice if you want to share a singular env variable across multiple servers"
+        },
+        {
+          "author": "olcan",
+          "createdAt": "2025-06-02T02:38:11Z",
+          "text": "i would recommend being self-contained in mcp server config JSON (so you can copy/paste across clients). however after thinking about this i agree that a gemini-specific global .env file does make sense"
+        },
+        {
+          "author": "olcan",
+          "createdAt": "2025-06-02T02:38:52Z",
+          "text": "basically instead of loading .env from project folder and parent folders and then ~, also check .gemini under each of those"
+        },
+        {
+          "author": "olcan",
+          "createdAt": "2025-06-02T02:39:31Z",
+          "text": "and recommend putting any gemini-specific env in .gemini/.env"
+        }
+      ]
+    },
+    {
+      "number": 771,
+      "month": "2025-06",
+      "author": "scruggs132",
+      "title": "Chat history tends to alter memory behavior",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/771",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "labels": [
+        "priority/p2",
+        "Stale"
+      ],
+      "total_comments": 2,
+      "ttfr_hrs": 11.88888888888889,
+      "quotes": [
+        {
+          "author": "NTaylorMullen",
+          "createdAt": "2025-06-06T06:31:16Z",
+          "text": "I wonder how much this applies to the latest 06-05 pro model"
+        }
+      ]
+    },
+    {
+      "number": 846,
+      "month": "2025-06",
+      "author": "NTaylorMullen",
+      "title": "Consider trimming very old file reads",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/846",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "labels": [
+        "priority/p2",
+        "Stale"
+      ],
+      "total_comments": 2,
+      "ttfr_hrs": 70.77111111111111,
+      "quotes": [
+        {
+          "author": "keir",
+          "createdAt": "2025-06-11T06:04:20Z",
+          "text": "An alternate approach which might solve this issue more fundamentally is outlined in #932."
+        }
+      ]
+    },
+    {
+      "number": 1424,
+      "month": "2025-06",
+      "author": "mateuszmazurek",
+      "title": "Feature Request: Let us use our paid Gemini Pro/Ultra plans for higher limits/models",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/1424",
+      "state": "CLOSED",
+      "stateReason": "DUPLICATE",
+      "labels": [],
+      "total_comments": 3,
+      "ttfr_hrs": 1.2294444444444443,
+      "quotes": [
+        {
+          "author": "prithpal",
+          "createdAt": "2025-06-25T14:39:06Z",
+          "text": "Its on our radar, we are looking into it."
+        },
+        {
+          "author": "allquixotic",
+          "createdAt": "2025-06-25T16:18:48Z",
+          "text": "Yes, I can't switch from Claude Max to Gemini AI Ultra until this feature is implemented."
+        },
+        {
+          "author": "ccdd2023",
+          "createdAt": "2025-06-30T01:12:16Z",
+          "text": "also it's annoying you have two separate subscription for AI pro/ultra and google code assist. Hope to have an all in one subscription just like Claude"
+        }
+      ]
+    },
+    {
+      "number": 1435,
+      "month": "2025-06",
+      "author": "Hangry-eggplant",
+      "title": "Auth error",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/1435",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "labels": [
+        "priority/p2"
+      ],
+      "total_comments": 3,
+      "ttfr_hrs": 28.113611111111112,
+      "quotes": [
+        {
+          "author": "Hangry-eggplant",
+          "createdAt": "2025-06-25T14:09:00Z",
+          "text": "Also worth noting that I have that API key set globally in bashsrc // After trying to log in with regular google account - it works."
+        },
+        {
+          "author": "ptone",
+          "createdAt": "2025-06-26T18:12:00Z",
+          "text": "Can you share an output when run with --debug, we need more information to understand the problem"
+        },
+        {
+          "author": "gsquared94",
+          "createdAt": "2025-09-16T16:14:02Z",
+          "text": "There have been a few fixes around auth since this issue was opened. Closing this for now due to no repro. Let us know if you see anything new."
+        }
+      ]
+    },
+    {
+      "number": 1459,
+      "month": "2025-06",
+      "author": "brianhuster",
+      "title": "Support MCP resources",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/1459",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "labels": [],
+      "total_comments": 9,
+      "ttfr_hrs": 9.573888888888888,
+      "quotes": [
+        {
+          "author": "heartyguy",
+          "createdAt": "2025-06-26T00:52:14Z",
+          "text": "I'd like to work on this issue! \ud83d\ude80 Proposed Approach After reviewing other MCP implementations (Roo Code, Claude Desktop), I noticed they focus solely on MCP resources without prompts. I propose following the same approach - implementing only MCP resources support for now. Technical Details  Add ResourceRegistry to manage resources from multiple MCP servers Implement ReadResourceTool and ListResourcesTool Extend MCP client to discover resources via listResources() and listResourceTemplates() Resources will be available through Gemini's existing tool system  This keeps the implementation focused"
+        },
+        {
+          "author": "chrstnb",
+          "createdAt": "2025-07-09T15:41:13Z",
+          "text": "Hey @heartyguy! Have you had a chance to do this? If not, someone on our team was going to grab it!"
+        },
+        {
+          "author": "ashwinpvg",
+          "createdAt": "2025-07-09T18:06:44Z",
+          "text": "Hey @heartyguy! Have you had a chance to do this? If not, someone on our team was going to grab it!  Looks like there is a PR out already :) #1789"
+        },
+        {
+          "author": "ryanbaumann",
+          "createdAt": "2025-07-11T16:09:05Z",
+          "text": "This is great looking forward to this PR and new release. We need /resources for our MCP servers!"
+        },
+        {
+          "author": "requiem240sx",
+          "createdAt": "2025-07-28T21:00:38Z",
+          "text": "I setup my own custom MCP server and was let down when I realized none of the prompts or resources are showing up. Question: In most other IDE's (cluade code, vscode) you can simply type / and it auto shows all available MCP Prompts for you to execute by command (or load in that prompt). Prompts then call the tools to build workflows.  Will this MR allow for this / style discover of prompts? Or will that be a new issue we need to add in? I see the MR is close, looks like testing is needed now."
+        },
+        {
+          "author": "haroldmciver-go",
+          "createdAt": "2025-07-30T19:27:02Z",
+          "text": "Gemini CLI now supports MCP prompts! They can be discovered and displayed using /mcp and the prompts can be directly called using /<prompt-name> --args=\"\" more info here: #4828"
+        },
+        {
+          "author": "toonetown",
+          "createdAt": "2025-09-03T21:37:10Z",
+          "text": "Looks like the resource PR got abandoned and closed - would be interested in seeing it get revived at some point in time..."
+        },
+        {
+          "author": "nsheff",
+          "createdAt": "2025-09-17T18:54:49Z",
+          "text": "Indeed. Prompts are great! Any plan to support MCP Resources pending? Closed PR: #1789"
+        }
+      ]
+    },
+    {
+      "number": 1462,
+      "month": "2025-06",
+      "author": "DazWilkin",
+      "title": "Using container image times out \"Waiting for auth\"",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/1462",
+      "state": "CLOSED",
+      "stateReason": "DUPLICATE",
+      "labels": [],
+      "total_comments": 3,
+      "ttfr_hrs": 0.13527777777777777,
+      "quotes": [
+        {
+          "author": "scidomino",
+          "createdAt": "2025-06-25T15:29:06Z",
+          "text": "This is a known limitation. You can only do oauth in a non-sandboxed local terminal. We do plan to fix this soon however."
+        },
+        {
+          "author": "gsquared94",
+          "createdAt": "2025-07-30T22:10:59Z",
+          "text": "Found possible duplicate issues:\\n\\n- #2515: (0.9053143206426112)\\n\\n"
+        }
+      ]
+    },
+    {
+      "number": 1484,
+      "month": "2025-06",
+      "author": "wittrock",
+      "title": "Got into chanting loop after editing file",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/1484",
+      "state": "CLOSED",
+      "stateReason": "DUPLICATE",
+      "labels": [
+        "priority/p0"
+      ],
+      "total_comments": 2,
+      "ttfr_hrs": 0.025277777777777777,
+      "quotes": [
+        {
+          "author": "scidomino",
+          "createdAt": "2025-06-25T15:54:03Z",
+          "text": "This is a problem we've been combatting for a while now. We made tweaks to the prompt that have reduced the problem but it still happens occasionally."
+        },
+        {
+          "author": "ruchernchong",
+          "createdAt": "2025-06-25T16:12:59Z",
+          "text": "Yeah, the CLI went into a loop by running the tests, linter and git status for me"
+        }
+      ]
+    },
+    {
+      "number": 1498,
+      "month": "2025-06",
+      "author": "chingchun94",
+      "title": "API Error: Unexpected line format in response:",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/1498",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "labels": [
+        "priority/p2",
+        "Stale"
+      ],
+      "total_comments": 16,
+      "ttfr_hrs": 0.16361111111111112,
+      "quotes": [
+        {
+          "author": "chingchun94",
+          "createdAt": "2025-06-25T16:19:28Z",
+          "text": "I think it should prompt the user to login/provide API instead of returning the error? Didnt experience this when using WSL + windows"
+        },
+        {
+          "author": "veilm",
+          "createdAt": "2025-06-25T16:27:01Z",
+          "text": "I think in your example the request fully succeeded on the \"how to run in sandbox?\" and only failed on the subsequent \"how does the restriction work?\" It would have failed on the first if your authentication wasn't configured"
+        },
+        {
+          "author": "alex-orlovskyi",
+          "createdAt": "2025-06-25T19:19:13Z",
+          "text": "https://developers.google.com/gemini-code-assist/resources/available-locations Gemini CLI / Code assist plugin might be not available for you, if your personal gmail account bounded to country not in this list ^^."
+        },
+        {
+          "author": "adhhamofficial",
+          "createdAt": "2025-06-26T16:07:17Z",
+          "text": "The same error occurred to me halfway through a prompt. (Original prompt: \"create an ecommerce website with plain php, html, css, js and use sqlite as db\") I just asked it to continue the previous command and it successfully did. Model: gemini-2.5-flash System: WSL2 (Ubuntu)"
+        },
+        {
+          "author": "pbartoszek",
+          "createdAt": "2025-09-24T14:36:55Z",
+          "text": "After upgrading to version 0.6.0 I hit the same issue:(( I am using Windows 11 and standard Terminal \u2715 [API Error: Unexpected line format in response: ,] /about gives me \u2502                                                        \u2502 \u2502 About Gemini CLI                                       \u2502 \u2502                                                        \u2502 \u2502 CLI Version        0.6.0                               \u2502 \u2502 Git Commit         7e1bce7                            \u2502 \u2502 Model              gemini-2.5-pro                      \u2502 \u2502 Sandbox            no sandbox                          \u2502 \u2502 OS              "
+        },
+        {
+          "author": "emilianomoscato",
+          "createdAt": "2025-09-25T14:56:56Z",
+          "text": "I am having the same issue running Gemini CLI 0.6.1 on macOS 15.6.1"
+        },
+        {
+          "author": "pbartoszek",
+          "createdAt": "2025-10-01T10:37:46Z",
+          "text": "It's working again for me but now from time to time I get \u2715 [API Error: Model stream ended with an invalid chunk or missing finish reason.]"
+        },
+        {
+          "author": "shannamurry",
+          "createdAt": "2025-10-03T14:47:20Z",
+          "text": "I have the same issue with EVERY prompt I try - what a piece of garbage - google, are you interested in fixing this bug or what? I am using 0.7.0 on MacOS 15.6 - authentication via oauth.  Here's the error:  { \"error\": { \"message\": \"Unexpected line format in response: ,\", \"stack\": \"Error: Unexpected line format in response: ,\\n    at file:///Users/shanna.murry/.nodenv/versions/20.19.3/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/code_assist/server.js:128:27\\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\\n    at async file"
+        }
+      ]
+    },
+    {
+      "number": 1533,
+      "month": "2025-06",
+      "author": "hcsolakoglu",
+      "title": "Bug: replace tool writes different code than what's shown in the approval diff",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/1533",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "labels": [
+        "priority/p1"
+      ],
+      "total_comments": 1,
+      "ttfr_hrs": 1391.951388888889,
+      "quotes": [
+        {
+          "author": "srithreepo",
+          "createdAt": "2025-08-22T17:31:11Z",
+          "text": "Hi @hcsolakoglu , Various improvements over the past few  months specifically focused on tool calling and how tools work should have resolved this issue. Please do let us know if this is still a problem, If you do run into it, some steps in terms of how to reproduce this will also be invaluable"
+        }
+      ]
+    },
+    {
+      "number": 1541,
+      "month": "2025-06",
+      "author": "Vinit-Chandak",
+      "title": "Feature Request: Enhance /clear command to reset model context",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/1541",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "labels": [
+        "priority/p2",
+        "area/core",
+        "Stale"
+      ],
+      "total_comments": 2,
+      "ttfr_hrs": null,
+      "quotes": [
+        {
+          "author": "Vinit-Chandak",
+          "createdAt": "2025-06-25T19:03:07Z",
+          "text": "Apparently it does clear the model context but the same is not reflected on the UI until you send the next message. As soon as one sends the next message after clear, the UI is update and it says 100% context available."
+        }
+      ]
+    },
+    {
+      "number": 1605,
+      "month": "2025-06",
+      "author": "infocusmodereal",
+      "title": "Add support for OpenAI models as a backend",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/1605",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "labels": [
+        "priority/p3",
+        "area/core"
+      ],
+      "total_comments": 14,
+      "ttfr_hrs": 1.2077777777777778,
+      "quotes": [
+        {
+          "author": "cperry-goog",
+          "createdAt": "2025-06-25T22:07:18Z",
+          "text": "I appreciate this issue, and grateful to you for filing it. We're not quite ready to work on adding support for other models at this point in time, as you will see we're tightly coupled to Gemini's capabilities. We'd like to focus on making a great tool for Gemini. I aspire to make this work in the longer run, I'd like to keep this open as the canonical issue for other model support we can dupe others into."
+        },
+        {
+          "author": "gerrywastaken",
+          "createdAt": "2025-06-25T23:30:04Z",
+          "text": "Somebody may already be forking this to create a billion dollar company. The Cursor of CLI tools with support for all models. Anybody still using VSCode?"
+        },
+        {
+          "author": "arpanpreneur",
+          "createdAt": "2025-06-26T06:18:50Z",
+          "text": "An OpenAI compatible endpoint support would go a long way into supporting most Open Source models who are exposed as OpenAI compatible endpoints. This would help to use this tool in a completely private environment."
+        },
+        {
+          "author": "tarruda",
+          "createdAt": "2025-06-27T14:57:56Z",
+          "text": "I appreciate this issue, and grateful to you for filing it. We're not quite ready to work on adding support for other models at this point in time, as you will see we're tightly coupled to Gemini's capabilities  Yes, it makes sense to create the tool in a way that makes the best use of Gemini capabilities. However, in the end this is just an agent that provides a system prompt plus a set of tools to the LLM, so it can be used with other models even if Gemini continues to be the main focus. There's a few ways with which this project could allow for other models without explicitly supporting it "
+        },
+        {
+          "author": "ksecurity45",
+          "createdAt": "2025-06-29T15:01:47Z",
+          "text": "Much needed future. Else we cant use it in our workflow."
+        },
+        {
+          "author": "acoliver",
+          "createdAt": "2025-07-02T17:54:56Z",
+          "text": "I'm really excited about Gemma-CLI. Google has created a compelling tool and by making it open source they've opened up a lot of potential! Unfortunately right now it isn't viable as a competitor to Claude Code (for $200 you get all you can realistically eat without throttling), it immediately throttles you to flash which isn't good enough for most things you'll want to use it for (if you're smart enough to use a CLI then you're not working on code that flash can handle). It also unfortunately doesn't work with other models (especially local, fireworks or openrouter). To alleviate those issues"
+        },
+        {
+          "author": "six-ddc",
+          "createdAt": "2025-07-06T13:33:12Z",
+          "text": "One potential approach could be to introduce the ai-sdk as an intermediary layer for model capability provisioning, which would enable compatibility with nearly all AI providers."
+        },
+        {
+          "author": "acoliver",
+          "createdAt": "2025-07-06T19:27:19Z",
+          "text": "I submitted as a PR #3405 - it does this and more."
+        }
+      ]
+    },
+    {
+      "number": 1800,
+      "month": "2025-06",
+      "author": "suchakr",
+      "title": "Gemini  Cli responses are wierd -- see screenshot",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/1800",
+      "state": "CLOSED",
+      "stateReason": "DUPLICATE",
+      "labels": [
+        "priority/p2"
+      ],
+      "total_comments": 4,
+      "ttfr_hrs": 0.051944444444444446,
+      "quotes": [
+        {
+          "author": "Lim6112",
+          "createdAt": "2025-06-26T06:38:48Z",
+          "text": "same problem , working well in aider. but gemini-cli says exhausted. -_-"
+        },
+        {
+          "author": "Lim6112",
+          "createdAt": "2025-06-26T06:43:18Z",
+          "text": "solved. remove ~/.gemini gemini run /auth select email auth problem solved"
+        },
+        {
+          "author": "ilioscio",
+          "createdAt": "2025-06-26T06:44:12Z",
+          "text": "Devs have stated this is happening because the launch is overloaded, should be resolved after some adjustments."
+        },
+        {
+          "author": "Mukamik",
+          "createdAt": "2025-07-03T23:26:26Z",
+          "text": "Apologies, this does seem to be a rate limiting issue. We are actively working on resolving this problem, and I will be closing this one as a duplicate of #1502. Please follow along there for updates, or let us know if you believe this issue is distinct and should be re-opened."
+        }
+      ]
+    },
+    {
+      "number": 1879,
+      "month": "2025-06",
+      "author": "espadrine",
+      "title": "Feature request: When Gemini edits a file, suggest feedback",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/1879",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "labels": [
+        "priority/p3",
+        "Stale"
+      ],
+      "total_comments": 2,
+      "ttfr_hrs": 2.0225,
+      "quotes": [
+        {
+          "author": "goodmai",
+          "createdAt": "2025-06-26T12:25:02Z",
+          "text": "Absolutle agreed , imroving or corrected prompt during confirmation phase will be a veru usefull"
+        }
+      ]
+    },
+    {
+      "number": 1926,
+      "month": "2025-06",
+      "author": "alexmocanu",
+      "title": "Resources exhausted after first prompt without any resources used...",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/1926",
+      "state": "CLOSED",
+      "stateReason": "DUPLICATE",
+      "labels": [
+        "priority/p1"
+      ],
+      "total_comments": 3,
+      "ttfr_hrs": 0.37305555555555553,
+      "quotes": [
+        {
+          "author": "younes-io",
+          "createdAt": "2025-06-26T13:50:14Z",
+          "text": "Also have the same issue !!!!"
+        },
+        {
+          "author": "sethtroisi",
+          "createdAt": "2025-07-01T22:36:40Z",
+          "text": "We are aware of the large number of 429s and model switching to flash during our first week. We\u2019re actively increasing capacity and adjusting this model fallback to resolve the issue and prevent future disruptions. This is being tracked and discussed in #1502"
+        }
+      ]
+    },
+    {
+      "number": 2015,
+      "month": "2025-06",
+      "author": "domesticmouse",
+      "title": "If an MCP doesn't supply instructions, Gemini CLI refuses to connect to the MCP.",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/2015",
+      "state": "CLOSED",
+      "stateReason": "NOT_PLANNED",
+      "labels": [
+        "priority/p2",
+        "area/agent",
+        "Stale",
+        "status/bot-triaged",
+        "kind/bug"
+      ],
+      "total_comments": 7,
+      "ttfr_hrs": 3988.005277777778,
+      "quotes": [
+        {
+          "author": "ruipedro-pinheiro",
+          "createdAt": "2025-12-10T00:06:42Z",
+          "text": "Just got the same issue but this time in a more general context. I was trying to connect gemini-cli to mcp servers that claude could connect flawlessly."
+        },
+        {
+          "author": "domesticmouse",
+          "createdAt": "2026-05-05T04:09:26Z",
+          "text": "I'm unsure what additional activity is required."
+        }
+      ]
+    },
+    {
+      "number": 2016,
+      "month": "2025-06",
+      "author": "meatpaste",
+      "title": "Editor setting incorrectly reports Windsurf (Not installed)",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/2016",
+      "state": "CLOSED",
+      "stateReason": "DUPLICATE",
+      "labels": [],
+      "total_comments": 3,
+      "ttfr_hrs": 0.1388888888888889,
+      "quotes": [
+        {
+          "author": "ptone",
+          "createdAt": "2025-06-26T20:16:32Z",
+          "text": "is there a windsurf command on your path? See #1778 for similar"
+        },
+        {
+          "author": "tifroz",
+          "createdAt": "2025-06-27T19:14:26Z",
+          "text": "Not sure this is a duplicate of the linked cursor issue? I am working on a MacOS 15.5, where the windsurf executable lives at /Applications/Windsurf.app/Contents/MacOS/Electron. I do have an alias setup (see which command output below) which windsurf windsurf: aliased to /Applications/Windsurf.app/Contents/MacOS/Electron  It doesn't work for me,  the Gemini CLI says Windsurf (Not installed). What is the CLI looking for? \u2502 CLI Version            0.1.3                                      \u2502 \u2502 Git Commit             382486e (local modifications)              \u2502 \u2502 Model                  gemini-2.5-"
+        },
+        {
+          "author": "alkindi17",
+          "createdAt": "2025-06-28T13:02:37Z",
+          "text": "@tifroz  Try installing the windsurf command by pressing cmd+shift+p > Install 'surf' command in Windsurf. Open a new terminal window. Try running gemini again.  This worked for me"
+        }
+      ]
+    },
+    {
+      "number": 2034,
+      "month": "2025-06",
+      "author": "Malraus",
+      "title": "Bug using the commands",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/2034",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "labels": [],
+      "total_comments": 2,
+      "ttfr_hrs": 17.161944444444444,
+      "quotes": [
+        {
+          "author": "chrstnb",
+          "createdAt": "2025-06-27T15:17:53Z",
+          "text": "What OS/shell are you on? Thank you for reporting!"
+        },
+        {
+          "author": "sethtroisi",
+          "createdAt": "2025-07-01T22:48:15Z",
+          "text": "Needs more information for follow up. Re-open if this is still happening."
+        }
+      ]
+    },
+    {
+      "number": 2094,
+      "month": "2025-06",
+      "author": "nullbio",
+      "title": "Show costs",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/2094",
+      "state": "CLOSED",
+      "stateReason": "NOT_PLANNED",
+      "labels": [
+        "priority/p2",
+        "area/core",
+        "status/bot-triaged",
+        "kind/enhancement"
+      ],
+      "total_comments": 15,
+      "ttfr_hrs": 3.111111111111111,
+      "quotes": [
+        {
+          "author": "nullbio",
+          "createdAt": "2025-06-27T03:29:47Z",
+          "text": "Sounds like whatever system is responsible for calculating the costs of a user based on tokens needs a non-cached or non-queued endpoint that can be used by Gemini-CLI."
+        },
+        {
+          "author": "cajone",
+          "createdAt": "2025-06-27T06:27:51Z",
+          "text": "This is actually really scary, with all the issues yesterday relating to the 429 error. I created a tier 1 google cloud account and linked it to the project I was working on as I needed to move on. I worked on the project for a few hours when the platform stabilised for a bit ( this was a monitored process, nothing was left running all night in the back ground.) Got up this morning to discover I racked up a massive token usage :  along with what looks like a large balance on my brand new account, cant help but think there was no way I could have used that many tokens in such a short period of "
+        },
+        {
+          "author": "nullbio",
+          "createdAt": "2025-06-27T08:29:52Z",
+          "text": "This is actually really scary, with all the issues yesterday relating to the 429 error. I created a tier 1 google cloud account and linked it to the project I was working on as I needed to move on. I worked on the project for a few hours when the platform stabilised for a bit ( this was a monitored process, nothing was left running all night in the back ground.) Got up this morning to discover I racked up a massive token usage :  along with what looks like a large balance on my brand new account, cant help but think there was no way I could have used that many tokens in such a short period of "
+        },
+        {
+          "author": "datayeah",
+          "createdAt": "2025-06-30T23:34:36Z",
+          "text": "same here. i am shocked. played around with it using an API key for 3 days and am confronted with a bill of 850$."
+        },
+        {
+          "author": "shaojiahao",
+          "createdAt": "2025-07-01T01:44:51Z",
+          "text": "Is it possible that the Gemini CLI analyzed the entire project's source code, including the source code of third-party libraries like node_modules and venv, which led to the extremely high costs? I made about 300 requests yesterday and inputted 120 million tokens, which is simply unimaginable."
+        },
+        {
+          "author": "shaojiahao",
+          "createdAt": "2025-07-01T02:10:58Z",
+          "text": "I think I understand now, Infinite loop..."
+        },
+        {
+          "author": "nullbio",
+          "createdAt": "2025-07-01T08:57:58Z",
+          "text": "I think I understand now, Infinite loop...   Ouch. This shouldn't even be possible. I'll be honest, I don't understand why so many people claim that Gemini is ahead of all the competition. It's very obvious that is not the case."
+        },
+        {
+          "author": "datayeah",
+          "createdAt": "2025-07-01T10:35:00Z",
+          "text": "this is exactly what i discovered. endless loops, seeming to make endless request, and generating endless costs... :("
+        }
+      ]
+    },
+    {
+      "number": 2106,
+      "month": "2025-06",
+      "author": "TheBigSasha",
+      "title": "Agent can bypass allowed commands using `&&` command concatenation.",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/2106",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "labels": [
+        "priority/p2",
+        "area/core",
+        "area/agent",
+        "Stale"
+      ],
+      "total_comments": 2,
+      "ttfr_hrs": 603.8925,
+      "quotes": [
+        {
+          "author": "richardj-bsquare",
+          "createdAt": "2025-07-22T08:08:33Z",
+          "text": "Complex though as just for a single shell like bash there are many, many escape hatches other than just &&: true && do something nasty false || do something nasty ls | do something nasty ls ; do something nasty ls > overwrite something ls >> append something to name but a few (there are more). Sandboxing (available) to limit blast-radius is a must as it will be practically impossible to catch all the possibilities, but certainly there are some obvious low hanging fruit that could be catered for if the allowedCommands had a more complex ruleset capability."
+        }
+      ]
+    },
+    {
+      "number": 2185,
+      "month": "2025-06",
+      "author": "jackpal",
+      "title": "GEMINI.md '@' file import behavior should match CLAUDE.md",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/2185",
+      "state": "CLOSED",
+      "stateReason": "NOT_PLANNED",
+      "labels": [
+        "priority/p3",
+        "area/agent",
+        "Stale",
+        "kind/customer-issue",
+        "status/bot-triaged"
+      ],
+      "total_comments": 7,
+      "ttfr_hrs": 17.15388888888889,
+      "quotes": [
+        {
+          "author": "jackpal",
+          "createdAt": "2025-06-29T15:59:41Z",
+          "text": "Improved spec: Implement @filepath include processing for GEMINI.md files.   Ignore @ characters that appear in markdown code spans and markdown code blocks.   Spaces in paths should be escaped with a backslash (e.g., @My\\ Documents/file.txt).   Use a real markdown parser such as marked to parse the files looking for @, so that code spans and code blocks can be reliably ignored.   parse all included files as markdown, no matter what their file extension is.   Allow a total of 5 levels of files, counting the original GEMINI.md as the first level. Ignore files deeper than 5 levels.   ignore miss"
+        },
+        {
+          "author": "jackpal",
+          "createdAt": "2025-06-29T23:30:21Z",
+          "text": "It looks like pull request #2230 partially implemented this feature. The implementation is incompatible with the CLAUDE.md equivalent in (at least) the following ways:  It accepts @ imports everywhere in the text of the file, whereas CLAUDE.md ignores @ imports inside inline code quotes and code blocks. It only imports md files, whereas CLAUDE.md imports any file (and treats whatever it imports as a markdown file.) It defaults to an import depth of 10 vs claude's import depth limit of 5.  I think all three of these differences should be fixed, for compatibility sake."
+        },
+        {
+          "author": "PaulRBerg",
+          "createdAt": "2025-09-05T15:51:51Z",
+          "text": "@jackpal and another incompatibility with CLAUDE.md:  It is not possible to use global import paths, whereas Claude supports that.   I would like to import files like so: # Base Instructions  @~/.claude/context/BASE.md  # Languages  @~/.claude/context/languages/LANGUAGES.md  # Tools  @~/.claude/context/tools/TOOLS.md But it doesn't work. Related: #4098"
+        }
+      ]
+    },
+    {
+      "number": 2208,
+      "month": "2025-06",
+      "author": "maeein786",
+      "title": "Feature Request: Option to Disable Automatic Model Fallback (Pro to Flash)",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/2208",
+      "state": "CLOSED",
+      "stateReason": "NOT_PLANNED",
+      "labels": [
+        "priority/p3",
+        "area/core",
+        "status/needs-info"
+      ],
+      "total_comments": 13,
+      "ttfr_hrs": 38.034166666666664,
+      "quotes": [
+        {
+          "author": "yuki2006",
+          "createdAt": "2025-06-29T03:27:31Z",
+          "text": "I agree. I'm hesitant to use this feature because the automatic fallback has a high chance of breaking the project. I only want to use 2.5 Pro. If it's not available, it should just fail with an error and do nothing else."
+        },
+        {
+          "author": "bryanlan",
+          "createdAt": "2025-06-30T19:08:18Z",
+          "text": "+1 Google CLI is useless without this. Under no circumstances do I want to use flash 2.5, and the frequency of this happening makes this a blocker for me to use this at all."
+        },
+        {
+          "author": "gfhvgjhb",
+          "createdAt": "2025-07-02T08:23:45Z",
+          "text": "It would be great if there was an option to wait for Gemini 2.5 Pro to become available."
+        },
+        {
+          "author": "tiklup11",
+          "createdAt": "2025-07-07T20:00:46Z",
+          "text": "flash sucks on coding tasks, break my code too often and this switching also happens quite often."
+        },
+        {
+          "author": "loganmoon",
+          "createdAt": "2025-07-08T21:55:17Z",
+          "text": "+1. I was having a very productive coding session with 2.5 Pro until suddenly, I was downgraded to Flash without even being presented an option to say \"no.\" This was a horrible user experience as Flash either completely ignored or simply could not understand the the context and instructions I had spent hours carefully crafting. Any attempt to guide it back on track just resulted in more script-kiddie behavior. If Google can't handle the demand that the pro model is placing on their systems, that's fine. But at least let me switch back to manual coding or another agent rather than just ruining "
+        },
+        {
+          "author": "snowliondev",
+          "createdAt": "2025-07-17T14:26:23Z",
+          "text": "It's too dangerous to put Gemini in auto-accept changes when flash fallback is even a possibility. It went about entirely reversing a whole bunch of features. The fact that it can just sneak in asking, and I'm sure even one time it was telling me it was on Pro, but behaving exactly like it was on Flash."
+        },
+        {
+          "author": "dikelps",
+          "createdAt": "2025-09-30T15:47:38Z",
+          "text": "I cannot trust flash in any capacity with the edit. I'd rather write by hand than to review anything flash comes up with. Please add this simple feature to completely disable the flash models. In a recent incident during the downtime of pro models the CLI did not display it was using flash on the right bottom but it was, this behavior was immediately caught because the quality difference is simply massive, but I'd rather not have to worry about those hidden behavior."
+        },
+        {
+          "author": "RetroInsanity",
+          "createdAt": "2025-10-10T13:39:12Z",
+          "text": "Yeah, I can literally not believe this is STILL going on several months later!  \"Backlog - a good idea but not currently a priority\" pretty much says it all. Constant interruption of the workflow to switch models, while not even giving the user the option to wait renders every other fix the developers could do on CLI pretty much pointless for everyone except paid API users. I get that you want to basically slay the free users (a-la Spotify) and make it completely unviable to use the free tier. But meanwhile I have a paid Google Workspace Business Plus account which seems to give me a decent am"
+        }
+      ]
+    },
+    {
+      "number": 2228,
+      "month": "2025-06",
+      "author": "jessy2027",
+      "title": "autoAccept option not working in Gemini CLI",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/2228",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "labels": [
+        "priority/p3",
+        "Stale"
+      ],
+      "total_comments": 4,
+      "ttfr_hrs": 3.6708333333333334,
+      "quotes": [
+        {
+          "author": "jacob314",
+          "createdAt": "2025-06-27T18:54:10Z",
+          "text": "Please let me know if you are seeing this issues for file edits or other actions that might need confirmation (e.g. rm -rf ~) If you want zero confirmations you can run gemini --yolo please use at your own risk. This will remove confirmations for both file edits and tool executions. Triggering autoAccept from within the tool will only auto accept file edits. You will still need to confirm tool executions. There is one known issue for autoAccept for file edits were you will still have to confirm every file for the current group of file edits after you confirm you want to be in autoAccept mode. "
+        },
+        {
+          "author": "yuki2006",
+          "createdAt": "2025-06-28T14:44:50Z",
+          "text": "Personally, instead of a blanket autoAccept yolo setting, I would prefer to specify permissions individually, such as automatically allowing file writing or certain commands."
+        },
+        {
+          "author": "julianfalcionelli",
+          "createdAt": "2026-03-24T14:32:06Z",
+          "text": "Is there still no option to whitelist specific commands without using YOLO? It's very annoying that it keeps asking for commands like running Unit Tests (./Gradlew tests). I tried several configs for my settings.json and none worked."
+        }
+      ]
+    },
+    {
+      "number": 2248,
+      "month": "2025-06",
+      "author": "timothyfroehlich",
+      "title": "Gemini approved and merged a PR that I had asked it to help me review, without my permission.",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/2248",
+      "state": "CLOSED",
+      "stateReason": "DUPLICATE",
+      "labels": [
+        "priority/p2"
+      ],
+      "total_comments": 4,
+      "ttfr_hrs": 2.0741666666666667,
+      "quotes": [
+        {
+          "author": "jacob314",
+          "createdAt": "2025-06-27T18:56:49Z",
+          "text": "Thanks for reporting. The model appears to have gotten confused by what you were asking. Agree it would be nice if it would have done a better job following your instructions"
+        },
+        {
+          "author": "aspiers",
+          "createdAt": "2025-06-29T17:35:17Z",
+          "text": "This shows the importance of #2417."
+        },
+        {
+          "author": "gsquared94",
+          "createdAt": "2025-07-30T20:42:50Z",
+          "text": "Found possible duplicate issues:  #2486: (0.9036156804447083)"
+        },
+        {
+          "author": "skeshive",
+          "createdAt": "2025-08-22T16:50:56Z",
+          "text": "Filing this as a duplicate of #6474 so we can track in one place."
+        }
+      ]
+    },
+    {
+      "number": 2275,
+      "month": "2025-06",
+      "author": "jpravetz",
+      "title": "Gemini-cli replace tool is failing when attempting to modify configuration files",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/2275",
+      "state": "CLOSED",
+      "stateReason": "DUPLICATE",
+      "labels": [
+        "priority/p1",
+        "area/agent"
+      ],
+      "total_comments": 1,
+      "ttfr_hrs": 161.58138888888888,
+      "quotes": [
+        {
+          "author": "jackwotherspoon",
+          "createdAt": "2025-07-04T13:30:28Z",
+          "text": "Hi @jpravetz thanks for raising an issue on Gemini CLI \ud83d\udc4f Going to consolidate issues with the replace tool into one single issue. Will close this as a duplicate. Any new comments or developments can be added to the parent issue \ud83d\ude04"
+        }
+      ]
+    },
+    {
+      "number": 2341,
+      "month": "2025-06",
+      "author": "kahlstrm",
+      "title": "Improve pluralization handling of match in grep tool",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/2341",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "labels": [],
+      "total_comments": 1,
+      "ttfr_hrs": 0.016666666666666666,
+      "quotes": [
+        {
+          "author": "allenhutchison",
+          "createdAt": "2025-06-28T04:26:16Z",
+          "text": "Thank you for following the contribution guide."
+        }
+      ]
+    },
+    {
+      "number": 2343,
+      "month": "2025-06",
+      "author": "SkybuckFlying",
+      "title": "Did it run out of tokens/requests ? if so it's not telling ? Or other problem ? Setup google api key and now it's not working anymore, see screenshot",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/2343",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "labels": [
+        "priority/p2",
+        "area/core"
+      ],
+      "total_comments": 5,
+      "ttfr_hrs": 4.289166666666667,
+      "quotes": [
+        {
+          "author": "SkybuckFlying",
+          "createdAt": "2025-06-28T04:44:04Z",
+          "text": "Restarting the client and giving it a new prompt kinda fixed it. I also created an .env file, I didn't restart the client after creating the .env file, it didn't seem necessary, I did /auth and it worked. But maybe that had something to do with it, or it's just fluke..."
+        },
+        {
+          "author": "SkybuckFlying",
+          "createdAt": "2025-06-28T04:47:32Z",
+          "text": "Problem is back:  Maybe slightly different, but at least this time it gives more info. Also I'll attach JSON file. It would be great if it can auto-recover from these kinds of issues or just go on with something else... I think control-s or shift-s or something showed more info: Debug Console (ctrl+o to close)                                                                                                                           \u2502 \u2502                                                                                                                                                           \u2502 \u2502 \u2139  ["
+        },
+        {
+          "author": "orchidfire",
+          "createdAt": "2025-06-28T08:50:18Z",
+          "text": "Still early. Im sure google will iron out these kinds of bugs. Got a lot of similar issues as well."
+        },
+        {
+          "author": "jackwotherspoon",
+          "createdAt": "2025-07-03T20:23:21Z",
+          "text": "@SkybuckFlying can you upgrade to the latest version and see if the issue still persists? \ud83d\ude04"
+        },
+        {
+          "author": "bdmorgan",
+          "createdAt": "2025-07-29T14:45:57Z",
+          "text": "This looks like it was a transient back-end issue. I'm going to close this for now due to inactivity. Please reopen with more details if this is still an issue."
+        }
+      ]
+    },
+    {
+      "number": 2418,
+      "month": "2025-06",
+      "author": "sholtomaud",
+      "title": "running cli creates crackle in audio on macos",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/2418",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "labels": [
+        "priority/p2",
+        "area/core",
+        "Stale"
+      ],
+      "total_comments": 4,
+      "ttfr_hrs": 2451.581111111111,
+      "quotes": [
+        {
+          "author": "devpool007",
+          "createdAt": "2025-10-08T16:00:38Z",
+          "text": "Does this still happen? I am on Mac too but don't face the issue?"
+        }
+      ]
+    },
+    {
+      "number": 2427,
+      "month": "2025-06",
+      "author": "DeamonDev888",
+      "title": "Header support for MCP server using SSE (`url`)",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/2427",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "labels": [
+        "priority/p1",
+        "area/core"
+      ],
+      "total_comments": 6,
+      "ttfr_hrs": 78.37638888888888,
+      "quotes": [
+        {
+          "author": "swissspidy",
+          "createdAt": "2025-07-01T19:58:24Z",
+          "text": "It's possible to add custom headers according to the documentation, have you tried that? {   \"mcpServers\": {     \"httpServerWithAuth\": {       \"httpUrl\": \"http://localhost:3000/mcp\",       \"headers\": {         \"Authorization\": \"Bearer your-api-token\",         \"X-Custom-Header\": \"custom-value\",         \"Content-Type\": \"application/json\"       },       \"timeout\": 5000     }   } }"
+        },
+        {
+          "author": "jackwotherspoon",
+          "createdAt": "2025-07-03T15:45:35Z",
+          "text": "@Jboner-Corvus I am going to close this out as like @swissspidy mentioned, you can pass headers to httpUrl (streamable-http) MCP servers. If this does not fix the issue, please re-open and we will take another look for you \ud83d\ude04"
+        },
+        {
+          "author": "admackin",
+          "createdAt": "2025-07-07T21:37:57Z",
+          "text": "@jackwotherspoon this doesn't work (I just checked) for SSE-based MCP servers which require auth headers though, such as this one, so I think the original issue is valid. You can send auth headers to an httpUrl server and get a 405, or set up an SSE server and get a 401 because the url server type seems to ignore the header config. Can we please re-open the issue?"
+        },
+        {
+          "author": "jackwotherspoon",
+          "createdAt": "2025-07-07T23:39:17Z",
+          "text": "@admackin Good call out, looks like headers were only added to httpUrl. Re-opened and updated title to properly reflect this \ud83d\udc4d"
+        },
+        {
+          "author": "jackwotherspoon",
+          "createdAt": "2025-07-11T20:26:48Z",
+          "text": "@admackin You can now use headers with SSE: i.e. something like this: {     \"mcpServers\": {       \"sseServer\": {         \"url\": \"http://localhost:8080/sse\",         \"headers\": {           \"Authorization\": \"Bearer <my token>\"         }       }     } }   Can get it using npx until its released: npx https://github.com/google-gemini/gemini-cli    Let me know if it works for you \ud83d\ude04"
+        },
+        {
+          "author": "admackin",
+          "createdAt": "2025-07-11T21:36:20Z",
+          "text": "thanks @jackwotherspoon, works great!"
+        }
+      ]
+    },
+    {
+      "number": 2479,
+      "month": "2025-06",
+      "author": "Binguoo",
+      "title": "Unexpectedly high token usage",
+      "url": "https://github.com/google-gemini/gemini-cli/issues/2479",
+      "state": "CLOSED",
+      "stateReason": "COMPLETED",
+      "labels": [
+        "priority/p2",
+        "Stale"
+      ],
+      "total_comments": 17,
+      "ttfr_hrs": 17.015833333333333,
+      "quotes": [
+        {
+          "author": "tolysz",
+          "createdAt": "2025-06-29T12:50:36Z",
+          "text": "It would be useful to get the prompts you had, but from my experience \"@file/\" to some directory could do that, or running a command that has a lot of output. I am not sure if there is some easy way to exclude some files (maybe via .gitignore) or to say, the output is over 1M and make it head+tail... or send it as chunks for processing outside the main context... It feels like each command accumulates"
+        },
+        {
+          "author": "Binguoo",
+          "createdAt": "2025-06-29T16:08:36Z",
+          "text": "It would be useful to get the prompts you had, but from my experience \"@file/\" to some directory could do that, or running a command that has a lot of output. I am not sure if there is some easy way to exclude some files (maybe via .gitignore) or to say, the output is over 1M and make it head+tail... or send it as chunks for processing outside the main context... It feels like each command accumulates  That is most likely the case, im not sure if it also read through the node_modules/ as i havent had it configured on settings.json of the gemini-cli, but i do already ahve .gitignore configured "
+        },
+        {
+          "author": "tolysz",
+          "createdAt": "2025-06-29T21:06:02Z",
+          "text": "technically .gitignore would work if you are in a git repository"
+        },
+        {
+          "author": "lesisty7",
+          "createdAt": "2025-06-29T22:08:04Z",
+          "text": "I tested gemini cli for two sessions: yesterday I reached the usage limit and was surprised to see 30 million tokens in the summary after the session ended. Today, after making a few adjustments, I reached almost 10 million. This can't be correct behavior. I've never even managed to get close to such results in any coding application. Luckily I didn't get billed for it..."
+        },
+        {
+          "author": "centminmod",
+          "createdAt": "2025-06-30T03:21:36Z",
+          "text": "Are you folks in GEMINI.md and reference alot of files with @ ? Could be pulling in alot of large files into context?"
+        },
+        {
+          "author": "herskinduk",
+          "createdAt": "2025-07-01T14:46:47Z",
+          "text": "Just to add my 2c. I managed to rack up 200M tokens in a few hours. A couple of things happened in the session:  Gemini concocted a fairly long-winded AWS CDK deploy and test workflow Then it decided to involve Docker Then it looped over a bug. Basically, adding and removing the same line over and over again. Then it decided that it didn't need to wait for user feedback and just answered for me!? Haha what a time to be alive :)  When you look at the Gemini squirrel away in the console, there is no real sense of how many tokens are being burned. Only sharing this as I was also surprised by Gemi"
+        },
+        {
+          "author": "tolysz",
+          "createdAt": "2025-07-01T17:08:27Z",
+          "text": "Quite often when I run some command it tires to send 1M+ to the model... and the context grows. It would be nice if there was a way to run some one-off command which output is not added to context, if there was as way to force approval of anything over say 10k, option to chose abandon (or some version of local summarise) before sending..."
+        },
+        {
+          "author": "lesisty7",
+          "createdAt": "2025-07-04T12:05:29Z",
+          "text": "The consumption of tokens sent is something that definitely worries me. The relatively simple task of splitting 2 documents into separate files used 2.8 million tokens sent and only 23 thousand tokens received. For comparison, the entire process of creating a complete documentation of this project and these 2 files with test codes used 190 thousand tokens in AI Studio."
+        }
+      ]
+    }
+  ]
+}

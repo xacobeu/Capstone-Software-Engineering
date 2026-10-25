@@ -3,5 +3,10 @@
 **/__pycache__
 **/.venv
 **/.env
-output/.*
+**/output/.*
 .cache/
+**/.mplcache/
+
+# Local only: course slides and report drafts (LaTeX, notes)
+course_material/
+final/drafts/

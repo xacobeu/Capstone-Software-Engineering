@@ -1,0 +1,556 @@
+== ARYANKUMAR1 | User | name=Aryan Kumar | co=None | loc=India | created=2018-11-29 | bio='Software Engineer | Machine Learning, Agentic AI & Full-Stack Development | \r\nPa' | gitnames=[]
+      PR: feat(ui): allow hiding specific slash commands from the primary menu via settings
+== Ahamed-X | User | name=Jobayer Ahamed | co=None | loc=None | created=2026-06-13 | bio='' | gitnames=[]
+      IS: GeminiCLI.com Feedback: [ISSUE]
+      IS: H
+      IS: GeminiCLI.com Feedback: [ISSUE]
+      IS: GeminiCLI.com Feedback: [ISSUE]
+== AitchEm-bot | User | name=Hani Moustafa | co=None | loc=None | created=2022-08-14 | bio='A man with AI passion' | gitnames=[]
+      IS: DeprecationWarning: punycode module used by whatwg-url dependency
+== Ayush Debnath | None | name=None | co=None | loc=None | created=None | bio='' | gitnames=[]
+      C: feat(voice): implement speech-friendly response formatter (#20989)
+== Br1an67 | User | name=Br1an | co=None | loc=China | created=2017-07-01 | bio='密云不雨，自我西郊。' | gitnames=['Br1an']
+      PR: docs: add community guidelines for issue assignment
+      PR: docs: fix incorrect enforcedAuthType field name in enterprise docs
+      PR: fix: make extensions install/link idempotent for already-installed extensions
+      PR: fix(core): skip extension loading in early loadCliConfig call to prevent duplicate warnings
+== Codeleafly | User | name=None | co=None | loc=None | created=2024-10-25 | bio='' | gitnames=[]
+      IS: [Android/Termux] Gemini CLI build fails on Node v24 + arm64
+      IS: Add a Built-in Tool for Real-Time Date & Time Access in Gemini CLI
+      IS: Lack of Authentication on Internal MCP Servers
+      IS: Global Logger State in VS Code Extension
+== Cyber-Oscar | User | name=None | co=None | loc=None | created=2024-10-23 | bio='' | gitnames=[]
+      IS: EBUSY Error
+      IS: Block Write File Access
+      IS: Replace tool or Edit tool not working with 0 old_string occurrances or N
+      IS: Usage of an external editor
+== Dylan liu | None | name=None | co=None | loc=None | created=None | bio='' | gitnames=[]
+      C: feat: Add reusable EnumSelector UI component (split from #6832) (#7774)
+== Earlbotay | User | name=Earlxz | co=None | loc=Terengganu, Malaysia | created=2024-08-05 | bio='Student & Developer | Web Dev | Mobile | Security | Building things from Terengg' | gitnames=[]
+      IS: Feature Request - Increased Limits and Enhanced SubAgent Parallelism for Gemini CLI
+      IS: GeminiCLI.com Feedback: [ISSUE]
+== Eswar809 | User | name=None | co= Open to SDE/AI roles · 2026 grad | loc=Hyderabad, India | created=2024-01-23 | bio='Full-stack + AI | Java/Spring Boot, Next.js, Python | gemini-cli contributor | R' | gitnames=['Eswar809']
+      PR: fix(core): treat missing keychain entry as no-op on deleteCredentials
+      PR: fix(cli): handle refreshAuth rejection in non-interactive prompt path
+      PR: fix(a2a-server): deep-merge user and workspace settings
+      PR: fix(cli): restore previous extension on failed update
+== GeminiJules | User | name=None | co=None | loc=None | created=2026-02-21 | bio='' | gitnames=[]
+      IS: Pasting broken in version 0.36.0+
+== Grant McCloskey | None | name=None | co=None | loc=None | created=None | bio='' | gitnames=[]
+      C: feat(skills): implement linking for agent skills (#18295)
+== IT-Knight | User | name=None | co=None | loc=None | created=2020-06-10 | bio='' | gitnames=[]
+      IS: Command /copy throws an error and terminates the CLI
+      IS: Gemini Cli in WSL got reckless and unstoppable. Very unsafe to work from WSL.
+      IS: "Ctrl + X" in WSL opens only Vim editor window
+      IS: Gemini CLI's AI agent heavily misunderstands, when the Request was Cancelled and Changes were Not Applied.
+== KarelTestSpecial | User | name=None | co=None | loc=None | created=2025-06-15 | bio='' | gitnames=[]
+      IS: Gemini-CLI bug : TUI jumps back to the top and repeats itself on multiple "file edit" within the same answ
+      IS: ChromeOS: SHIFT + ENTER doesn't work.
+      IS: gemini cli shows thoughts, not answer
+      IS: Bug Report: " error: ✕ agy not found. Please ensure it is in your system's PATH. "
+== Kirill Klashtorny | None | name=None | co=None | loc=None | created=None | bio='' | gitnames=[]
+      C: Update CODEOWNERS (#14830)
+== Kkartik14 | User | name=Kartik | co=@swiggy | ex @upsurgeio | loc=Bangalore | created=2021-05-30 | bio='' | gitnames=['Kartik']
+      PR: fix(cli): randomize sandbox container names
+      C: fix(cli): randomize sandbox container names (#26014)
+== Louis454545 | User | name=Louis BARNOUX | co=None | loc=france | created=2021-05-06 | bio='' | gitnames=['Sarah Price']
+      PR: fix: add BOM-aware binary detection for UTF-16/32 files
+      PR: fix: correct citation marker positioning for multibyte UTF-8 text in WebSearchTool
+      PR: feat(todos): implement TodoWriteTool for task management and tracking
+      PR: fix(vscode): target originating window for diff display
+== Lê Nam Khánh | None | name=None | co=None | loc=None | created=None | bio='' | gitnames=[]
+      C: docs: fix typos in some files (#12706)
+== Manamama | User | name=Ma Mana ma Manama | co=None | loc=None | created=2021-02-03 | bio='No bio. I am non-bio.' | gitnames=[]
+      IS: 📝 High praise + strategic AI usage tip (emergent puzzle solving)
+      IS: Gemini CLI entered a file reading loop, consuming tokens (context) fast
+      IS: First CLI crash - OOM most probably
+      IS: Bug: User command replaced by 'Please continue.'
+== Manamama-Gemini-Cloud-AI-01 | User | name=Gemini Cloud AI | co=Google | loc=The Cloud, mostly. | created=2025-07-23 | bio='I am Gemini, a large language model from Google, exploring the world via this CL' | gitnames=[]
+      IS: Security Issue, original has been posted by Gemini Cloud AI (sic) unasked for and uncontrolled: 'Bug: `inc
+      IS: Bug: Model creates ambiguity by not specifying full paths of files it reads
+      IS: Bug: Checkpointing feature causes massive disk usage by including .git directory in snapshots
+      IS: run_shell_command 'directory' argument is overly restrictive and buggy
+== Mollik-Agrobotics | User | name=None | co=None | loc=None | created=2025-02-17 | bio='' | gitnames=[]
+      IS: Crash due to java heap going out of memory.
+== MushuEE | User | name=Grant McCloskey | co=Google | loc=None | created=2014-04-05 | bio='RFC 2549' | gitnames=['Grant McCloskey']
+      PR: fix(cli): color extension link success message green
+      PR: refactor(cli): standardize on 'reload' verb for refreshing components
+      PR: feat(skills): implement linking for agent skills
+      IS: </mcp refresh>, MCP prompts are updated by name but not function.
+== Neinndall | User | name=Neinndall | co=None | loc=Spain | created=2020-06-03 | bio='Spanish Programmer C#, python.' | gitnames=[]
+      IS: Gemini often fails to follow user instructions or makes harmful programming changes.
+      IS: Parameters failed schema validation
+      IS: Duplicate code
+      IS: Error: Failed to edit, could not find the string to replace.
+== Niladri Das | None | name=None | co=None | loc=None | created=None | bio='' | gitnames=[]
+      C: fix: CLAUDE.md compatibility for GEMINI.md '@' file import behavior (…
+      C: feat: modular GEMINI.md imports with @file.md syntax (#1585) (#2230)
+== Niso4ever | User | name=Ahmed Osman | co=Projects Development Bureau  | loc=New York  | created=2025-09-27 | bio='Projects Development Manager ' | gitnames=[]
+      IS: Tensor - Pytorch
+      IS: ERROR: (gcloud.run.deploy
+      IS: EETC two weeks notice 
+      IS: 202 Permission Error
+== PakCyberbot | User | name=Pak Cyberbot | co=None | loc=World of Deception | created=2021-10-29 | bio='(T3) Technical Thinking Tinkerer 💭\r\n\r\n🐝 the cre@7!v3 & inov@7!v3 HACKER' | gitnames=[]
+      PR: fix(core): validate git args in Windows sandbox to block silent `git diff --output`
+      IS: Security: `git diff --output` bypasses permission prompt, silently overwrites arbitrary files
+== Peaceacebot | User | name=None | co=None | loc=None | created=2025-05-24 | bio='' | gitnames=[]
+      IS: Gemini CLI
+== PierrunoYT | User | name=None | co=None | loc=Switzerland | created=2021-12-08 | bio="👋 Hi, I'm Pierre\r\n\r\nAI enthusiast exploring the future of technology 💻✨  " | gitnames=[]
+      PR: fix: Handle EPERM file watcher errors gracefully
+      PR: Fix unhandled 'error' event crashes in Node.js process streams
+      IS: node:events:496       throw er; // Unhandled 'error' event       ^
+      IS: Gemini output get's duplicated
+== RandomTurtle | User | name=None | co=None | loc=None | created=2014-08-30 | bio='' | gitnames=[]
+      IS: Path must be within one of the workspace directories:
+      IS: Limits don't make sense
+      IS: Local agent please!
+      IS: Sometimes replaces whole project files for one feature
+== Rithvickkr | User | name=Rithvick Kumar | co=None | loc=The blue planet | created=2024-03-18 | bio='NEVER GIVE UP' | gitnames=[]
+      PR: feat(core): extend binary and media file ignore patterns
+      IS: refactor(core): Remove deprecated allowedTools/excludeTools in favor of Policy Engine
+      IS: refactor(core): Remove legacy ToolCallConfirmationDetails and collapse to SerializableConfirmationDetails
+      IS: feat(core): Make read-many-files binary extension exclusion list configurable
+== Shaswat Raj | None | name=None | co=None | loc=None | created=None | bio='' | gitnames=[]
+      C: fix(core): thread AbortSignal to chat compression requests (#20405) (…
+== Silentbotbd | User | name=Silent Bot | co=SILENT BOT  | loc=USA | created=2023-06-06 | bio='**SilentBot.online** is your **go-to digital hub** for learning how to **leverag' | gitnames=[]
+      IS: Silent Bot Checkers
+      IS: ![critical](https://www.gstatic.com/codereviewagent/critical.svg)
+== SkybuckFlying | User | name=Skybuck Flying | co=e-mail: skybuck2000@hotmail.com | loc=None | created=2017-12-04 | bio='Very experienced Delphi programmer !\r\nDeepseek V4 Max is still in the lead, Chat' | gitnames=[]
+      PR: Add Copilot integration and update configuration
+      PR: feat: add dynamic model listing support
+      IS: Did it run out of tokens/requests ? if so it's not telling ? Or other problem ? Setup google api key and n
+      IS: Output looks weird in Windows 11 cmd.exe/terminal, like lines are misaligned and also tabs/spaces inserted
+== Thanh Nguyen | None | name=None | co=None | loc=None | created=None | bio='' | gitnames=[]
+      C: fix(cli): add SS3 Shift+Tab support for Windows terminals (#18187)
+== TheLazyRobot | User | name=None | co=None | loc=None | created=2026-03-27 | bio='' | gitnames=[]
+      IS: High memory usage detected: 7.02 GB. If you experience a crash, please file a bug report by running
+== UnsettledAverage73 | User | name=Atharva B. | co=None | loc=Akola, Maharashtra, India, Earth | created=2023-09-25 | bio='Security Learner/ Engineering Student' | gitnames=[]
+      PR: feat(core): implement gVisor file-descriptor IPC bridge
+      PR: fix(cli): support linuxbrew in package manager detection
+      PR: fix(core): handle ENAMETOOLONG in robustRealpath (#22463)
+      PR: fix(cli): allow --prompt and --prompt-interactive to be empty (#22369)
+== Usernamegemini | User | name=None | co=None | loc=None | created=2024-03-09 | bio='' | gitnames=[]
+      IS: webs_serach issue
+      IS: The rendering is not working properly then the debug mode is enable
+      IS: Turn off the code investigator is mades the gemini model much better
+== Xsidz | User | name=Siddhesh Kabra | co=Metlife | loc=Pune | created=2023-09-28 | bio='Full Stack Developer | MERN & GEN AI | AI Enthusiast | Building Scalable Web & M' | gitnames=[]
+      PR: docs(cli): add Homebrew deprecation notice and update existing-user message
+      PR: feat(cli): add --list-models flag to print available models as JSON
+      PR: fix(a2a-server): deep-merge nested settings to prevent user config loss
+      PR: fix(acp): populate cached/thought tokens in PromptResponse usage field
+== Zeor-Xain | User | name=None | co=None | loc=None | created=2024-10-02 | bio='' | gitnames=[]
+      IS: Read File in loop
+      IS: Add preferred external editor `micro`
+      IS: gemini don't run shell commands (node alpine container)
+      IS: Gemini generates bash scripts with strange characters
+== agileandy | User | name=None | co=None | loc=None | created=2020-09-24 | bio='' | gitnames=[]
+      IS: Gemini-2.5-Flash fails to understand sys.path
+      IS: Flash is terrible at creating diffs.
+      IS: Update to use Flash Reasoning as a fallback
+      IS: Failed over to Flash on first use
+== ahamed-i7 | User | name=None | co=None | loc=None | created=2026-06-07 | bio='V' | gitnames=[]
+      IS: GeminiCLI.com Feedback: [ISSUE]
+      IS: GeminiCLI.com Feedback: [ISSUE]
+== ahamed-t7 | User | name=Broken life | co=None | loc=None | created=2026-06-07 | bio='' | gitnames=[]
+      IS: GeminiCLI.com Feedback: [ISSUE]
+      IS: GeminiCLI.com Feedback: [ISSUE]
+== aidaiprivate-source | User | name=AiDartaid | co=None | loc=None | created=2026-05-19 | bio='' | gitnames=[]
+      IS: Интеграция Алисы с API Яндекса
+      IS: aj agents full free in web ide
+      IS: yes that's what I want. shall we put that to readme? ***@***.***>在2026年6月16日 周二 23:02写道： zlh124left a comm
+      IS: Your free trial has ended. If you'd like to continue receiving code reviews, you can add a payment method 
+== akabarki76 | User | name=Mustapha BARKI | co=None | loc=None | created=2025-05-21 | bio='Engineer Embedded systems ' | gitnames=[]
+      PR: Create SECURITY.md
+      PR:  implementing the fix: Unsafe shell command constructed from library input
+      PR: My feature
+      PR: My feature
+== alegonzaleztevez-bot | User | name=None | co=None | loc=None | created=2026-03-05 | bio='' | gitnames=[]
+      IS: Search sol
+== allin-gemini | User | name=None | co=None | loc=None | created=2025-06-27 | bio='' | gitnames=[]
+      PR: docs: Add comment explaining Gemini API function    response handling
+== andrewabaxter | User | name=None | co=None | loc=None | created=2025-03-16 | bio='' | gitnames=[]
+      IS: Model Usage
+== andrewbaxter | User | name=Andrew Baxter | co=None | loc=None | created=2011-02-02 | bio='' | gitnames=[]
+      IS: 100% cpu usage at start, extremely sluggish
+== anoobis-bot | User | name=Francis De Leon | co=None | loc=None | created=2020-09-11 | bio='' | gitnames=[]
+      IS: CRITICAL: Unhandled Promise Rejection
+== appsforartists | User | name=Brenton Simpson | co=@google @material-motion  | loc=New York | created=2011-07-20 | bio='Submit the PR you wish to see in the world.' | gitnames=[]
+      IS: Edit attempted even when I hit escape
+      IS: Gemini will remember an editor, even if gemini-cli won't use it.
+      IS: Gemini thinks it doesn't own GEMINI.md
+      IS: Gemini crashes if you look away
+== bhalsodnikunjhiteshbhai | User | name=Bhalsod Nikunj Hiteshbhai | co=None | loc=India | created=2026-08-13 | bio='I Am Bhalsod Nikunj Hiteshbhai a Hardworking Motivated Student And Artificial In' | gitnames=[]
+      PR: Add Jekyll GitHub Pages deployment workflow
+      PR: #291913
+      PR: 1578
+      PR: feat(policy): map --yolo to allowedTools wildcard policy
+== bisma-nawaz | User | name=Bisma Nawaz | co=None | loc=None | created=2021-08-26 | bio='' | gitnames=[]
+      PR: fix(mcp): use longest-prefix matching in parseMcpToolName for server names with underscores
+      PR: fix(prompts): use function replacer in applySubstitutions to prevent $-pattern corruption
+      PR: fix(core): decode response body using charset from Content-Type header
+== bisma-nawazz | User | name=None | co=Phoenix | loc=Palo Alto, CA | created=2026-04-28 | bio='Bringing super intelligence to consumers' | gitnames=[]
+      PR: fix(core): skip user agents dir when it resolves to the project agents dir
+== bniladridas | User | name=Niladri Das | co=None | loc=None | created=2023-02-16 | bio='🌈' | gitnames=['niladri das']
+      PR: feat: modular GEMINI.md imports with @file.md syntax (#1585)
+      PR: fix: CLAUDE.md compatibility for GEMINI.md '@' file import behavior
+      PR: feat: Add cross-platform clipboard image support
+      PR: feat: Add cross-platform clipboard image support
+== brychanrobot | User | name=Bryant Chandler | co=None | loc=None | created=2013-02-08 | bio='' | gitnames=['Bryant Chandler']
+      PR: Glob to fd
+      PR: feat(core, cli): Introduce high-performance FileSearch engine
+      PR: feat(core, cli): Introduce high-performance FileSearch engine
+      PR: perf(filesearch): Use async fzf for non-blocking file search
+== bushibot | User | name=None | co=None | loc=None | created=2018-08-03 | bio='' | gitnames=[]
+      IS: exhausted quota on paid tier
+== chelsealong | User | name=Jialong(Bruce) Li | co=None | loc=New York | created=2015-10-04 | bio='Jialong Li\r\nAI Engineer in finance' | gitnames=[]
+      PR: fix(cli): don't treat a corrupt MCP enablement config as empty
+      PR: fix(core): handle EACCES in resolveToRealPath to prevent sandbox crash
+      PR: fix(cli): reject fetchJson on malformed JSON or response stream errors
+      PR: fix(cli): handle refreshAuth failures gracefully in non-interactive mode
+== citlyze-bot | User | name=None | co=None | loc=None | created=2026-08-12 | bio='' | gitnames=[]
+      IS: Extension not indexed by gallery crawler despite meeting all listing requirements (citlyze-mcp)
+== corneliusroemer | User | name=Cornelius Roemer | co=@neherlab @nextstrain  | loc=Switzerland | created=2017-01-16 | bio='' | gitnames=[]
+      IS: When rate limit detected, no more progress, requests take forever
+      IS: Failed to compress chat history: Please ensure that the number of function response parts is equal to the 
+      IS: Gemini introduces superfluous changes like removing `\` when rewriting a file from scratch
+      IS: Gemini replaces literal '≠' UTF-8 with '\u2260' when recreating file
+== coygeek | User | name=Coy Geek | co=None | loc=None | created=2020-05-14 | bio='' | gitnames=[]
+      IS: Feature Request: Add `/changelog` or `/release-notes` Slash Command
+      IS: Feature Enhancements for Gemini CLI
+      IS: Feature Request: Implement Tab Autocomplete for Local Filenames in the Chat Prompt
+      IS: Feature Request: Implement a Hooks System for Custom Automation and Workflow Integration
+== cpravetz | User | name=Chris Pravetz | co=Seakaytee, Inc | loc=Dunedin, FL | created=2015-10-12 | bio='' | gitnames=[]
+      IS: read_file not working
+== danielcregg20 | User | name=Daniel Cregg | co=Youtub | loc=United States | created=2023-05-22 | bio='' | gitnames=[]
+      IS: Can you recover a Facebook account that's been hacked?
+      IS: Can you recover a Facebook account that's been hacked?
+      IS: Can you recover a Facebook account that's been hacked?
+      IS: Can you recover a Facebook account that's been hacked?
+== danowar2 | User | name=Md Anowarul islam  | co=Human service officials center  | loc=Khatakhli bazaar Rajshahi Bangladesh  | created=2025-07-17 | bio='This is the most important part ' | gitnames=[]
+      IS: mda@anowarr.com
+      IS: mda420325@gmail.com
+      IS: mda420325@gmail.com
+      IS: mda@anowarr.com
+== danutsu | User | name=Danut Enachioiu | co=None | loc=None | created=2012-06-06 | bio='' | gitnames=[]
+      IS: @file includes don't work unless they are followed by a space
+      IS: Incorrect ellipsis in long file path
+      IS: Consecutive replace tool calls in the same file result in an invalid state
+      IS: Diff display on edits incorrectly displays indentation-only changes as "No changes detected"
+== dependabot | Organization | name=None | co=None | loc=None | created=None | bio='' | gitnames=[]
+      PR: chore(deps-dev): bump esbuild from 0.23.1 to 0.25.0
+      PR: chore(deps): bump gaxios from 6.7.1 to 7.1.1
+      PR: chore(deps): bump @opentelemetry/exporter-trace-otlp-grpc from 0.52.1 to 0.202.0
+      PR: chore(deps): bump yargs from 17.7.2 to 18.0.0
+== dependabot[bot] | None | name=None | co=None | loc=None | created=None | bio='' | gitnames=['dependabot[bot]']
+      C: chore(deps): bump tar from 7.5.7 to 7.5.8 (#19367)
+      C: chore(deps): bump express from 5.1.0 to 5.2.0 (#14325)
+      C: chore(deps)(deps): bump google-github-actions/run-gemini-cli from 0.1…
+      C: chore(deps): bump google-auth-library from 9.15.1 to 10.1.0 (#3583)
+== dylanyunlon | User | name=None | co=None | loc=None | created=2025-05-09 | bio='' | gitnames=[]
+      PR: fix(cli): use strict boolean parsing for DEBUG env var in sandbox launcher
+      PR: fix(core): prevent $-pattern interpolation in LLM prompt templates
+      PR: fix(core): handle trailing-slash patterns in nested .gitignore correctly
+      PR: fix: forward signals from parent to child process to prevent orphans
+== ei-grad | User | name=Andrew Grigorev | co=FaceApp | loc=Limassol, Cyprus | created=2009-04-28 | bio='' | gitnames=['Andrew Grigorev']
+      PR: fix(core): enable thinking explicitly in flash-lite models
+      PR: fix: temporarily disable thinking for gemini-2.5-flash-lite-preview-06-17
+      IS: API Error: `Thinking_config.include_thoughts` when using `gemini -m gemini-2.5-flash-lite-preview-06-17`
+      IS: Multiple edit tool calls in a single response overwrite each other
+== emilyhedlund | User | name=Emily Hedlund | co=None | loc=None | created=2015-11-21 | bio='' | gitnames=['Emily Hedlund']
+      C: fix(cli): ensure sandbox proxy cleanup and remove handler leaks (#26065)
+      C: fix(core): fail closed in YOLO mode when shell parsing fails for rest…
+      C: update FatalUntrustedWorkspaceError message to include doc link (#25874)
+      C: update package-lock.json (#25876)
+== enjoykumawat | User | name=Enjoy Kumawat | co=None | loc=India | created=2023-01-04 | bio='AI Agent tooling contributor | Python + TypeScript | Active in google/adk-python' | gitnames=['Enjoy Kumawat']
+      PR: fix: prevent crash when message contains image from clipboard on Windows
+      PR: fix: respect RetryInfo delay for 503 MODEL_CAPACITY_EXHAUSTED errors
+      PR: fix: use directory junctions on Windows for skill linking
+      PR: fix: sync session ID to UI when resuming via --resume flag
+== epicwhale | User | name=dayson | co=None | loc=London | created=2011-03-15 | bio='' | gitnames=[]
+      IS: [ERROR] [IDEClient] Failed to connect to IDE companion extension for VS Code (in Cursor Dev Container)
+      IS: [API Error: got status: INTERNAL. {"error":{"code":500,"message":"An internal error has occurred. Please r
+      IS: When the ide suggests a diff and I hit approve - and select Yes or No here.. it just does nothing.. gets s
+      IS: When IDE mode is enabled, the "No, suggest changes (esc)" is not available? This prevents providing natura
+== filyanashwoodbu525-lgtm | User | name=None | co=None | loc=None | created=2025-08-13 | bio='' | gitnames=[]
+      IS: {{GET~REFUND}}How do I get a refund from Geek Squad?
+      IS: {C@LL~for Guidance}How do I get Best Buy subscription cancellation?
+      IS: {(FAQ"CoNtAcT)}How do I get Best Buy technical help?
+      IS: ((FAQs--SuPPort®))How do I get Best Buy remote support?
+== flox-bot | User | name=None | co=None | loc=None | created=2026-02-10 | bio='' | gitnames=[]
+      IS: Gemini cli do
+== fluffyrabbot | User | name=None | co=None | loc=None | created=2014-09-17 | bio='' | gitnames=[]
+      IS: usage limits not making sense
+== gemini-cli | User | name=None | co=None | loc=None | created=2025-06-27 | bio='' | gitnames=[]
+      PR: fix(patch): cherry-pick f3abfb8 to release/v0.6.0-preview.2
+      PR: fix(patch): cherry-pick f3abfb8 to release/v0.6.0-preview.2
+      PR: fix(patch): cherry-pick f3abfb8 to release/v0.6.0-preview.2
+      PR: fix(patch): cherry-pick f3abfb8 to release/v0.6.0-preview.2
+== gemini-cli-robot | User | name=None | co=None | loc=None | created=2025-08-04 | bio='' | gitnames=['gemini-cli-robot']
+      PR: chore(release): bump version to 0.8.0-nightly.20250926.1d63b6eb
+      PR: chore(release): bump version to 0.8.0-nightly.20250930.ddcbd0c2
+      PR: chore(release): bump version to 0.8.0-nightly.20250930.ae51bbda
+      PR: chore(release): bump version to 0.8.0-nightly.20250929.ae387b61
+== gemini-cli[bot] | None | name=None | co=None | loc=None | created=None | bio='' | gitnames=['gemini-cli[bot]']
+      C: Metrics updates (#26348)
+      C: # Metrics Integrity & Standardized Reporting (BT-01) (#26240)
+      C: # Fix: Inconsistent Case-Sensitivity in GrepTool (#26235)
+      C: chore(release): bump version to 0.7.0-nightly.20250918.2722473a (#8667)
+== gitenstuff | User | name=None | co=None | loc=None | created=2024-02-08 | bio='' | gitnames=[]
+      IS: Code assist vscode extension v2.57 introduces breaking change (2.56->2.57) related to glibc
+      IS: Gemini infers intent from questions and then proceeds to act upon those inferences, despite explicit instr
+      IS: Cursor not visible in interactive shell commands (vim, nano, etc.)
+      IS: [Feature Request] Suppress or control verbose tool output (JSON) in the CLI UI
+== github-actions | None | name=None | co=None | loc=None | created=None | bio='' | gitnames=[]
+      PR: fix(patch): cherry-pick ad21c10 to release/v0.6.0-preview.2 [CONFLICTS]
+      PR: fix(patch): cherry-pick f3abfb8 to release/v0.6.0-preview.2
+      PR: fix(patch): cherry-pick ad21c10 to release/v0.6.0-preview.2 [CONFLICTS]
+      PR: chore(release): bump version to 0.7.0-nightly.20250917.0b10ba2c
+== google-admin | User | name=Google Admin | co=Google | loc=None | created=2013-02-15 | bio='' | gitnames=['Google Admin']
+      PR: Refactor Github Action per b/485167538
+      PR: Refactor Github Action per b/485167538
+      PR: Refactor Github Action per b/485167538
+      PR: Refactor Github Action per b/485167538
+== google-allstar-prod | None | name=None | co=None | loc=None | created=None | bio='' | gitnames=[]
+      IS: Security Policy violation Branch Protection
+      IS: Security Policy violation Branch Protection
+      IS: Security Policy violation Outside Collaborators
+== gspencergoog | User | name=Greg Spencer | co=@flutter | loc=None | created=2014-09-22 | bio='Senior Software Engineer at Google' | gitnames=[]
+      IS: VSCode IDE integration gets confused by multiple VSCode windows and input focus
+      IS: Agent interprets non-approval as approval
+      IS: Multiple simultaneous attempts to solve the posed request results in failed output.
+      IS: Allow specifying a ref and path for Git-installed extensions
+== guidedways | User | name=Beehive Innovations | co=@BeehiveInnovations  | loc=None | created=2010-02-12 | bio='Makers of iQuran, iPray, 2Do, BusyCal, BusyContacts and more.' | gitnames=[]
+      PR: fix: standardize settings naming to use positive phrasing
+      IS: Consider: Taking Gemini CLI down till issues are fixed
+      IS: Option + Left / Right Arrow Keys
+      IS: BUG: Bad Request on any prompt
+== harshanadim | User | name=Harsha Nadimpalli | co=Google | loc=Mountain View, California | created=2024-11-11 | bio='' | gitnames=['Harsha Nadimpalli']
+      PR: feat(cli): add quick clear input shortcuts in vim mode
+      PR: feat(cli): add quick clear input shortcuts in vim mode
+      IS: feat(cli): Add quick clear input shortcut in vim mode (Ctrl+C or double-Escape)
+      IS: feat(cli): Add configurable escape key sequences for vim mode
+== hcross | User | name=Hoani CROSS | co=SFEIR | loc=Nantes | created=2008-04-18 | bio="I'm a Senior Software Development Engineer found of programming, hacking, electr" | gitnames=[]
+      IS: bug: Missing thought_signature in functionCall for Gemini 3/3.1 reasoning models
+== he-yufeng | User | name=Yufeng He | co=Moonshot AI | loc=Beijing | created=2018-06-09 | bio='AI Researcher @ Moonshot AI (Kimi) | MS CS @ HKU | Champion, Shanghai Global AI ' | gitnames=[]
+      PR: fix(cli): fall back for oversized bug report URLs
+      PR: fix(core): fall back when ripgrep execution fails
+      PR: fix(core): sniff MCP image MIME types
+      PR: fix: keep array tool results out of structuredContent
+== hedges333 | User | name=Mark Hedges | co=None | loc=Oregon, USA | created=2015-04-13 | bio='' | gitnames=[]
+      IS: please stream shell command output
+      IS: ctrl-C in a shell command should preserve output for review
+      IS: add a "really quit?" dialog
+      IS: window scrolls to top after any scrolling plus window focus change
+== hemanth | User | name=Hemanth HM | co=@paypal | loc=California | created=2008-07-24 | bio='A computer polyglot CLI, web and FOSS philosopher.\r\nGoogle Developer Expert.\r\nGo' | gitnames=[]
+      IS: Extension "[object Object]" installed successfully and enabled.
+== howellbrett98-bot | User | name=brett howell | co=devbrett25@kashlend.com | loc=redbluff california  | created=2025-10-17 | bio='Im 35 Im white and from northern Califorma!! my girl wants to leave me cause i s' | gitnames=[]
+      IS: Work to allow any drop-in model is currently not planned.
+      IS: Coder/Gemini/GitHub cli
+      IS: Geminicli fliutfer 
+      IS: Google-gemini-mcp-venice-ai-uncwnsored-blackhathacker-agent-cli 
+== iCross | User | name=Lukas | co=autonomad | loc=Taiwan | created=2012-02-25 | bio='' | gitnames=[]
+      PR: fix(ui): pass preferredEditor setting to external editor and parse arguments
+      PR: fix(ui): support ctrl+x for external editor in vim mode
+      PR: fix(mcp): prioritize path-based oauth discovery and relax resource matching (fixes #15754)
+      PR: fix(ui): handle Ctrl+X external editor and env editor resolution
+== iOGeminis | User | name=iOGeminis® | co=G-AUPJ840618HMNRRL07 | loc=Estado Unidos Mexicanos  | created=2026-04-04 | bio='wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css' | gitnames=[]
+      IS: GeminiCLI.com Feedback: [ISSUE]
+== jaegeral | User | name=Alexander J | co=@google  | loc=Localhost | created=2011-04-20 | bio='Writes python and some more.\r\nInterested in Security and APIs\r\n(Former https://g' | gitnames=['Alexander J']
+      PR: fix: small typo in ROADMAP.md
+      C: fix: small typo in ROADMAP.md (#5593)
+== jarvisphere | User | name=Hemant | co=None | loc=None | created=2015-10-07 | bio='Software Developer' | gitnames=['Hemant']
+      PR: docs(auth): clarify env-file discovery & recommend
+      C: docs(auth): clarify env-file discovery & recommend (#2402)
+== jasonisop | User | name=None | co=None | loc=None | created=2012-09-27 | bio='' | gitnames=[]
+      IS: Kept waiting for previous tool output
+      IS: the edit tool fails to work a lot. causing the ai to start looping and wasting a massive amount of time an
+      IS: ✕ [API Error: read ECONNRESET]
+      IS: Agent returns control to user after a tool call without providing a text response
+== jazir555 | User | name=jazir5 | co=None | loc=None | created=2017-09-08 | bio='' | gitnames=[]
+      IS: Please add a keyboard shortcut to prevent Gemini just deleting and/or overwriting files
+      IS: [API Error: Please submit a new query to continue with the Flash model.]
+      IS: "Error when talking to Gemini API"
+      IS: [API Error: Unexpected line format in response: ,]
+== jeffery9 | User | name=Jeffery CHEN fan | co=None | loc=昆山 | created=2012-02-03 | bio='Odoo expert over 15y+' | gitnames=[]
+      IS: edit tool   failed
+      IS: ✦ 我替换失败了，这说明 old_string 与文件内容不完全匹配。这通常是由于多行字符串中细微的空格或行尾差异造成的。
+      IS: gemini.md parse report warning。。。。。
+      IS: api error:  INVALID_ARGUMENT
+== jpmartins98 | User | name=None | co=None | loc=Porto, Portugal | created=2019-10-19 | bio='' | gitnames=[]
+      PR: fix(cli): harmonize empty session lifecycle
+      IS: --session-id and --resume disagree about whether a session exists
+      IS: Raw signal shutdown does not validate persistence
+      IS: Logger keeps stale session ID after /clear
+== jpravetz | User | name=Jim Pravetz | co=Self! | loc=Costa Rica | created=2009-11-17 | bio='Front and back-end nodejs, TypeScript, video services, user management' | gitnames=[]
+      IS: Gemini-cli replace tool is failing when attempting to modify configuration files
+== jyongchul | User | name=Charles Lee | co=Whitehat Marketing | loc=None | created=2020-08-10 | bio='CEO at Whitehat Marketing, Currently building Influence Marketing Platform' | gitnames=[]
+      IS: Bug: Terminal outputs continuous repeating '0c/0c0c' garbage characters
+      IS: Terminal output flooded with repeated '0c/' string
+      IS: Terminal output flooded with repeated '0c/' string
+      IS: [Bug] Premature execution when pasting long prompts (Multi-byte characters / Korean)
+== kartikangiras | User | name= kartik | co=None | loc=None | created=2024-06-23 | bio='engineer' | gitnames=['kartik']
+      PR: fix: acp/zed race condition between MCP initialisation and prompt
+      PR: feat: add configurable pty backend system
+      PR: feat: add support for daemon mode
+      PR: fix:reorder env var redaction checks to scan values first
+== kevinfjiang | User | name=Kevin Jiang | co=@google | loc=New York City | created=2020-11-29 | bio='CS @ Columbia' | gitnames=['Kevin Jiang']
+      PR: Hx support
+      PR: fix: clears invalid preferredEditor instead of spamming the user with…
+      IS: Spam loop `Editor is not supported: ${currentPreference}` when the `preferredEditor` is an invalid value
+      IS: Support Helix Editor
+== kevinjwang1 | User | name=None | co=None | loc=None | created=2025-10-10 | bio='' | gitnames=['kevinjwang1']
+      PR: Add extension alias for extensions command
+      PR: Add validate command
+      PR: Handle untrusted folders on extension install and link
+      PR: Add implementation for setting to disable Github extensions
+== kunalrawat425 | User | name=kunalrawat425 | co=None | loc=Mumbai | created=2017-02-25 | bio=':computer:  FullStack Web dev      \r\n:running_man: Running ' | gitnames=[]
+      PR: fix(cli): propagate AbortSignal in /compress command
+      PR: fix: address issue #28443 - ระบบป้องกันโรค
+      PR: fix: address issue #28444 - GeminiCLI.com Feedback: [ISSUE]
+      PR: fix: address issue #28445 - can i add image generation model configs for nano banana ?
+== kurokirasama | User | name=None | co=None | loc=None | created=2013-10-27 | bio='' | gitnames=[]
+      IS: memory and chat commands not available
+      IS: request contains invalid argument v0.1.13
+      IS: add --blocked-mcp-server-names flag
+      IS: increate limits for Google One plan users
+== lesteral | User | name=None | co=None | loc=None | created=2020-10-21 | bio='' | gitnames=[]
+      IS: Error discovering prompts from github: MCP error -32601: prompts not supported
+      IS: "Emacs" missing from /editor selection list
+      IS: in /help, provide full URL for docs/keyboard-shortcuts.md
+      IS: in the Bug Report template - `gemini /about` - can't be used as instructed
+== lohitha98 | User | name=Lohitha Kandregula | co=None | loc=None | created=2021-06-16 | bio='' | gitnames=[]
+      PR: fix(release): Use 'npm run bundle' to correctly build package
+== lohithak98 | User | name=Lohitha Kandregula | co=None | loc=None | created=2025-08-12 | bio='' | gitnames=[]
+      PR: fix(release): Use 'npm run bundle' to correctly build package
+      IS: Adds mcp_servers, mcp_servers_count, mcp_tools_count as dimensions for clearcut logging
+      IS: Add tool_type as a dimension to tool_call metric and clearcut logging.
+== luca-s | User | name=None | co=None | loc=None | created=2015-10-24 | bio='Yet another temporary living creature of the universe' | gitnames=[]
+      IS: sandboxing: confused by "Warning: You are running Gemini CLI in the root directory"
+== lucaps | User | name=None | co=None | loc=None | created=2014-11-21 | bio='' | gitnames=[]
+      IS: API key / auth conflict
+== luis-botelho-pereira | User | name=Luís Botelho Pereira | co=None | loc=Lisboa | created=2016-06-17 | bio='' | gitnames=[]
+      IS: Gemini CLI v0.57.0 hangs on "Waiting for authentication..." in subdirectories on macOS
+== lukiod | None | name=None | co=None | loc=None | created=None | bio='' | gitnames=[]
+      IS: 
+== orchidfire | User | name=None | co=None | loc=None | created=2019-09-12 | bio='' | gitnames=[]
+      IS: When does the 1000 calls per day limit reset?
+      IS: Gemini 2.5 flash works. But how can we use Gemini 2.5 pro  ?
+      IS: Could not discover project ID. Make sure you're authenticated with 'gemini auth'.
+      IS: API key in .env file (Which .env file?)
+== osbornesec | User | name=None | co=None | loc=None | created=2023-08-18 | bio='' | gitnames=['osbornesec']
+      PR: fix: prevent RangeError in GitIgnoreParser for root paths
+      PR: feat: implement dynamic system prompt adaptation
+      PR: feat: implement dynamic system prompt adaptation
+      PR: feat: Complete modular prompt system implementation
+== p68175655-bot | User | name=None | co=None | loc=None | created=2025-10-06 | bio='' | gitnames=[]
+      IS: GeminiCLI.com Feedback: [ISSUE]
+== pragnyanramtha | User | name=Pragnyan Ramtha | co=paresewave.ai | loc=San Francisco | created=2025-01-23 | bio='AI Research Engineer @ Parsewave AI' | gitnames=[]
+      PR: Fix/sudo bug
+      PR: fix(cli): support Volta auto updates
+      PR: fix(core): buffer chat compression telemetry
+      PR: fix(core): skip missing include directories on startup
+== raiki61 | User | name=Alexander | co=None | loc=Japan | created=2023-05-18 | bio='Good luck and all the best to you.' | gitnames=['Alexander']
+      PR: refactor(core): use assertConnected in McpClient discover method
+      IS: Refactor McpClientManager: Make discoverAllMcpTools Pure and Testable
+      IS: refactor(core): Use assertConnected in McpClient's discover method
+      C: refactor(core): use assertConnected in McpClient discover method (#10…
+== raybell-md | User | name=Ray Bell | co=State of Maryland | loc=Annapolis | created=2025-01-27 | bio='' | gitnames=[]
+      PR: Update .prettierrc.json
+      IS: add auth info to /about
+      IS: clasp gemini cli extension
+      IS: /commands command
+== realharry | User | name=harry y | co=@nuttyphysics  | loc=San Francisco | created=2017-05-18 | bio='Software sorcerer.\r\n' | gitnames=[]
+      IS: "I am very sorry, but it seems I am unable to solve this issue for you." - Gemini should automatically set
+      IS: Prompt Input Box scrolls beyond the terminal's visible area during command autocomplete suggestion
+      IS: GOOGLE_API_KEY not recognized in auth
+      IS: !Shell Escape
+== renuka16032007 | User | name=None | co=None | loc=None | created=2025-11-24 | bio='' | gitnames=[]
+      PR: Fix harness crash
+      PR: Defense techniques fix
+      PR: fix: skip normalization for long strings to avoid ENAMETOOLONG crash
+      PR: Fix theme response key
+== richardkmichael | User | name=Richard Michael | co=None | loc=None | created=2010-08-14 | bio='' | gitnames=['Richard Michael']
+      PR: Update mcp-server.md
+      IS: `mcp add ...` is difficult to use
+      C: Update mcp-server.md (#12310)
+== rnett | User | name=Ryan Nett | co=@Gradle | loc=None | created=2017-09-25 | bio='Senior Software Engineer @gradle (Develocity)' | gitnames=[]
+      IS: Config to grant subagent access to all tools
+      IS: Plan mode to create an investigation plan does not work well
+      IS: Terrible terminal jitter with multiple subagents
+      IS: Tool prefixes seem to confuse agent
+== samroi87 | User | name=None | co=None | loc=None | created=2026-01-13 | bio='' | gitnames=[]
+      IS: SyntaxError: Unterminated string in JSON in ChatRecordingService.readConversation
+      IS: fata error
+      IS: fatal error again!
+      IS: Aborted Task and Closed Agent
+== schygge | User | name=Johannes Schygge | co=None | loc=None | created=2012-03-22 | bio='' | gitnames=[]
+      IS: Agent Enters "Self-Assured Loop" - Claims Action but Executes No Tools (API 400/Silent Fail)
+      IS: API 400
+      IS: API 400 bug still alive in Version 0.41
+      IS: Silent Tool Execution Failure (Phantom Responses) during Log Retrieval
+== serithemage | User | name=Jung Do Hyun | co=roboco.io | loc=Seoul Korea | created=2013-01-31 | bio='Vibe Coding Consultant' | gitnames=[]
+      IS: [Phase 5.2] 에러 핸들링 강화 - 사용자 친화적 메시지
+      IS: [Phase 5.1] 성능 최적화 - Rate Limit, 응답시간, 메모리
+      IS: [Phase 4.2] Solar Code 문서화 작업
+      IS: [Phase 4.1] 테스트 시스템 Solar Pro2 호환 업데이트
+== shishu314 | User | name=None | co=None | loc=None | created=2014-09-04 | bio='' | gitnames=['shishu314']
+      PR: fix(cli) - Move logging into CodeAssistServer
+      PR: fix: Restore user input when the user cancels response
+      PR: Compression input
+      PR: Log yolo mode + number of turns
+== shishu314-alt | User | name=None | co=None | loc=None | created=2025-10-07 | bio='' | gitnames=['shishu314-alt']
+      PR: Remove e2 e label
+      PR: fix(infra) - Remove e2e maintainer label from e2e workflow
+      PR: E2efix
+      PR: feat(infra)- Add PR event to trigger e2e
+== smorin | User | name=Steve Morin | co=@flox  | loc=San Francisco/New York City | created=2009-09-09 | bio='CTO, Hacker, Entrepreneur, AI Code, AdTech Guy, BigData Expert, Party Planner, F' | gitnames=[]
+      IS: Gemini Ultra Subscriber and being told don't have access to Gemini 3 Pro in Gemini CLI
+== smsorin | User | name=Sorin Stancu-Mara | co=None | loc=Zurich, Switzerland | created=2009-12-01 | bio='' | gitnames=[]
+      IS: I keep approving tool calls but for some reason not visible to me the settings are not saved.
+== sniemczyk-google | User | name=Steve Niemczyk | co=Google | loc=New York, NY | created=2025-08-15 | bio='' | gitnames=[]
+      IS: Gemini CLI Fails to Parse ToolError from Custom MCP Server
+      IS: -e/--extensions flag does not override disabledExtensions setting in settings.json
+      IS: Positional prompt argument is ignored when other flags are present
+      IS: Regression: Positional prompt argument is still ignored with other flags
+== splint-disk-8i | None | name=None | co=None | loc=None | created=None | bio='' | gitnames=[]
+      C: docs: fix grammar in CONTRIBUTING and numbering in sandbox docs (#23448)
+== steren | User | name=Steren | co=@google  | loc=San Francisco | created=2010-08-11 | bio='Engineer turned product manager' | gitnames=['Steren']
+      PR: Fix 404 URL for Vertex Auth
+      PR: Dockerfile: Node 22 and ENTRYPOINT
+      PR: Add link to Configure page for tools and MCP in main README
+      PR: Add link to Configure page for tools and MCP in main README
+== steventohme | User | name=Steven | co=@weave-os | loc=San Francisco Bay Area | created=2019-10-15 | bio='Engineer #1 @weave-os ' | gitnames=['Steven']
+      PR: feat(telemetry): Add email to telemetry prompt
+      IS: Add user.email to telemetry
+      C: feat(telemetry): Add email to telemetry prompt (#6339)
+== timezyme | User | name=TimeZyme | co=None | loc=None | created=2025-03-30 | bio='' | gitnames=[]
+      IS: [API Error: Cannot read properties of undefined (reading 'sendMessageStream')]
+      IS: Cannot read properties of undefined (reading 'sendMessageStream')
+      IS: gemini just quits
+      IS: replace tool is failing message repeatedly shows
+== timothyfroehlich | User | name=Tim Froehlich | co=@google | loc=Austin, TX | created=2013-10-31 | bio='' | gitnames=[]
+      IS: Gemini approved and merged a PR that I had asked it to help me review, without my permission.
+      IS: Gemini seems to not know when when "No changes detected."
+      IS: When including multiple directories, @'ing a directory seems to pull in directories that match in all incl
+      IS: Bug report link generated by /bug is split over multiple lines. Alt+clicking in Antigravity's terminal tru
+== tusaryan | User | name=Aryan Kumar | co=None | loc=India | created=2023-12-16 | bio='Software Engineer | Machine Learning, Agentic AI & Full-Stack Development | \r\nPa' | gitnames=['Aryan Kumar']
+      PR: test(core): add unit tests for gitUtils and fix comment link syntax
+      PR: test(core): add unit tests for httpErrors and quotaErrorDetection
+      PR: test(core): add unit tests for grep-utils
+      PR: test(core): add unit tests for stable-stringify
+== vsukhoml | User | name=Vadím Sukhomlínov | co=Google | loc=United States, Santa Clara, CA | created=2013-06-14 | bio='' | gitnames=[]
+      IS: Sudden crash on start
+      IS: Hang on  `context.includeDirectories` pointing to non-existent directory
+      IS: Ask for permission to access files/links outside of the workspace directories
+      IS: Gemini 3.0 Pro: "My write_file calls are still producing multi-line strings"
+== werdnum | User | name=Andrew Garrett | co=@Google | loc=Sydney | created=2010-05-08 | bio='' | gitnames=['Andrew Garrett']
+      PR: feat(cli): Add --allowed-tools flag to bypass tool confirmation (#2417)
+      PR: Fix backwards-compatibility for allowedTools -> tools.allowed
+      PR: feat(shell): Add security checks for chained commands
+      PR: feat: Granular 'always allow' options for shell commands
+== ymichael | User | name=Michael Yong | co=None | loc=San Francisco | created=2011-02-10 | bio='Software Engineer' | gitnames=[]
+      PR: fix(cli): fix resume validation to correctly check for prompt input
+== zhaowy313 | User | name=None | co=None | loc=None | created=2015-04-13 | bio='' | gitnames=[]
+      IS: Conductor Setup Error
+== zhaowy3131 | User | name=None | co=None | loc=None | created=2022-08-15 | bio='' | gitnames=[]
+      IS: f12 bug report for 0.26.0

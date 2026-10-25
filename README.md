@@ -20,20 +20,41 @@ This project contains all the code used for the Capstone Software Engineering re
    uv sync
    ```
 
-## Running the Sub-Modules
+## Repository Layout
 
-Each component in the `src/` directory can be executed using `uv run`:
+```
+interim/                    code for the interim report
+  activities/               activities notebook
+  collaboration/            uv run collaboration
+  contributors/             uv run contributors
+  project_overview/         package diagram (PlantUML source + PNG)
+  output/                   generated interim tables and charts
+final/                      code for the final report, one folder per section
+  project_health/           Section 3: scripts, data/ and figures/
+  project_quality/          Section 2: put the quality analysis code here
+```
 
-| Command | 
+## Running the Interim Modules
+
+| Command |
 | :--- |
 | `uv run collaboration` |
-| `uv run activities` | 
-| `uv run code_analysis` |
 | `uv run contributors` |
-| `uv run design_and_architecture` | 
-| `uv run documentation_analysis` |
-| `uv run project_overview` |
-| `uv run quality_attributes` |
+
+## Running the Project Health Analysis
+
+Run from the repository root; `fetch_*` scripts need `GITHUB_TOKEN` in `.env`. The other scripts work offline on the saved data in `final/project_health/data/`.
+
+| Step | Command |
+| :--- | :--- |
+| Collect census and sample | `uv run python final/project_health/fetch_data.py` |
+| Collect identity data | `uv run python final/project_health/fetch_identity_data.py` |
+| Collect PR branch names | `uv run python final/project_health/fetch_branch_names.py` |
+| Bot / alias candidates | `uv run python final/project_health/detect_accounts.py` |
+| Figures and metric summary | `uv run python final/project_health/generate_figures.py` |
+| Qualitative sample dump | `uv run python final/project_health/dump_qualitative_sample.py` |
+
+Account decisions (bots, aliases) live in `final/project_health/account_decisions.json`.
 
 ## Adding Project Dependencies
 

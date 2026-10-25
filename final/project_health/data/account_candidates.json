@@ -1,0 +1,1312 @@
+{
+ "population": 8692,
+ "bot_candidates": [
+  {
+   "login": "gemini-cli-robot",
+   "commits": 172,
+   "prs": 673,
+   "issues": 47,
+   "account_type": "User",
+   "reasons": [
+    "Known bot username"
+   ]
+  },
+  {
+   "login": "dependabot",
+   "commits": 0,
+   "prs": 339,
+   "issues": 0,
+   "account_type": "Organization",
+   "reasons": [
+    "Name pattern `bot'",
+    "Task skew: 100% prs"
+   ]
+  },
+  {
+   "login": "Neinndall",
+   "commits": 0,
+   "prs": 0,
+   "issues": 145,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "google-admin",
+   "commits": 1,
+   "prs": 100,
+   "issues": 1,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 98% prs",
+    "Template titles: 101/102 start with `refactor github action per'"
+   ]
+  },
+  {
+   "login": "Codeleafly",
+   "commits": 0,
+   "prs": 0,
+   "issues": 63,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "gemini-cli",
+   "commits": 0,
+   "prs": 60,
+   "issues": 0,
+   "account_type": "User",
+   "reasons": [
+    "Author of 8 bot-fix PR(s)",
+    "Known bot username",
+    "Task skew: 100% prs"
+   ]
+  },
+  {
+   "login": "github-actions",
+   "commits": 0,
+   "prs": 20,
+   "issues": 31,
+   "account_type": "NotFound",
+   "reasons": [
+    "API: not a user account",
+    "Known bot username"
+   ]
+  },
+  {
+   "login": "jyongchul",
+   "commits": 0,
+   "prs": 0,
+   "issues": 48,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "emilyhedlund",
+   "commits": 44,
+   "prs": 0,
+   "issues": 0,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% commits"
+   ]
+  },
+  {
+   "login": "guidedways",
+   "commits": 0,
+   "prs": 1,
+   "issues": 42,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 98% issues"
+   ]
+  },
+  {
+   "login": "PierrunoYT",
+   "commits": 0,
+   "prs": 2,
+   "issues": 39,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 95% issues"
+   ]
+  },
+  {
+   "login": "rnett",
+   "commits": 0,
+   "prs": 0,
+   "issues": 36,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "SkybuckFlying",
+   "commits": 0,
+   "prs": 2,
+   "issues": 33,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 94% issues"
+   ]
+  },
+  {
+   "login": "schygge",
+   "commits": 0,
+   "prs": 0,
+   "issues": 33,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "gitenstuff",
+   "commits": 0,
+   "prs": 0,
+   "issues": 27,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "appsforartists",
+   "commits": 0,
+   "prs": 0,
+   "issues": 25,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "filyanashwoodbu525-lgtm",
+   "commits": 0,
+   "prs": 0,
+   "issues": 25,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "kunalrawat425",
+   "commits": 0,
+   "prs": 23,
+   "issues": 0,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% prs"
+   ]
+  },
+  {
+   "login": "timezyme",
+   "commits": 0,
+   "prs": 0,
+   "issues": 22,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "brychanrobot",
+   "commits": 7,
+   "prs": 11,
+   "issues": 1,
+   "account_type": "User",
+   "reasons": [
+    "Name pattern `robot'"
+   ]
+  },
+  {
+   "login": "epicwhale",
+   "commits": 0,
+   "prs": 0,
+   "issues": 19,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "he-yufeng",
+   "commits": 0,
+   "prs": 19,
+   "issues": 0,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% prs"
+   ]
+  },
+  {
+   "login": "corneliusroemer",
+   "commits": 0,
+   "prs": 0,
+   "issues": 18,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "coygeek",
+   "commits": 0,
+   "prs": 0,
+   "issues": 18,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "Eswar809",
+   "commits": 1,
+   "prs": 16,
+   "issues": 0,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 94% prs"
+   ]
+  },
+  {
+   "login": "enjoykumawat",
+   "commits": 1,
+   "prs": 16,
+   "issues": 0,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 94% prs"
+   ]
+  },
+  {
+   "login": "kurokirasama",
+   "commits": 0,
+   "prs": 0,
+   "issues": 17,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "Br1an67",
+   "commits": 1,
+   "prs": 15,
+   "issues": 0,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 94% prs"
+   ]
+  },
+  {
+   "login": "danielcregg20",
+   "commits": 0,
+   "prs": 0,
+   "issues": 16,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "danutsu",
+   "commits": 0,
+   "prs": 0,
+   "issues": 16,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "jeffery9",
+   "commits": 0,
+   "prs": 0,
+   "issues": 16,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "Louis454545",
+   "commits": 1,
+   "prs": 14,
+   "issues": 0,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 93% prs"
+   ]
+  },
+  {
+   "login": "akabarki76",
+   "commits": 0,
+   "prs": 14,
+   "issues": 1,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 93% prs"
+   ]
+  },
+  {
+   "login": "pragnyanramtha",
+   "commits": 0,
+   "prs": 15,
+   "issues": 0,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% prs"
+   ]
+  },
+  {
+   "login": "raybell-md",
+   "commits": 0,
+   "prs": 1,
+   "issues": 14,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 93% issues"
+   ]
+  },
+  {
+   "login": "realharry",
+   "commits": 0,
+   "prs": 0,
+   "issues": 15,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "KarelTestSpecial",
+   "commits": 0,
+   "prs": 0,
+   "issues": 14,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "Niso4ever",
+   "commits": 0,
+   "prs": 0,
+   "issues": 14,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "dependabot[bot]",
+   "commits": 14,
+   "prs": 0,
+   "issues": 0,
+   "account_type": "NotFound",
+   "reasons": [
+    "API: not a user account",
+    "Known bot username",
+    "Task skew: 100% commits"
+   ]
+  },
+  {
+   "login": "jpmartins98",
+   "commits": 0,
+   "prs": 1,
+   "issues": 13,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 93% issues"
+   ]
+  },
+  {
+   "login": "lesteral",
+   "commits": 0,
+   "prs": 0,
+   "issues": 14,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "vsukhoml",
+   "commits": 0,
+   "prs": 0,
+   "issues": 14,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "chelsealong",
+   "commits": 0,
+   "prs": 13,
+   "issues": 0,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% prs"
+   ]
+  },
+  {
+   "login": "Cyber-Oscar",
+   "commits": 0,
+   "prs": 0,
+   "issues": 12,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "Manamama",
+   "commits": 0,
+   "prs": 0,
+   "issues": 12,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "hedges333",
+   "commits": 0,
+   "prs": 0,
+   "issues": 12,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "jasonisop",
+   "commits": 0,
+   "prs": 0,
+   "issues": 12,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "jazir555",
+   "commits": 0,
+   "prs": 0,
+   "issues": 12,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "serithemage",
+   "commits": 0,
+   "prs": 0,
+   "issues": 12,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "agileandy",
+   "commits": 0,
+   "prs": 0,
+   "issues": 11,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "aidaiprivate-source",
+   "commits": 0,
+   "prs": 0,
+   "issues": 11,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "bhalsodnikunjhiteshbhai",
+   "commits": 0,
+   "prs": 11,
+   "issues": 0,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% prs"
+   ]
+  },
+  {
+   "login": "danowar2",
+   "commits": 0,
+   "prs": 0,
+   "issues": 11,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues",
+    "Template titles: 9/11 start with `mda@anowarr.com'"
+   ]
+  },
+  {
+   "login": "dylanyunlon",
+   "commits": 0,
+   "prs": 11,
+   "issues": 0,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% prs"
+   ]
+  },
+  {
+   "login": "orchidfire",
+   "commits": 0,
+   "prs": 0,
+   "issues": 11,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "renuka16032007",
+   "commits": 0,
+   "prs": 11,
+   "issues": 0,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% prs"
+   ]
+  },
+  {
+   "login": "sniemczyk-google",
+   "commits": 0,
+   "prs": 0,
+   "issues": 11,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "IT-Knight",
+   "commits": 0,
+   "prs": 0,
+   "issues": 10,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "RandomTurtle",
+   "commits": 0,
+   "prs": 0,
+   "issues": 10,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "Rithvickkr",
+   "commits": 0,
+   "prs": 1,
+   "issues": 9,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 90% issues"
+   ]
+  },
+  {
+   "login": "UnsettledAverage73",
+   "commits": 0,
+   "prs": 9,
+   "issues": 1,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 90% prs"
+   ]
+  },
+  {
+   "login": "Xsidz",
+   "commits": 0,
+   "prs": 10,
+   "issues": 0,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% prs"
+   ]
+  },
+  {
+   "login": "Zeor-Xain",
+   "commits": 0,
+   "prs": 0,
+   "issues": 10,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "gspencergoog",
+   "commits": 0,
+   "prs": 0,
+   "issues": 10,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "samroi87",
+   "commits": 0,
+   "prs": 0,
+   "issues": 10,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "timothyfroehlich",
+   "commits": 0,
+   "prs": 0,
+   "issues": 10,
+   "account_type": "User",
+   "reasons": [
+    "Task skew: 100% issues"
+   ]
+  },
+  {
+   "login": "Ahamed-X",
+   "commits": 0,
+   "prs": 0,
+   "issues": 5,
+   "account_type": "User",
+   "reasons": [
+    "Template titles: 4/5 start with `geminicli.com feedback: [issue]'"
+   ]
+  },
+  {
+   "login": "harshanadim",
+   "commits": 1,
+   "prs": 2,
+   "issues": 2,
+   "account_type": "User",
+   "reasons": [
+    "Template titles: 4/5 start with `feat(cli): add quick clear'"
+   ]
+  },
+  {
+   "login": "howellbrett98-bot",
+   "commits": 0,
+   "prs": 0,
+   "issues": 5,
+   "account_type": "User",
+   "reasons": [
+    "Name pattern `bot'"
+   ]
+  },
+  {
+   "login": "Manamama-Gemini-Cloud-AI-01",
+   "commits": 0,
+   "prs": 0,
+   "issues": 4,
+   "account_type": "User",
+   "reasons": [
+    "Name pattern `gemini'"
+   ]
+  },
+  {
+   "login": "gemini-cli[bot]",
+   "commits": 4,
+   "prs": 0,
+   "issues": 0,
+   "account_type": "NotFound",
+   "reasons": [
+    "API: not a user account",
+    "Name pattern `gemini'"
+   ]
+  },
+  {
+   "login": "Usernamegemini",
+   "commits": 0,
+   "prs": 0,
+   "issues": 3,
+   "account_type": "User",
+   "reasons": [
+    "Name pattern `gemini'"
+   ]
+  },
+  {
+   "login": "google-allstar-prod",
+   "commits": 0,
+   "prs": 0,
+   "issues": 3,
+   "account_type": "NotFound",
+   "reasons": [
+    "API: not a user account"
+   ]
+  },
+  {
+   "login": "Earlbotay",
+   "commits": 0,
+   "prs": 0,
+   "issues": 2,
+   "account_type": "User",
+   "reasons": [
+    "Name pattern `bot'"
+   ]
+  },
+  {
+   "login": "Niladri Das",
+   "commits": 2,
+   "prs": 0,
+   "issues": 0,
+   "account_type": "NotFound",
+   "reasons": [
+    "API: not a user account"
+   ]
+  },
+  {
+   "login": "PakCyberbot",
+   "commits": 0,
+   "prs": 1,
+   "issues": 1,
+   "account_type": "User",
+   "reasons": [
+    "Name pattern `bot'"
+   ]
+  },
+  {
+   "login": "Silentbotbd",
+   "commits": 0,
+   "prs": 0,
+   "issues": 2,
+   "account_type": "User",
+   "reasons": [
+    "Name pattern `bot'"
+   ]
+  },
+  {
+   "login": "AitchEm-bot",
+   "commits": 0,
+   "prs": 0,
+   "issues": 1,
+   "account_type": "User",
+   "reasons": [
+    "Name pattern `bot'"
+   ]
+  },
+  {
+   "login": "Ayush Debnath",
+   "commits": 1,
+   "prs": 0,
+   "issues": 0,
+   "account_type": "NotFound",
+   "reasons": [
+    "API: not a user account"
+   ]
+  },
+  {
+   "login": "Dylan liu",
+   "commits": 1,
+   "prs": 0,
+   "issues": 0,
+   "account_type": "NotFound",
+   "reasons": [
+    "API: not a user account"
+   ]
+  },
+  {
+   "login": "GeminiJules",
+   "commits": 0,
+   "prs": 0,
+   "issues": 1,
+   "account_type": "User",
+   "reasons": [
+    "Name pattern `gemini'"
+   ]
+  },
+  {
+   "login": "Grant McCloskey",
+   "commits": 1,
+   "prs": 0,
+   "issues": 0,
+   "account_type": "NotFound",
+   "reasons": [
+    "API: not a user account"
+   ]
+  },
+  {
+   "login": "Kirill Klashtorny",
+   "commits": 1,
+   "prs": 0,
+   "issues": 0,
+   "account_type": "NotFound",
+   "reasons": [
+    "API: not a user account"
+   ]
+  },
+  {
+   "login": "L\u00ea Nam Kh\u00e1nh",
+   "commits": 1,
+   "prs": 0,
+   "issues": 0,
+   "account_type": "NotFound",
+   "reasons": [
+    "API: not a user account"
+   ]
+  },
+  {
+   "login": "Mollik-Agrobotics",
+   "commits": 0,
+   "prs": 0,
+   "issues": 1,
+   "account_type": "User",
+   "reasons": [
+    "Name pattern `robot'"
+   ]
+  },
+  {
+   "login": "Peaceacebot",
+   "commits": 0,
+   "prs": 0,
+   "issues": 1,
+   "account_type": "User",
+   "reasons": [
+    "Name pattern `bot'"
+   ]
+  },
+  {
+   "login": "Shaswat Raj",
+   "commits": 1,
+   "prs": 0,
+   "issues": 0,
+   "account_type": "NotFound",
+   "reasons": [
+    "API: not a user account"
+   ]
+  },
+  {
+   "login": "Thanh Nguyen",
+   "commits": 1,
+   "prs": 0,
+   "issues": 0,
+   "account_type": "NotFound",
+   "reasons": [
+    "API: not a user account"
+   ]
+  },
+  {
+   "login": "TheLazyRobot",
+   "commits": 0,
+   "prs": 0,
+   "issues": 1,
+   "account_type": "User",
+   "reasons": [
+    "Name pattern `robot'"
+   ]
+  },
+  {
+   "login": "alegonzaleztevez-bot",
+   "commits": 0,
+   "prs": 0,
+   "issues": 1,
+   "account_type": "User",
+   "reasons": [
+    "Name pattern `bot'"
+   ]
+  },
+  {
+   "login": "allin-gemini",
+   "commits": 0,
+   "prs": 1,
+   "issues": 0,
+   "account_type": "User",
+   "reasons": [
+    "Name pattern `gemini'"
+   ]
+  },
+  {
+   "login": "anoobis-bot",
+   "commits": 0,
+   "prs": 0,
+   "issues": 1,
+   "account_type": "User",
+   "reasons": [
+    "Name pattern `bot'"
+   ]
+  },
+  {
+   "login": "bushibot",
+   "commits": 0,
+   "prs": 0,
+   "issues": 1,
+   "account_type": "User",
+   "reasons": [
+    "Name pattern `bot'"
+   ]
+  },
+  {
+   "login": "citlyze-bot",
+   "commits": 0,
+   "prs": 0,
+   "issues": 1,
+   "account_type": "User",
+   "reasons": [
+    "Name pattern `bot'"
+   ]
+  },
+  {
+   "login": "flox-bot",
+   "commits": 0,
+   "prs": 0,
+   "issues": 1,
+   "account_type": "User",
+   "reasons": [
+    "Name pattern `bot'"
+   ]
+  },
+  {
+   "login": "fluffyrabbot",
+   "commits": 0,
+   "prs": 0,
+   "issues": 1,
+   "account_type": "User",
+   "reasons": [
+    "Name pattern `bot'"
+   ]
+  },
+  {
+   "login": "iOGeminis",
+   "commits": 0,
+   "prs": 0,
+   "issues": 1,
+   "account_type": "User",
+   "reasons": [
+    "Name pattern `gemini'"
+   ]
+  },
+  {
+   "login": "luis-botelho-pereira",
+   "commits": 0,
+   "prs": 0,
+   "issues": 1,
+   "account_type": "User",
+   "reasons": [
+    "Name pattern `bot'"
+   ]
+  },
+  {
+   "login": "lukiod",
+   "commits": 0,
+   "prs": 0,
+   "issues": 1,
+   "account_type": "NotFound",
+   "reasons": [
+    "API: not a user account"
+   ]
+  },
+  {
+   "login": "p68175655-bot",
+   "commits": 0,
+   "prs": 0,
+   "issues": 1,
+   "account_type": "User",
+   "reasons": [
+    "Name pattern `bot'"
+   ]
+  },
+  {
+   "login": "splint-disk-8i",
+   "commits": 1,
+   "prs": 0,
+   "issues": 0,
+   "account_type": "NotFound",
+   "reasons": [
+    "API: not a user account"
+   ]
+  }
+ ],
+ "alt_candidates": [
+  {
+   "accounts": [
+    "ARYANKUMAR1",
+    "tusaryan"
+   ],
+   "reasons": [
+    "Levenshtein distance: 1 edit (`aryankumar1' / `aryankumar')"
+   ],
+   "activity": {
+    "ARYANKUMAR1": 1,
+    "tusaryan": 15
+   }
+  },
+  {
+   "accounts": [
+    "Grant McCloskey",
+    "MushuEE"
+   ],
+   "reasons": [
+    "Levenshtein distance: 1 edit (`grant mccloskey' / `grantmccloskey')"
+   ],
+   "activity": {
+    "Grant McCloskey": 1,
+    "MushuEE": 7
+   }
+  },
+  {
+   "accounts": [
+    "Kkartik14",
+    "kartikangiras"
+   ],
+   "reasons": [
+    "Identical name/email string (`kartik' / `kartik')"
+   ],
+   "activity": {
+    "Kkartik14": 2,
+    "kartikangiras": 14
+   }
+  },
+  {
+   "accounts": [
+    "Niladri Das",
+    "bniladridas"
+   ],
+   "reasons": [
+    "Levenshtein distance: 1 edit (`niladri das' / `niladridas')"
+   ],
+   "activity": {
+    "Niladri Das": 2,
+    "bniladridas": 24
+   }
+  },
+  {
+   "accounts": [
+    "ahamed-i7",
+    "ahamed-t7"
+   ],
+   "reasons": [
+    "Levenshtein distance: 1 edit (`ahamed-i7' / `ahamed-t7')"
+   ],
+   "activity": {
+    "ahamed-i7": 2,
+    "ahamed-t7": 2
+   }
+  },
+  {
+   "accounts": [
+    "andrewabaxter",
+    "andrewbaxter"
+   ],
+   "reasons": [
+    "Levenshtein distance: 1 edit (`andrewabaxter' / `andrewbaxter')"
+   ],
+   "activity": {
+    "andrewabaxter": 1,
+    "andrewbaxter": 1
+   }
+  },
+  {
+   "accounts": [
+    "bisma-nawaz",
+    "bisma-nawazz"
+   ],
+   "reasons": [
+    "Levenshtein distance: 1 edit (`bisma-nawaz' / `bisma-nawazz')"
+   ],
+   "activity": {
+    "bisma-nawaz": 3,
+    "bisma-nawazz": 1
+   }
+  },
+  {
+   "accounts": [
+    "cpravetz",
+    "jpravetz"
+   ],
+   "reasons": [
+    "Levenshtein distance: 1 edit (`cpravetz' / `jpravetz')"
+   ],
+   "activity": {
+    "cpravetz": 1,
+    "jpravetz": 1
+   }
+  },
+  {
+   "accounts": [
+    "ei-grad",
+    "werdnum"
+   ],
+   "reasons": [
+    "Identical name/email string (`andrew' / `andrew')"
+   ],
+   "activity": {
+    "ei-grad": 5,
+    "werdnum": 28
+   }
+  },
+  {
+   "accounts": [
+    "hcross",
+    "iCross"
+   ],
+   "reasons": [
+    "Levenshtein distance: 1 edit (`hcross' / `icross')"
+   ],
+   "activity": {
+    "hcross": 1,
+    "iCross": 4
+   }
+  },
+  {
+   "accounts": [
+    "hemanth",
+    "jarvisphere"
+   ],
+   "reasons": [
+    "Levenshtein distance: 1 edit (`hemanth' / `hemant')"
+   ],
+   "activity": {
+    "hemanth": 1,
+    "jarvisphere": 2
+   }
+  },
+  {
+   "accounts": [
+    "jaegeral",
+    "raiki61"
+   ],
+   "reasons": [
+    "Levenshtein distance: 1 edit (`alexanderj' / `alexander')"
+   ],
+   "activity": {
+    "jaegeral": 2,
+    "raiki61": 4
+   }
+  },
+  {
+   "accounts": [
+    "kevinfjiang",
+    "kevinjwang1"
+   ],
+   "reasons": [
+    "Levenshtein distance: 1 edit (`kevinjiang' / `kevinjwang')"
+   ],
+   "activity": {
+    "kevinfjiang": 5,
+    "kevinjwang1": 55
+   }
+  },
+  {
+   "accounts": [
+    "lohitha98",
+    "lohithak98"
+   ],
+   "reasons": [
+    "Levenshtein distance: 1 edit (`lohitha98' / `lohithak98')"
+   ],
+   "activity": {
+    "lohitha98": 1,
+    "lohithak98": 3
+   }
+  },
+  {
+   "accounts": [
+    "luca-s",
+    "lucaps"
+   ],
+   "reasons": [
+    "Levenshtein distance: 1 edit (`luca-s' / `lucaps')"
+   ],
+   "activity": {
+    "luca-s": 1,
+    "lucaps": 1
+   }
+  },
+  {
+   "accounts": [
+    "osbornesec",
+    "richardkmichael"
+   ],
+   "reasons": [
+    "Levenshtein distance: 1 edit (`michael' / `rmichael')"
+   ],
+   "activity": {
+    "osbornesec": 5,
+    "richardkmichael": 3
+   }
+  },
+  {
+   "accounts": [
+    "osbornesec",
+    "ymichael"
+   ],
+   "reasons": [
+    "Levenshtein distance: 1 edit (`michael' / `ymichael')"
+   ],
+   "activity": {
+    "osbornesec": 5,
+    "ymichael": 1
+   }
+  },
+  {
+   "accounts": [
+    "richardkmichael",
+    "ymichael"
+   ],
+   "reasons": [
+    "Levenshtein distance: 1 edit (`rmichael' / `ymichael')"
+   ],
+   "activity": {
+    "richardkmichael": 3,
+    "ymichael": 1
+   }
+  },
+  {
+   "accounts": [
+    "shishu314",
+    "shishu314-alt"
+   ],
+   "reasons": [
+    "Affix match"
+   ],
+   "activity": {
+    "shishu314": 175,
+    "shishu314-alt": 5
+   }
+  },
+  {
+   "accounts": [
+    "smorin",
+    "smsorin"
+   ],
+   "reasons": [
+    "Levenshtein distance: 1 edit (`smorin' / `smsorin')"
+   ],
+   "activity": {
+    "smorin": 1,
+    "smsorin": 1
+   }
+  },
+  {
+   "accounts": [
+    "steren",
+    "steventohme"
+   ],
+   "reasons": [
+    "Levenshtein distance: 1 edit (`steren' / `steven')"
+   ],
+   "activity": {
+    "steren": 11,
+    "steventohme": 3
+   }
+  },
+  {
+   "accounts": [
+    "zhaowy313",
+    "zhaowy3131"
+   ],
+   "reasons": [
+    "Levenshtein distance: 1 edit (`zhaowy313' / `zhaowy3131')"
+   ],
+   "activity": {
+    "zhaowy313": 1,
+    "zhaowy3131": 1
+   }
+  }
+ ]
+}
